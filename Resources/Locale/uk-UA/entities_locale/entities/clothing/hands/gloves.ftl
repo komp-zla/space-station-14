@@ -70,3 +70,6 @@ ent-ClothingHandsGlovesNorthStar = gloves of the north star
 ent-ClothingHandsGlovesForensic = forensic gloves
     .desc = Do not leave fibers or fingerprints. If you work without them, you're A TERRIBLE DETECTIVE.
 
+ent-ClothingHandsGlovesJanitor = rubber gloves
+    .desc = High-quality rubber gloves, squeaky to do some cleaning!
+

@@ -22,3 +22,10 @@ ent-MobSpiderSpaceSalvage = { ent-MobSpiderSpace }
     .desc = { ent-MobSpiderSpace.desc }
     .suffix = "Salvage Ruleset"
 
+ent-MobCobraSpace = space cobra
+    .desc = Long fangs and a glowing hood, and the alluring look begs to come closer.
+
+ent-MobCobraSpaceSalvage = { ent-MobCobraSpace }
+    .desc = { ent-MobCobraSpace.desc }
+    .suffix = "Salvage Ruleset"
+

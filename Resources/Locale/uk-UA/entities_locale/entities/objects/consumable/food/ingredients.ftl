@@ -30,15 +30,6 @@ ent-ReagentContainerSugar = sugar bag
 ent-ReagentContainerSugarSmall = sugar pack
     .desc = A pack of tasty spacey sugar.
 
-ent-ReagentContainerMilk = milk
-    .desc = It's milk. White and nutritious goodness!
-
-ent-ReagentContainerMilkSoy = soy milk
-    .desc = It's soy milk. White and nutritious goodness!
-
-ent-ReagentContainerMilkOat = oat milk
-    .desc = It's oat milk. Tan and nutritious goodness!
-
 ent-ReagentContainerOliveoil = olive oil
     .desc = Olive oil. From space olives presumably.
 

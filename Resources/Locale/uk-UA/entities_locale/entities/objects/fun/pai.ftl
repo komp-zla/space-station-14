@@ -10,3 +10,6 @@ ent-PotatoAI = potato artificial intelligence
 ent-ActionPAIPlayMidi = Play MIDI
     .desc = Open your portable MIDI interface to soothe your owner.
 
+ent-ActionPAIOpenMap = Open Map
+    .desc = Open your map interface and guide your owner.
+

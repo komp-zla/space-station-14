@@ -7,8 +7,14 @@ ent-BaseItemRecharger = { ent-BaseRecharger }
 ent-PowerCellRecharger = cell recharger
     .desc = { ent-BaseItemRecharger.desc }
 
+ent-PowerCageRecharger = cage recharger
+    .desc = { ent-[ BaseItemRecharger, ConstructibleMachine ].desc }
+
 ent-WeaponCapacitorRecharger = recharger
     .desc = { ent-BaseItemRecharger.desc }
+
+ent-TurboItemRecharger = turbo recharger
+    .desc = An overclocked recharger that's been adapted with a global port.
 
 ent-WallWeaponCapacitorRecharger = wall recharger
     .desc = { ent-BaseItemRecharger.desc }

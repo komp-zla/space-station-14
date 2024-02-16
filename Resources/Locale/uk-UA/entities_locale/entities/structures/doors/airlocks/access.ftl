@@ -110,6 +110,10 @@ ent-AirlockMedicalScienceLocked = { ent-AirlockScience }
     .desc = { ent-AirlockScience.desc }
     .suffix = Medical/Science, Locked
 
+ent-AirlockCentralCommandLocked = { ent-AirlockCentralCommand }
+    .desc = { ent-AirlockCentralCommand.desc }
+    .suffix = Central Command, Locked
+
 ent-AirlockCommandLocked = { ent-AirlockCommand }
     .desc = { ent-AirlockCommand.desc }
     .suffix = Command, Locked
@@ -257,6 +261,10 @@ ent-AirlockScienceGlassLocked = { ent-AirlockScienceGlass }
 ent-AirlockMedicalScienceGlassLocked = { ent-AirlockScienceGlass }
     .desc = { ent-AirlockScienceGlass.desc }
     .suffix = Medical/Science, Locked
+
+ent-AirlockCentralCommandGlassLocked = { ent-AirlockCentralCommandGlass }
+    .desc = { ent-AirlockCentralCommandGlass.desc }
+    .suffix = Central Command, Locked
 
 ent-AirlockCommandGlassLocked = { ent-AirlockCommandGlass }
     .desc = { ent-AirlockCommandGlass.desc }
@@ -485,6 +493,10 @@ ent-AirlockExternalGlassShuttleArrivals = { ent-AirlockGlassShuttle }
 ent-AirlockExternalGlassShuttleEscape = { ent-AirlockGlassShuttle }
     .desc = { ent-AirlockGlassShuttle.desc }
     .suffix = External, Escape 3x4, Glass, Docking
+
+ent-HighSecCentralCommandLocked = { ent-HighSecDoor }
+    .desc = { ent-HighSecDoor.desc }
+    .suffix = Central Command, Locked
 
 ent-HighSecCommandLocked = { ent-HighSecDoor }
     .desc = { ent-HighSecDoor.desc }

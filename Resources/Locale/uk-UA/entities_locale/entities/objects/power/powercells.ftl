@@ -47,3 +47,27 @@ ent-PowerCellMicroreactorPrinted = { ent-PowerCellMicroreactor }
 ent-PowerCellAntiqueProto = antique power cell prototype
     .desc = A small cell that self recharges. Used in old laser arms research.
 
+ent-BasePowerCage = { ent-BasePowerCell }
+    .desc = { ent-BasePowerCell.desc }
+
+ent-PowerCageSmall = small-capacity power cage
+    .desc = A rechargeable power cage for big devices. This is the cheapest kind you can find.
+
+ent-PowerCageMedium = medium-capacity power cage
+    .desc = A rechargeable power cage for big devices. The gold standard of capacity and cost.
+
+ent-PowerCageHigh = high-capacity power cage
+    .desc = A rechargeable power cage for big devices. Increased capacity for increased power levels.
+
+ent-PowerCageSmallEmpty = { ent-PowerCageSmall }
+    .desc = { ent-PowerCageSmall.desc }
+    .suffix = Empty
+
+ent-PowerCageMediumEmpty = { ent-PowerCageMedium }
+    .desc = { ent-PowerCageMedium.desc }
+    .suffix = Empty
+
+ent-PowerCageHighEmpty = { ent-PowerCageHigh }
+    .desc = { ent-PowerCageHigh.desc }
+    .suffix = Empty
+

@@ -38,6 +38,16 @@ ent-ClothingHeadHatCatEars = cat ears
     .desc = []
     .suffix = DO NOT MAP
 
+ent-ClothingHeadHatDogEars = doggy ears
+    .desc = Only for good boys.
+    .suffix = DO NOT MAP
+
 ent-ClothingHeadHatSquid = squiddy
     .desc = []
+
+ent-ClothingHeadHatRedRacoon = red racoon hat
+    .desc = Fluffy hat of red racoon!
+
+ent-WaterDropletHat = water droplet
+    .desc = Makes 8-eyed friends 8 times more adorable!
 

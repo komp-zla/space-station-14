@@ -37,6 +37,9 @@ ent-CrateNPCGorilla = { ent-CrateLivestock }
 ent-CrateNPCMonkeyCube = { ent-CrateGenericSteel }
     .desc = { ent-CrateGenericSteel.desc }
 
+ent-CrateNPCKoboldCube = kobold cube crate
+    .desc = A crate containing single box of kobold cubes.
+
 ent-CrateNPCMouse = { ent-CrateLivestock }
     .desc = { ent-CrateLivestock.desc }
 
@@ -65,4 +68,7 @@ ent-CrateNPCLizard = { ent-CrateLivestock }
 
 ent-CrateNPCKangaroo = { ent-CrateLivestock }
     .desc = { ent-CrateLivestock.desc }
+
+ent-CrateNPCMothroach = crate of mothroaches
+    .desc = A crate containing four mothroaches.
 

@@ -16,3 +16,6 @@ ent-CartridgeMagnumIncendiary = cartridge (.45 magnum incendiary)
 ent-CartridgeMagnumAP = cartridge (.45 magnum armor-piercing)
     .desc = { ent-BaseCartridgeMagnum.desc }
 
+ent-CartridgeMagnumUranium = cartridge (.45 magnum uranium)
+    .desc = { ent-BaseCartridgeMagnum.desc }
+

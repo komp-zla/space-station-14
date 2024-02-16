@@ -10,6 +10,9 @@ ent-SoapDeluxe = soap
 ent-SoapSyndie = soap
     .desc = An untrustworthy bar of soap. Smells of fear.
 
+ent-SoapletSyndie = soaplet
+    .desc = A tiny piece of syndicate soap.
+
 ent-SoapHomemade = soap
     .desc = A homemade bar of soap. Smells of... well....
 

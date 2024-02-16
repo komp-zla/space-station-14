@@ -4,6 +4,9 @@ ent-ClothingHeadHatBeaverHat = beaver hat
 ent-ClothingHeadHatBeret = beret
     .desc = A beret, an artists favorite headwear.
 
+ent-ClothingHeadHatBeretFrench = French beret
+    .desc = A French beret, "vive la France".
+
 ent-ClothingHeadHatBeretSecurity = security beret
     .desc = A stylish clothing option for security officers.
 
@@ -15,6 +18,9 @@ ent-ClothingHeadHatBeretRND = scientific beret
 
 ent-ClothingHeadHatBeretEngineering = engineering beret
     .desc = A beret with the engineering insignia emblazoned on it. For engineers that are more inclined towards style than safety.
+
+ent-ClothingHeadHatBeretQM = quartermaster's beret
+    .desc = A beret with the cargo's insignia emblazoned on it. For quartermasters that are more inclined towards style.
 
 ent-ClothingHeadHatBeretHoS = head of security's beret
     .desc = A black beret with a commander's rank emblem. For officers that are more inclined towards style than safety.
@@ -186,4 +192,49 @@ ent-ClothingHeadHatCentcomcap = CentCom cap
 
 ent-ClothingHeadHatGladiator = Gladiator helmet
     .desc = Protects the head from harsh ash winds and toy spears.
+
+ent-ClothingHeadHatPartyRed = red party hat
+    .desc = Spread a joy!
+
+ent-ClothingHeadHatPartyYellow = yellow party hat
+    .desc = { ent-ClothingHeadHatPartyRed.desc }
+
+ent-ClothingHeadHatPartyGreen = green party hat
+    .desc = { ent-ClothingHeadHatPartyRed.desc }
+
+ent-ClothingHeadHatPartyBlue = blue party hat
+    .desc = { ent-ClothingHeadHatPartyRed.desc }
+
+ent-ClothingHeadHatPartyWaterCup = water cup party hat
+    .desc = Not as fulfilling as you had hoped...
+
+ent-ClothingHeadHatGreyFlatcap = grey flatcap
+    .desc = Fashionable for both the working class and old man Jenkins.
+
+ent-ClothingHeadHatBrownFlatcap = brown flatcap
+    .desc = Stupid clown! You made me look bad!
+
+ent-ClothingHeadHatCowboyBrown = brown cowboy hat
+    .desc = This hat ain't big enough for the both of us.
+
+ent-ClothingHeadHatCowboyBlack = black cowboy hat
+    .desc = { ent-ClothingHeadHatCowboyBrown.desc }
+
+ent-ClothingHeadHatCowboyGrey = grey cowboy hat
+    .desc = { ent-ClothingHeadHatCowboyBrown.desc }
+
+ent-ClothingHeadHatCowboyRed = red cowboy hat
+    .desc = { ent-ClothingHeadHatCowboyBrown.desc }
+
+ent-ClothingHeadHatCowboyWhite = white cowboy hat
+    .desc = { ent-ClothingHeadHatCowboyBrown.desc }
+
+ent-ClothingHeadHatCowboyBountyHunter = bounty hunter cowboy hat
+    .desc = { ent-ClothingHeadHatCowboyBrown.desc }
+
+ent-ClothingHeadHatStrawHat = straw hat
+    .desc = A fancy hat for hot days! Not recommended to wear near fires.
+
+ent-ClothingHeadHatBeretMedic = medical beret
+    .desc = White beret that encourages you to be clean.
 

@@ -25,6 +25,9 @@ ent-SpawnMobCatRuntime = Runtime Spawner
 ent-SpawnMobCatException = Exception Spawner
     .desc = { ent-MarkerBase.desc }
 
+ent-SpawnMobCrabAtmos = Tropico Spawner
+    .desc = { ent-MarkerBase.desc }
+
 ent-SpawnMobCatFloppa = Floppa Spawner
     .desc = { ent-MarkerBase.desc }
 
@@ -89,6 +92,9 @@ ent-SpawnMobBoxingKangaroo = Boxing Kangaroo Spawner
     .desc = { ent-MarkerBase.desc }
 
 ent-SpawnMobSpaceSpider = Space Spider Spawner
+    .desc = { ent-MarkerBase.desc }
+
+ent-SpawnMobSpaceCobra = Space Cobra Spawner
     .desc = { ent-MarkerBase.desc }
 
 ent-SpawnMobAdultSlimesBlue = Slimes Spawner Blue
@@ -158,6 +164,9 @@ ent-SpawnMobGorilla = Gorilla Spawner
     .desc = { ent-MarkerBase.desc }
 
 ent-SpawnMobPenguin = Penguin Spawner
+    .desc = { ent-MarkerBase.desc }
+
+ent-SpawnMobHellspawn = Hellspawn Spawner
     .desc = { ent-MarkerBase.desc }
 
 ent-SpawnMobOreCrab = ore crab spawner

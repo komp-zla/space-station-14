@@ -1,3 +1,6 @@
+ent-ClothingHeadBandBase = { ent-[ClothingHeadBaseButcherable, BaseFoldable] }
+    .desc = { ent-[ClothingHeadBaseButcherable, BaseFoldable].desc }
+
 ent-ClothingHeadBandBlack = black bandana
     .desc = A black bandana to make you look cool.
 

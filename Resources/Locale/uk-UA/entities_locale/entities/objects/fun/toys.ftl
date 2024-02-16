@@ -26,8 +26,14 @@ ent-PlushieRouny = rouny plushie
 ent-PlushieLamp = lamp plushie
     .desc = A light emitting friend!
 
+ent-PlushieArachind = arachnid plushie
+    .desc = An adorable stuffed toy that resembles an arachnid. It feels silky..
+
 ent-PlushieLizard = lizard plushie
     .desc = An adorable stuffed toy that resembles a lizardperson. Made by CentCom as a token initiative to combat speciesism in work environments. "Welcome your new colleagues as you do this plush, with open arms!"
+
+ent-PlushieLizardMirrored = { ent-PlushieLizard }
+    .desc = { ent-PlushieLizard.desc }
 
 ent-PlushieSpaceLizard = space lizard plushie
     .desc = An adorable stuffed toy that resembles a lizardperson in an EVA suit. Made by CentCom as a token initiative to combat speciesism in space environments. "Welcome your new colleges as you do this plush, with open arms!"
@@ -123,6 +129,9 @@ ent-BalloonCorgi = corgi balloon
 ent-SingularityToy = singuloth-brand toy
     .desc = Mass-produced by a sadistic corporate conglomerate!
 
+ent-TeslaToy = Teddy Tesla
+    .desc = The favorite toy of the great engineer Nikola Tesla.
+
 ent-PonderingOrb = pondering orb
     .desc = Ponderous, man... Really ponderous.
 
@@ -156,4 +165,10 @@ ent-PlushieMoth = moth plushie
 
 ent-PlushiePenguin = penguin plushie
     .desc = I use arch btw!
+
+ent-PlushieHuman = human plushie
+    .desc = This is a felt plush of a human. All craftsmanship is of the lowest quality. The human is naked. The human is crying. The human is screaming.
+
+ent-NewtonCradle = newton cradle
+    .desc = A device bored paper pushers use to remind themselves that time did not stop yet. Contains gravity.
 

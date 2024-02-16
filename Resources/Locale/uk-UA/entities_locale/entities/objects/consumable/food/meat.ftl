@@ -61,6 +61,9 @@ ent-FoodMeatSpiderLeg = raw spider leg
 ent-FoodMeatWheat = meatwheat clump
     .desc = This doesn't look like meat, but your standards aren't that high to begin with.
 
+ent-FoodMeatSnake = raw snake meat
+    .desc = A long piece of snake meat, hopefully not poisonous.
+
 ent-FoodMeatXeno = raw xeno meat
     .desc = A slab of xeno meat, dripping with acid.
 

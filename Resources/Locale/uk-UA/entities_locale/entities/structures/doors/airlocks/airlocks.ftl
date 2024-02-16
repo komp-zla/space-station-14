@@ -49,6 +49,16 @@ ent-AirlockMining = { ent-Airlock }
     .desc = { ent-Airlock.desc }
     .suffix = Mining(Salvage)
 
+ent-AirlockCentralCommand = { ent-AirlockCommand }
+    .desc = { ent-AirlockCommand.desc }
+    .suffix = Central Command
+
+ent-AirlockHatch = airtight hatch
+    .desc = { ent-Airlock.desc }
+
+ent-AirlockHatchMaintenance = maintenance hatch
+    .desc = { ent-Airlock.desc }
+
 ent-AirlockGlass = glass airlock
     .desc = { ent-Airlock.desc }
 
@@ -68,13 +78,13 @@ ent-AirlockCargoGlass = { ent-AirlockGlass }
     .desc = { ent-AirlockGlass.desc }
     .suffix = Cargo
 
-ent-AirlockChemistryGlass = { ent-AirlockGlass }
-    .desc = { ent-AirlockGlass.desc }
-    .suffix = Chemistry
-
 ent-AirlockMedicalGlass = { ent-AirlockGlass }
     .desc = { ent-AirlockGlass.desc }
     .suffix = Medical
+
+ent-AirlockChemistryGlass = { ent-AirlockGlass }
+    .desc = { ent-AirlockGlass.desc }
+    .suffix = Chemistry
 
 ent-AirlockVirologyGlass = { ent-AirlockGlass }
     .desc = { ent-AirlockGlass.desc }
@@ -99,4 +109,8 @@ ent-AirlockSyndicateGlass = { ent-AirlockGlass }
 ent-AirlockMiningGlass = { ent-AirlockGlass }
     .desc = { ent-AirlockGlass.desc }
     .suffix = Mining(Salvage)
+
+ent-AirlockCentralCommandGlass = { ent-AirlockCommandGlass }
+    .desc = { ent-AirlockCommandGlass.desc }
+    .suffix = Central Command
 

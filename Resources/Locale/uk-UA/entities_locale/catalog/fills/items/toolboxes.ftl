@@ -10,6 +10,10 @@ ent-ToolboxElectricalTurretFilled = electrical toolbox
     .desc = { ent-ToolboxElectricalTurret.desc }
     .suffix = Filled
 
+ent-ToolboxArtisticFilled = artistic toolbox
+    .desc = { ent-ToolboxArtistic.desc }
+    .suffix = Filled
+
 ent-ToolboxMechanicalFilled = mechanical toolbox
     .desc = { ent-ToolboxMechanical.desc }
     .suffix = Filled

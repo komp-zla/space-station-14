@@ -12,5 +12,3 @@ ent-GhostBox = ghost box
     .desc = Beware!
     .suffix = ""
 
-ent-Exclamation = exclamation
-

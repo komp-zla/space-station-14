@@ -18,6 +18,9 @@ ent-BaseBulletIncendiary = base bullet incendiary
 ent-BaseBulletAP = base bullet armor-piercing
     .desc = { ent-BaseBullet.desc }
 
+ent-BaseBulletUranium = base bullet uranium
+    .desc = { ent-BaseBullet.desc }
+
 ent-BulletTaser = taser bolt
     .desc = { ent-BaseBullet.desc }
 
@@ -38,6 +41,9 @@ ent-WatcherBoltMagmawing = magmawing watcher bolt
 
 ent-BulletKinetic = kinetic bolt
     .desc = Not too bad, but you still don't want to get hit by it.
+
+ent-BulletKineticShuttle = { ent-BaseBullet }
+    .desc = { ent-BaseBullet.desc }
 
 ent-BulletCharge = charge bolt
     .desc = Marks a target for additional damage.
@@ -81,6 +87,9 @@ ent-BulletGrenadeFlash = flash grenade
 ent-BulletGrenadeFrag = frag grenade
     .desc = { ent-BaseBulletTrigger.desc }
 
+ent-BulletGrenadeEMP = EMP rocket
+    .desc = { ent-BaseBulletTrigger.desc }
+
 ent-BulletCap = cap bullet
     .desc = { ent-BaseBullet.desc }
 
@@ -93,4 +102,10 @@ ent-BulletCannonBall = cannonball
     .desc = { ent-BaseBulletTrigger.desc }
 
 ent-GrapplingHook = grappling hook
+
+ent-BulletDisablerSmg = disabler bolt smg
+    .desc = { ent-BaseBullet.desc }
+
+ent-TeslaGunBullet = tesla gun lightning
+    .desc = { ent-BaseBullet.desc }
 

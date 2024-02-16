@@ -57,3 +57,11 @@ ent-BananiumOre1 = { ent-BananiumOre }
     .desc = { ent-BananiumOre.desc }
     .suffix = Single
 
+ent-Coal = coal
+    .desc = { ent-OreBase.desc }
+    .suffix = Full
+
+ent-Coal1 = { ent-Coal }
+    .desc = { ent-Coal.desc }
+    .suffix = Single
+

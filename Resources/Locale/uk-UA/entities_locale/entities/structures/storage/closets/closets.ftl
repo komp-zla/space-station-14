@@ -13,6 +13,10 @@ ent-ClosetFire = fire-safety closet
 ent-ClosetBomb = EOD closet
     .desc = It's a storage unit for explosion-protective suits.
 
+ent-ClosetJanitorBomb = janitorial bomb suit closet
+    .desc = It's a storage unit for janitorial explosion-protective suits.
+    .suffix = DO NOT MAP
+
 ent-ClosetL3 = level 3 biohazard gear closet
     .desc = It's a storage unit for level 3 biohazard gear.
 
@@ -26,6 +30,9 @@ ent-ClosetL3Janitor = { ent-ClosetL3 }
     .desc = { ent-ClosetL3.desc }
 
 ent-ClosetMaintenance = maintenance closet
+    .desc = It's a storage unit.
+
+ent-LockerSyndicate = armory closet
     .desc = It's a storage unit.
 
 ent-ClosetBluespace = suspicious closet

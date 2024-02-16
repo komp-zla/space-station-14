@@ -1,3 +1,10 @@
+ent-ClothingHeadHeadHatBaseFlippable = { ent-[ClothingHeadBaseButcherable, BaseFoldable] }
+    .desc = { ent-[ClothingHeadBaseButcherable, BaseFoldable].desc }
+
+ent-ClothingHeadHeadHatBaseFlipped = { ent-ClothingHeadHeadHatBaseFlippable }
+    .desc = { ent-ClothingHeadHeadHatBaseFlippable.desc }
+    .suffix = flipped
+
 ent-ClothingHeadHatBluesoft = blue cap
     .desc = []
 
@@ -27,6 +34,12 @@ ent-ClothingHeadHatGreensoft = green cap
 
 ent-ClothingHeadHatGreensoftFlipped = green cap flipped
     .desc = []
+
+ent-ClothingHeadHatBlacksoft = black cap
+    .desc = []
+
+ent-ClothingHeadHatBlacksoftFlipped = black cap
+    .desc = { ent-[ClothingHeadHeadHatBaseFlipped, ClothingHeadHatBlacksoft].desc }
 
 ent-ClothingHeadHatGreysoft = grey cap
     .desc = []

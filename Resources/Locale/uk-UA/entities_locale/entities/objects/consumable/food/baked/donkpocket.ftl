@@ -43,11 +43,17 @@ ent-FoodDonkpocketBerry = berry-pocket
 ent-FoodDonkpocketBerryWarm = warm berry-pocket
     .desc = A relentlessly sweet donk-pocket, now warm and delicious.
 
-ent-FoodDonkpocketGondola = gondola-pocket
-    .desc = The choice to use real gondola meat in the recipe is controversial, to say the least.
+ent-FoodDonkpocketStonk = stonk-pocket
+    .desc = Tasty, but a sad reminder of the great crash of '24
 
-ent-FoodDonkpocketGondolaWarm = warm gondola-pocket
-    .desc = { ent-FoodDonkpocketGondola.desc }
+ent-FoodDonkpocketStonkWarm = warm stonk-pocket
+    .desc = { ent-FoodDonkpocketStonk.desc }
+
+ent-FoodDonkpocketCarp = carp-pocket
+    .desc = A long-lost edition of donk pocket, made specifically for hard-working salvagers.
+
+ent-FoodDonkpocketCarpWarm = warm carp-pocket
+    .desc = { ent-FoodDonkpocketCarp.desc }
 
 ent-FoodDonkpocketDink = dink-pocket
     .desc = An off-brand lizard donk-pocket, filled with pickled carrot and wrapped with seaweed. Best eaten cold, or even better, not eaten at all.

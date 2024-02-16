@@ -97,3 +97,6 @@ ent-FoodBurgerTofu = tofu burger
 ent-FoodBurgerXeno = xenoburger
     .desc = Smells caustic. Tastes like heresy.
 
+ent-FoodBurgerMothRoach = mothroachburger
+    .desc = The last lamp it saw was the one inside the microwave.
+

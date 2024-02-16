@@ -4,6 +4,9 @@ ent-ClothingShoesBootsMag = magboots
 ent-ClothingShoesBootsMagAdv = advanced magboots
     .desc = State-of-the-art magnetic boots that do not slow down their wearer.
 
+ent-ClothingShoesBootsMagSci = { ent-ClothingShoesBootsMag }
+    .desc = { ent-ClothingShoesBootsMag.desc }
+
 ent-ClothingShoesBootsMagBlinding = magboots of blinding speed
     .desc = These would look fetching on a fetcher like you.
 
@@ -17,6 +20,9 @@ ent-ActionToggleMagboots = { ent-ActionBaseToggleMagboots }
     .desc = { ent-ActionBaseToggleMagboots.desc }
 
 ent-ActionToggleMagbootsAdvanced = { ent-ActionBaseToggleMagboots }
+    .desc = { ent-ActionBaseToggleMagboots.desc }
+
+ent-ActionToggleMagbootsSci = { ent-ActionBaseToggleMagboots }
     .desc = { ent-ActionBaseToggleMagboots.desc }
 
 ent-ActionToggleMagbootsSyndie = { ent-ActionBaseToggleMagboots }

@@ -10,3 +10,6 @@ ent-MagazineRiflePractice = []
 ent-MagazineRifleRubber = []
     .desc = { ent-BaseMagazineRifle.desc }
 
+ent-MagazineRifleUranium = []
+    .desc = { ent-BaseMagazineRifle.desc }
+

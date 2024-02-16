@@ -22,6 +22,9 @@ ent-CabbageSeeds = packet of cabbage seeds
 ent-GarlicSeeds = packet of garlic seeds
     .desc = { ent-SeedBase.desc }
 
+ent-LaughinPeaSeeds = packet of laughin' pea pods
+    .desc = []
+
 ent-LemonSeeds = packet of lemon seeds
     .desc = { ent-SeedBase.desc }
 

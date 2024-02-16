@@ -7,9 +7,6 @@ ent-GasTankRoundBase = { ent-GasTankBase }
 ent-OxygenTank = oxygen tank
     .desc = A standard cylindrical gas tank for oxygen.
 
-ent-YellowOxygenTank = oxygen tank
-    .desc = A standard cylindrical gas tank for oxygen. This one is yellow.
-
 ent-NitrogenTank = nitrogen tank
     .desc = A standard cylindrical gas tank for nitrogen.
 
@@ -22,8 +19,17 @@ ent-EmergencyNitrogenTank = emergency nitrogen tank
 ent-ExtendedEmergencyOxygenTank = extended-capacity emergency oxygen tank
     .desc = An emergency tank with extended capacity. Technically rated for prolonged use.
 
+ent-ExtendedEmergencyNitrogenTank = extended-capacity emergency nitrogen tank
+    .desc = An emergency tank with extended capacity. Technically rated for prolonged use.
+
 ent-DoubleEmergencyOxygenTank = double emergency oxygen tank
     .desc = A high-grade dual-tank emergency life support container. It holds a decent amount of oxygen for it's small size.
+
+ent-DoubleEmergencyNitrogenTank = double emergency nitrogen tank
+    .desc = A high-grade dual-tank emergency life support container. It holds a decent amount of nitrogen for its small size.
+
+ent-EmergencyFunnyOxygenTank = funny emergency oxygen tank
+    .desc = An easily portable tank for emergencies. Contains very little oxygen with an extra of funny gas, rated for survival use only.
 
 ent-AirTank = air tank
     .desc = Mixed anyone?

@@ -10,6 +10,9 @@ ent-BirdToyInstrument = bird whistle
 ent-PhoneInstrument = red phone
     .desc = Should anything ever go wrong...
 
+ent-PhoneInstrumentSyndicate = blood-red phone
+    .desc = For evil people to call their friends.
+
 ent-HelicopterInstrument = toy helicopter
     .desc = Ch-ka-ch-ka-ch-ka-ch-ka-ch-ka-ch-ka...
 

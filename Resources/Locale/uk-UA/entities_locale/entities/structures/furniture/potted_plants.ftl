@@ -91,3 +91,6 @@ ent-PottedPlant28 = { ent-PottedPlant26 }
 ent-PottedPlant29 = { ent-PottedPlant26 }
     .desc = { ent-PottedPlant26.desc }
 
+ent-PottedPlant30 = { ent-PottedPlant27 }
+    .desc = { ent-PottedPlant27.desc }
+

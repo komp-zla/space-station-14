@@ -21,3 +21,12 @@ ent-PelletShotgunTranquilizer = pellet (.50 tranquilizer)
 
 ent-PelletShotgunFlare = pellet (.50 flare)
 
+ent-PelletShotgunUranium = pellet (.50 uranium)
+    .desc = { ent-BaseBullet.desc }
+
+ent-PelletGrapeshot = grapeshot pellet
+    .desc = { ent-BaseBullet.desc }
+
+ent-PelletGlass = glass shard
+    .desc = { ent-BaseBullet.desc }
+

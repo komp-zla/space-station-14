@@ -34,3 +34,16 @@ ent-ClothingEyesHudOmni = omni hud
 ent-ClothingEyesHudSyndicate = syndicate visor
     .desc = The syndicate's professional head-up display, designed for better detection of humanoids and their subsequent elimination.
 
+ent-ClothingEyesGlassesHiddenSecurity = { ent-ClothingEyesGlassesSunglasses }
+    .desc = { ent-ClothingEyesGlassesSunglasses.desc }
+    .suffix = Syndicate
+
+ent-ClothingEyesEyepatchHudMedical = medical hud eyepatch
+    .desc = A heads-up display that scans the humanoids in view and provides accurate data about their health status. For true patriots.
+
+ent-ClothingEyesEyepatchHudSecurity = security hud eyepatch
+    .desc = A heads-up display that scans the humanoids in view and provides accurate data about their ID status and security records. For true patriots.
+
+ent-ClothingEyesEyepatchHudBeer = beer hud eyepatch
+    .desc = A pair of sunHud outfitted with apparatus to scan reagents, as well as providing an innate understanding of liquid viscosity while in motion. For true patriots.
+

@@ -4,3 +4,6 @@ ent-MachineArtifactAnalyzer = artifact analyzer
 ent-MachineTraversalDistorter = traversal distorter
     .desc = A machine capable of distorting the traversal of artifact nodes.
 
+ent-MachineArtifactCrusher = artifact crusher
+    .desc = Best not to let your fingers get stuck...
+

@@ -25,3 +25,6 @@ ent-FoodMeatRatdoubleKebab = double rat kebab
 ent-FoodMeatFiestaKebab = fiesta kebab
     .desc = Always a cruise ship party somewhere in the world, right?
 
+ent-FoodMeatSnakeKebab = snake kebab
+    .desc = Snake meat on a stick. It's a little tough.
+

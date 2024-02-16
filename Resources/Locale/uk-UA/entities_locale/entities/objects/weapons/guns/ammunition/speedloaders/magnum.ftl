@@ -13,3 +13,6 @@ ent-SpeedLoaderMagnumRubber = []
 ent-SpeedLoaderMagnumAP = []
     .desc = { ent-BaseSpeedLoaderMagnum.desc }
 
+ent-SpeedLoaderMagnumUranium = []
+    .desc = { ent-BaseSpeedLoaderMagnum.desc }
+

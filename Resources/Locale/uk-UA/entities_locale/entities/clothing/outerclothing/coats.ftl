@@ -16,6 +16,9 @@ ent-ClothingOuterCoatInspector = inspector's coat
 ent-ClothingOuterCoatJensen = jensen coat
     .desc = A jensen coat.
 
+ent-ClothingOuterCoatTrench = trench coat
+    .desc = A comfy trench coat.
+
 ent-ClothingOuterCoatLab = lab coat
     .desc = A suit that protects against minor chemical spills.
 
@@ -36,6 +39,9 @@ ent-ClothingOuterCoatRnd = scientist lab coat
 
 ent-ClothingOuterCoatRobo = roboticist lab coat
     .desc = More like an eccentric coat than a labcoat. Helps pass off bloodstains as part of the aesthetic. Comes with red shoulder pads.
+
+ent-ClothingOuterCoatRD = research director lab coat
+    .desc = Woven with top of the line technology, this labcoat helps protect against radiation in similar way to the experimental hardsuit.
 
 ent-ClothingOuterCoatPirate = pirate garb
     .desc = Yarr.

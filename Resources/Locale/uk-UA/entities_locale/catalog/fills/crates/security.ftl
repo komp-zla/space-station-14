@@ -19,3 +19,6 @@ ent-CrateRestraints = { ent-CrateSecgear }
 ent-CrateSecurityBiosuit = { ent-CrateSecgear }
     .desc = { ent-CrateSecgear.desc }
 
+ent-CrateSecurityTrackingMindshieldImplants = implanter crate
+    .desc = Contains 4 MindShield implants and 4 tracking implant. Requires Security access to open.
+

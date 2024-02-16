@@ -22,3 +22,6 @@ ent-BoxMouthSwab = sterile swab box
 ent-BoxBodyBag = body bag box
     .desc = Contains body bags.
 
+ent-BoxVial = vial box
+    .desc = A box full of vials.
+

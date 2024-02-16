@@ -73,3 +73,6 @@ ent-DrinkCartonMilk = milk carton
 ent-DrinkCartonSoyMilk = soy milk carton
     .desc = { ent-DrinkCartonBaseEmpty.desc }
 
+ent-DrinkCartonOatMilk = oat milk carton
+    .desc = { ent-DrinkCartonBaseEmpty.desc }
+

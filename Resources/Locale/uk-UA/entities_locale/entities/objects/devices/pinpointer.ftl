@@ -4,6 +4,9 @@ ent-PinpointerBase = pinpointer
 ent-PinpointerNuclear = pinpointer
     .desc = { ent-PinpointerBase.desc }
 
+ent-PinpointerSyndicateNuclear = syndicate pinpointer
+    .desc = Produced specifically for nuclear operative missions, get that disk!
+
 ent-PinpointerUniversal = universal pinpointer
     .desc = A handheld tracking device that locks onto any physical entity while off.
 

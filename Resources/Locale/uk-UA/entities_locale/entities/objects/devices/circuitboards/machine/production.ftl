@@ -1,8 +1,17 @@
 ent-AutolatheMachineCircuitboard = autolathe machine board
     .desc = A machine printed circuit board for an autolathe
 
+ent-AutolatheHyperConvectionMachineCircuitboard = hyper convection autolathe machine board
+    .desc = A machine printed circuit board for a hyper convection autolathe
+
 ent-ProtolatheMachineCircuitboard = protolathe machine board
     .desc = A machine printed circuit board for a protolathe.
+
+ent-ProtolatheHyperConvectionMachineCircuitboard = hyper convection protolathe machine board
+    .desc = A machine printed circuit board for a hyper convection protolathe.
+
+ent-BiofabricatorMachineCircuitboard = biofabricator machine board
+    .desc = A machine printed circuit board for a biofabricator.
 
 ent-SecurityTechFabCircuitboard = security techfab machine board
     .desc = A machine printed circuit board for a security techfab.
@@ -37,8 +46,14 @@ ent-ArtifactAnalyzerMachineCircuitboard = artifact analyzer machine board
 ent-TraversalDistorterMachineCircuitboard = traversal distorter machine board
     .desc = A machine printed circuit board for a traversal distorter.
 
+ent-ArtifactCrusherMachineCircuitboard = artifact crusher machine board
+    .desc = A machine printed circuit board for an artifact crusher.
+
 ent-AnomalyVesselCircuitboard = anomaly vessel machine board
     .desc = A machine printed circuit board for an anomaly vessel.
+
+ent-AnomalyVesselExperimentalCircuitboard = experimental anomaly vessel machine board
+    .desc = A machine printed circuit board for an experimental anomaly vessel.
 
 ent-AnomalySynchronizerCircuitboard = anomaly synchronizer machine board
     .desc = A machine printed circuit board for an anomaly synchronizer.
@@ -51,6 +66,15 @@ ent-ThermomachineFreezerMachineCircuitBoard = freezer thermomachine machine boar
 
 ent-ThermomachineHeaterMachineCircuitBoard = heater thermomachine machine board
     .desc = Looks like you could use a screwdriver to change the board type.
+
+ent-HellfireFreezerMachineCircuitBoard = hellfire freezer machine board
+    .desc = Looks like you could use a screwdriver to change the board type.
+
+ent-HellfireHeaterMachineCircuitBoard = hellfire heater machine board
+    .desc = Looks like you could use a screwdriver to change the board type.
+
+ent-CondenserMachineCircuitBoard = condenser machine board
+    .desc = A machine printed circuit board for a condenser.
 
 ent-PortableScrubberMachineCircuitBoard = portable scrubber machine board
     .desc = A PCB for a portable scrubber.
@@ -88,11 +112,17 @@ ent-SMESMachineCircuitboard = SMES machine board
 ent-CellRechargerCircuitboard = cell recharger machine board
     .desc = A machine printed circuit board for a cell recharger.
 
+ent-PowerCageRechargerCircuitboard = cage recharger machine board
+    .desc = A machine printed circuit board for a energy cage recharger.
+
 ent-BorgChargerCircuitboard = cyborg recharging station machine board
     .desc = A machine printed circuit board for a robot recharging station.
 
 ent-WeaponCapacitorRechargerCircuitboard = recharger machine board
     .desc = A machine printed circuit board for a recharger.
+
+ent-TurboItemRechargerCircuitboard = turbo recharger machine board
+    .desc = A machine printed circuit board for a turbo recharger.
 
 ent-SubstationMachineCircuitboard = substation machine board
     .desc = A machine printed circuit board for a substation.
@@ -127,10 +157,19 @@ ent-ElectricGrillMachineCircuitboard = electric grill machine board
 ent-StasisBedMachineCircuitboard = Stasis Bed (Machine Board)
     .desc = { ent-BaseMachineCircuitboard.desc }
 
+ent-ElectrolysisUnitMachineCircuitboard = electrolysis unit machine board
+    .desc = A machine printed circuit board for an electrolysis unit.
+
+ent-CentrifugeMachineCircuitboard = centrifuge machine board
+    .desc = A machine printed circuit board for a centrifuge.
+
 ent-MaterialReclaimerMachineCircuitboard = material reclaimer machine board
     .desc = { ent-BaseMachineCircuitboard.desc }
 
 ent-OreProcessorMachineCircuitboard = ore processor machine board
+    .desc = { ent-BaseMachineCircuitboard.desc }
+
+ent-OreProcessorIndustrialMachineCircuitboard = industrial ore processor machine board
     .desc = { ent-BaseMachineCircuitboard.desc }
 
 ent-SheetifierMachineCircuitboard = sheet-meister 2000 machine board
@@ -140,6 +179,9 @@ ent-MicrowaveMachineCircuitboard = microwave machine board
     .desc = { ent-BaseMachineCircuitboard.desc }
 
 ent-FatExtractorMachineCircuitboard = lipid extractor machine board
+    .desc = { ent-BaseMachineCircuitboard.desc }
+
+ent-FlatpackerMachineCircuitboard = Flatpacker 1001 machine board
     .desc = { ent-BaseMachineCircuitboard.desc }
 
 ent-EmitterCircuitboard = emitter machine board
@@ -177,4 +219,19 @@ ent-SalvageMagnetMachineCircuitboard = salvage magnet machine board
 
 ent-MiniGravityGeneratorCircuitboard = mini gravity generator machine board
     .desc = A machine printed circuit board for a mini gravity generator.
+
+ent-ShuttleGunSvalinnMachineGunCircuitboard = LSE-400c "Svalinn machine gun" machine board
+    .desc = A machine printed circuit board for an LSE-400c "Svalinn machine gun"
+
+ent-ShuttleGunPerforatorCircuitboard = LSE-1200c "Perforator" machine board
+    .desc = A machine printed circuit board for an LSE-1200c "Perforator"
+
+ent-ShuttleGunFriendshipCircuitboard = EXP-320g "Friendship" machine board
+    .desc = A machine printed circuit board for an EXP-320g "Friendship"
+
+ent-ShuttleGunDusterCircuitboard = EXP-2100g "Duster" machine board
+    .desc = A machine printed circuit board for an EXP-2100g "Duster"
+
+ent-ShuttleGunKineticCircuitboard = PTK-800 "Matter Dematerializer" machine board
+    .desc = A machine printed circuit board for an PTK-800 "Matter Dematerializer"
 

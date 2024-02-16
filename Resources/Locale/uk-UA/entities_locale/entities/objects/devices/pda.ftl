@@ -1,6 +1,9 @@
 ent-BasePDA = PDA
     .desc = Personal Data Assistant.
 
+ent-BaseMedicalPDA = { ent-BasePDA }
+    .desc = { ent-BasePDA.desc }
+
 ent-PassengerPDA = passenger PDA
     .desc = Why isn't it gray?
 
@@ -97,6 +100,9 @@ ent-SecurityPDA = security PDA
 ent-CentcomPDA = CentCom PDA
     .desc = Light green sign of walking bureaucracy.
 
+ent-AdminPDA = Admin PDA
+    .desc = If you are not an admin please return this PDA to the nearest admin.
+
 ent-CentcomPDAFake = { ent-CentcomPDA }
     .desc = { ent-CentcomPDA.desc }
     .suffix = Fake
@@ -119,6 +125,27 @@ ent-SyndiPDA = syndicate PDA
 
 ent-ERTLeaderPDA = ERT PDA
     .desc = Red for firepower.
+    .suffix = 
+
+ent-ERTChaplainPDA = ERT PDA
+    .desc = { ent-ERTLeaderPDA.desc }
+    .suffix = Chaplain
+
+ent-ERTEngineerPDA = { ent-ERTLeaderPDA }
+    .desc = { ent-ERTLeaderPDA.desc }
+    .suffix = Engineer
+
+ent-ERTJanitorPDA = { ent-ERTLeaderPDA }
+    .desc = { ent-ERTLeaderPDA.desc }
+    .suffix = Janitor
+
+ent-ERTMedicPDA = { ent-ERTLeaderPDA }
+    .desc = { ent-ERTLeaderPDA.desc }
+    .suffix = Medic
+
+ent-ERTSecurityPDA = { ent-ERTLeaderPDA }
+    .desc = { ent-ERTLeaderPDA.desc }
+    .suffix = Security
 
 ent-CBURNPDA = CBURN PDA
     .desc = Smells like rotten flesh.

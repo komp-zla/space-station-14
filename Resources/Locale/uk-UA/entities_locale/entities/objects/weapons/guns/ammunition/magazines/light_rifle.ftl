@@ -13,6 +13,9 @@ ent-MagazineLightRiflePractice = []
 ent-MagazineLightRifleRubber = []
     .desc = { ent-BaseMagazineLightRifle.desc }
 
+ent-MagazineLightRifleUranium = []
+    .desc = { ent-BaseMagazineLightRifle.desc }
+
 ent-MagazineLightRifleMaxim = []
     .desc = { ent-BaseMagazineLightRifle.desc }
 

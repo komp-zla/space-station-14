@@ -37,6 +37,13 @@ ent-MobWalter = Walter
 ent-MobPossumMorty = Morty
     .desc = The station's resident Didelphis virginiana. A sensitive but resilient kind of guy.
 
+ent-MobPossumMortyOld = Morty
+    .desc = { ent-MobPossumMorty.desc }
+    .suffix = Old sprite
+
+ent-MobPossumPoppy = Poppy
+    .desc = It's an opossum, a small scavenging marsupial. It's wearing appropriate personal protective equipment.
+
 ent-MobRaccoonMorticia = Morticia
     .desc = A powerful creature of the night. Her eyeshadow is always on point.
 
@@ -60,4 +67,7 @@ ent-MobSlimesPet = Smile
 
 ent-MobMonkeyPunpun = Pun Pun
     .desc = A prominent representative of monkeys with unlimited access to alcohol.
+
+ent-MobCrabAtmos = Tropico
+    .desc = The noble and stalwart defender of Atmosia. Viva!
 

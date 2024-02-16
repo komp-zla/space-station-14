@@ -7,3 +7,6 @@ ent-HoloFan = holofan
 ent-HolosignSecurity = holographic barrier
     .desc = A barrier of hard light that blocks movement, but pretty weak.
 
+ent-HolosignForcefield = holographic force field
+    .desc = A powerful temporal containment field that doesn't let anything through, not even a tesla or singularity.
+

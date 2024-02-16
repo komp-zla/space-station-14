@@ -8,3 +8,11 @@ ent-ReinforcementRadioSyndicateNukeops = { ent-ReinforcementRadioSyndicate }
 ent-ReinforcementRadioSyndicateMonkey = syndicate monkey reinforcement radio
     .desc = Calls in a specially trained monkey to assist you.
 
+ent-ReinforcementRadioSyndicateMonkeyNukeops = { ent-ReinforcementRadioSyndicateMonkey }
+    .desc = { ent-ReinforcementRadioSyndicateMonkey.desc }
+    .suffix = NukeOps
+
+ent-ReinforcementRadioSyndicateCyborgAssault = syndicate assault cyborg reinforcement radio
+    .desc = Call in a well armed assault cyborg, instantly!
+    .suffix = NukeOps
+

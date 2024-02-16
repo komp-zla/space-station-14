@@ -30,3 +30,9 @@ ent-EmpGrenade = EMP grenade
 ent-HolyHandGrenade = holy hand grenade
     .desc = O Lord, bless this thy hand grenade, that with it thou mayst blow thine enemies to tiny bits, in thy mercy.
 
+ent-SmokeGrenade = smoke grenade
+    .desc = A tactical grenade that releases a large, long-lasting cloud of smoke when used.
+
+ent-TearGasGrenade = tear gas grenade
+    .desc = A riot control tear gas grenade. Causes irritation, pain and makes you cry your eyes out.
+

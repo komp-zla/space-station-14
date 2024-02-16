@@ -106,6 +106,21 @@ ent-CentcomIDCard = command officer ID card
 ent-ERTLeaderIDCard = ERT ID card
     .desc = { ent-CentcomIDCard.desc }
 
+ent-ERTChaplainIDCard = ERT chaplain ID card
+    .desc = { ent-ERTLeaderIDCard.desc }
+
+ent-ERTEngineerIDCard = ERT engineer ID card
+    .desc = { ent-ERTChaplainIDCard.desc }
+
+ent-ERTJanitorIDCard = ERT janitor ID card
+    .desc = { ent-ERTChaplainIDCard.desc }
+
+ent-ERTMedicIDCard = ERT medic ID card
+    .desc = { ent-ERTChaplainIDCard.desc }
+
+ent-ERTSecurityIDCard = ERT security ID card
+    .desc = { ent-ERTChaplainIDCard.desc }
+
 ent-CentcomIDCardSyndie = command officer ID card
     .desc = { ent-IDCardStandard.desc }
     .suffix = Fake
@@ -150,6 +165,7 @@ ent-DetectiveIDCard = detective ID card
 
 ent-CBURNIDcard = CBURN ID card
     .desc = { ent-CentcomIDCard.desc }
+    .suffix = 
 
 ent-CluwneIDCard = cluwne ID card
     .desc = { ent-IDCardStandard.desc }

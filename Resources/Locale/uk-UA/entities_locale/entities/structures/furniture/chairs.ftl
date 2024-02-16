@@ -4,6 +4,10 @@ ent-SeatBase = chair
 ent-Chair = chair
     .desc = { ent-SeatBase.desc }
 
+ent-ChairGreyscale = chair
+    .desc = { ent-Chair.desc }
+    .suffix = White
+
 ent-Stool = stool
     .desc = Apply butt.
 

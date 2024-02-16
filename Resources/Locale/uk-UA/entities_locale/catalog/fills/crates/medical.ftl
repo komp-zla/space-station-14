@@ -4,6 +4,9 @@ ent-CrateMedicalSupplies = { ent-CrateMedical }
 ent-CrateChemistrySupplies = { ent-CrateMedical }
     .desc = { ent-CrateMedical.desc }
 
+ent-CrateChemistryVials = vial supply crate
+    .desc = Crate filled with a box of vials.
+
 ent-CrateMindShieldImplants = { ent-CrateMedical }
     .desc = { ent-CrateMedical.desc }
 

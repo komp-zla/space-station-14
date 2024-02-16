@@ -13,6 +13,9 @@ ent-ClothingEyesGlassesMeson = engineering goggles
 ent-ClothingEyesGlasses = glasses
     .desc = A pair of spectacular spectacles with prescription lenses.
 
+ent-ClothingEyesGlassesJensen = jensen glasses
+    .desc = A pair of yellow tinted folding glasses. You never asked for these.
+
 ent-ClothingEyesGlassesJamjar = jamjar glasses
     .desc = Also known as Virginity Protectors.
 

@@ -20,6 +20,8 @@ ent-BaseStationAlertLevels =
 
 ent-BaseStationExpeditions = 
 
+ent-BaseStationMagnet = 
+
 ent-BaseStationSiliconLawCrewsimov = 
 
 ent-BaseStationAllEventsEligible = 

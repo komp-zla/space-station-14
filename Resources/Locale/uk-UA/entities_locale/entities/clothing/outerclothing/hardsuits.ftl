@@ -13,6 +13,9 @@ ent-ClothingOuterHardsuitSpatio = spationaut hardsuit
 ent-ClothingOuterHardsuitSalvage = mining hardsuit
     .desc = A special suit that protects against hazardous, low pressure environments. Has reinforced plating for wildlife encounters.
 
+ent-ClothingOuterHardsuitMaxim = salvager maxim hardsuit
+    .desc = Fire. Heat. These things forge great weapons, they also forge great salvagers.
+
 ent-ClothingOuterHardsuitSecurity = security hardsuit
     .desc = A special suit that protects against hazardous, low pressure environments. Has an additional layer of armor.
 
@@ -43,7 +46,7 @@ ent-ClothingOuterHardsuitLuxury = luxury mining hardsuit
 ent-ClothingOuterHardsuitSyndie = blood-red hardsuit
     .desc = A heavily armored hardsuit designed for work in special operations. Property of Gorlex Marauders.
 
-ent-ClothingOuterHardsuitMedic = blood-red medic hardsuit
+ent-ClothingOuterHardsuitSyndieMedic = blood-red medic hardsuit
     .desc = A heavily armored and agile advanced hardsuit specifically designed for field medic operations.
 
 ent-ClothingOuterHardsuitSyndieElite = syndicate elite hardsuit
@@ -91,4 +94,10 @@ ent-ClothingOuterHardsuitCBURN = CBURN exosuit
 
 ent-ClothingOuterHardsuitClown = clown hardsuit
     .desc = A custom made clown hardsuit.
+
+ent-ClothingOuterHardsuitMime = mime hardsuit
+    .desc = A custom-made mime hardsuit.
+
+ent-ClothingOuterHardsuitSanta = Santa's hardsuit
+    .desc = A festive, cheerful hardsuit that protects the jolly gift-giver while on sleighrides in space. Offers some resistance against asteroid strikes.
 

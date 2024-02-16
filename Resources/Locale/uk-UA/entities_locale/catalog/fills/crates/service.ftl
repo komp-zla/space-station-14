@@ -28,6 +28,12 @@ ent-CrateServiceBooks = { ent-CrateGenericSteel }
 ent-CrateServiceGuidebooks = { ent-CrateGenericSteel }
     .desc = { ent-CrateGenericSteel.desc }
 
+ent-CrateServiceSodaDispenser = soda dispenser refill crate
+    .desc = Contains refills for soda dispensers.
+
+ent-CrateServiceBoozeDispenser = booze dispenser refill crate
+    .desc = Contains refills for booze dispensers.
+
 ent-CrateServiceBox = { ent-CratePlastic }
     .desc = { ent-CratePlastic.desc }
 
@@ -37,4 +43,7 @@ ent-CrateJanitorBiosuit = { ent-CratePlastic }
 ent-CrateTrashCartFilled = { ent-CrateTrashCart }
     .desc = { ent-CrateTrashCart.desc }
     .suffix = Filled
+
+ent-CrateJanitorExplosive = janitorial bomb suit crate
+    .desc = Supplies a bomb suit for cleaning up any explosive compounds, buy one today!
 

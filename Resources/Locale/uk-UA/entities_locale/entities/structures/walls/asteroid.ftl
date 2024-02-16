@@ -2,16 +2,61 @@ ent-AsteroidRock = asteroid rock
     .desc = A rocky asteroid.
     .suffix = Low Ore Yield
 
+ent-AsteroidRockCoal = { ent-AsteroidRock }
+    .desc = An ore vein rich with coal.
+    .suffix = Coal
+
+ent-AsteroidRockGold = { ent-AsteroidRock }
+    .desc = An ore vein rich with gold.
+    .suffix = Gold
+
+ent-AsteroidRockPlasma = { ent-AsteroidRock }
+    .desc = An ore vein rich with plasma.
+    .suffix = Plasma
+
+ent-AsteroidRockQuartz = { ent-AsteroidRock }
+    .desc = An ore vein rich with quartz.
+    .suffix = Quartz
+
+ent-AsteroidRockQuartzCrab = { ent-AsteroidRock }
+    .desc = An ore vein rich with quartz.
+    .suffix = Quartz Crab
+
+ent-AsteroidRockSilver = { ent-AsteroidRock }
+    .desc = An ore vein rich with silver.
+    .suffix = Silver
+
+ent-AsteroidRockSilverCrab = { ent-AsteroidRockSilver }
+    .desc = { ent-AsteroidRockSilver.desc }
+    .suffix = Silver Crab
+
+ent-AsteroidRockTin = { ent-AsteroidRock }
+    .desc = An ore vein rich with iron.
+    .suffix = Iron
+
+ent-AsteroidRockTinCrab = { ent-AsteroidRockTin }
+    .desc = { ent-AsteroidRockTin.desc }
+    .suffix = Iron
+
+ent-AsteroidRockUranium = { ent-AsteroidRock }
+    .desc = An ore vein rich with uranium.
+    .suffix = Uranium
+
+ent-AsteroidRockUraniumCrab = { ent-AsteroidRockUranium }
+    .desc = { ent-AsteroidRockUranium.desc }
+    .suffix = Uranium Crab
+
+ent-AsteroidRockBananium = { ent-AsteroidRock }
+    .desc = An ore vein rich with bananium.
+    .suffix = Bananium
+
+ent-AsteroidRockArtifactFragment = { ent-AsteroidRock }
+    .desc = A rock wall. What's that sticking out of it?
+    .suffix = Artifact Fragment
+
 ent-AsteroidRockMining = asteroid rock
     .desc = An asteroid.
     .suffix = higher ore yield
-
-ent-AsteroidRockCrab = asteroid rock
-    .desc = An asteroid.
-    .suffix = orecrab
-
-ent-AsteroidRockCrab1 = { ent-AsteroidRockCrab }
-    .desc = { ent-AsteroidRockCrab.desc }
 
 ent-IronRock = ironrock
     .desc = A rocky asteroid.
@@ -23,6 +68,11 @@ ent-IronRockMining = ironrock
 
 ent-WallRock = rock
     .desc = { ent-BaseStructure.desc }
+    .suffix = 
+
+ent-WallRockCoal = { ent-WallRock }
+    .desc = An ore vein rich with coal.
+    .suffix = Coal
 
 ent-WallRockGold = { ent-WallRock }
     .desc = An ore vein rich with gold.
@@ -59,6 +109,10 @@ ent-WallRockArtifactFragment = { ent-WallRock }
 ent-WallRockBasalt = basalt
     .desc = { ent-WallRock.desc }
 
+ent-WallRockBasaltCoal = { ent-WallRockBasalt }
+    .desc = An ore vein rich with coal.
+    .suffix = Coal
+
 ent-WallRockBasaltGold = { ent-WallRockBasalt }
     .desc = An ore vein rich with gold.
     .suffix = Gold
@@ -93,6 +147,10 @@ ent-WallRockBasaltArtifactFragment = { ent-WallRockBasalt }
 
 ent-WallRockSnow = snowdrift
     .desc = { ent-WallRock.desc }
+
+ent-WallRockSnowCoal = { ent-WallRockSnow }
+    .desc = An ore vein rich with coal.
+    .suffix = Coal
 
 ent-WallRockSnowGold = { ent-WallRockSnow }
     .desc = An ore vein rich with gold.
@@ -129,6 +187,10 @@ ent-WallRockSnowArtifactFragment = { ent-WallRockSnow }
 ent-WallRockSand = sandstone
     .desc = { ent-WallRock.desc }
 
+ent-WallRockSandCoal = { ent-WallRockSand }
+    .desc = An ore vein rich with coal.
+    .suffix = Coal
+
 ent-WallRockSandGold = { ent-WallRockSand }
     .desc = An ore vein rich with gold.
     .suffix = Gold
@@ -164,6 +226,10 @@ ent-WallRockSandArtifactFragment = { ent-WallRockSand }
 ent-WallRockChromite = chromite
     .desc = { ent-WallRock.desc }
 
+ent-WallRockChromiteCoal = { ent-WallRockChromite }
+    .desc = An ore vein rich with coal.
+    .suffix = Coal
+
 ent-WallRockChromiteGold = { ent-WallRockChromite }
     .desc = An ore vein rich with gold.
     .suffix = Gold
@@ -198,6 +264,10 @@ ent-WallRockChromiteArtifactFragment = { ent-WallRockChromite }
 
 ent-WallRockAndesite = andesite
     .desc = { ent-WallRock.desc }
+
+ent-WallRockAndesiteCoal = { ent-WallRockAndesite }
+    .desc = An ore vein rich with coal.
+    .suffix = Coal
 
 ent-WallRockAndesiteGold = { ent-WallRockAndesite }
     .desc = An ore vein rich with gold.

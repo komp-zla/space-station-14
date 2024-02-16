@@ -13,3 +13,6 @@ ent-CartridgePistolRubber = cartridge (.35 auto rubber)
 ent-CartridgePistolIncendiary = cartridge (.35 auto incendiary)
     .desc = { ent-BaseCartridgePistol.desc }
 
+ent-CartridgePistolUranium = cartridge (.35 auto uranium)
+    .desc = { ent-BaseCartridgePistol.desc }
+

@@ -17,6 +17,14 @@ ent-PresentRandom = { ent-[PresentBase, BaseItem] }
     .desc = { ent-[PresentBase, BaseItem].desc }
     .suffix = Filled Safe
 
+ent-PresentRandomAsh = { ent-[PresentBase, BaseItem] }
+    .desc = { ent-[PresentBase, BaseItem].desc }
+    .suffix = Filled Ash
+
+ent-PresentRandomCash = { ent-[PresentBase, BaseItem] }
+    .desc = { ent-[PresentBase, BaseItem].desc }
+    .suffix = Filled Cash
+
 ent-PresentTrash = Wrapping Paper
     .desc = Carefully folded, taped, and tied with a bow. Then ceremoniously ripped apart and tossed on the floor.
 

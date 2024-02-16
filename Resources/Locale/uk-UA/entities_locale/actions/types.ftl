@@ -25,6 +25,9 @@ ent-ActionOpenUplinkImplant = Open Uplink
 ent-ActionActivateEmpImplant = Activate EMP
     .desc = Triggers a small EMP pulse around you
 
+ent-ActionActivateScramImplant = SCRAM!
+    .desc = Randomly teleports you within a large distance.
+
 ent-ActionActivateDnaScramblerImplant = Scramble DNA
     .desc = Randomly changes your name and appearance.
 
@@ -63,4 +66,13 @@ ent-ActionWake = Wake up
 
 ent-ActionActivateHonkImplant = Honk
     .desc = Activates your honking implant, which will produce the signature sound of the clown.
+
+ent-ActionFireStarter = Ignite
+    .desc = Ignites enemies in a radius around you.
+
+ent-ActionToggleEyes = Open/Close eyes
+    .desc = Close your eyes to protect your peepers, or open your eyes to enjoy the pretty lights.
+
+ent-ActionToggleWagging = action-name-toggle-wagging
+    .desc = action-description-toggle-wagging
 

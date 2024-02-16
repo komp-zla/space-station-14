@@ -9,6 +9,9 @@ ent-LightningRevenant = spooky lightning
 ent-ChargedLightning = charged lightning
     .desc = { ent-BaseLightning.desc }
 
+ent-Spark = lightning
+    .desc = { ent-BaseLightning.desc }
+
 ent-SuperchargedLightning = supercharged lightning
     .desc = { ent-ChargedLightning.desc }
 

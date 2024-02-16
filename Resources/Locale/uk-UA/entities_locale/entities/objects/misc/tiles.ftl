@@ -46,6 +46,9 @@ ent-FloorTileItemRockVault = rock vault tile
 ent-FloorTileItemBlue = blue tile
     .desc = { ent-FloorTileItemBase.desc }
 
+ent-FloorTileItemLime = lime tile
+    .desc = { ent-FloorTileItemBase.desc }
+
 ent-FloorTileItemMining = mining tile
     .desc = { ent-FloorTileItemBase.desc }
 
@@ -127,6 +130,12 @@ ent-FloorTileItemShuttlePurple = purple shuttle floor
 ent-FloorTileItemShuttleRed = red shuttle floor
     .desc = { ent-FloorTileItemBase.desc }
 
+ent-FloorTileItemShuttleGrey = grey shuttle floor
+    .desc = { ent-FloorTileItemBase.desc }
+
+ent-FloorTileItemShuttleBlack = black shuttle floor
+    .desc = { ent-FloorTileItemBase.desc }
+
 ent-FloorTileItemGold = gold floor
     .desc = { ent-FloorTileItemBase.desc }
 
@@ -138,6 +147,14 @@ ent-FloorTileItemGCircuit = green circuit floor
 
 ent-FloorTileItemBCircuit = blue circuit floor
     .desc = { ent-FloorTileItemBase.desc }
+
+ent-FloorTileItemGCircuit4 = { ent-FloorTileItemGCircuit }
+    .desc = { ent-FloorTileItemGCircuit.desc }
+    .suffix = 4
+
+ent-FloorTileItemBCircuit4 = { ent-FloorTileItemBCircuit }
+    .desc = { ent-FloorTileItemBCircuit.desc }
+    .suffix = 4
 
 ent-FloorTileItemGrass = grass tile
     .desc = { ent-FloorTileItemBase.desc }
@@ -162,4 +179,10 @@ ent-FloorTileItemGratingMaint = grating maint floor
 
 ent-FloorTileItemWeb = web tile
     .desc = { ent-FloorTileItemBase.desc }
+
+ent-FloorTileItemAstroGrass = astro-grass
+    .desc = Fake grass that covers up wires and even comes with realistic NanoTrimmings!
+
+ent-FloorTileItemAstroIce = astro-ice
+    .desc = Fake ice that's as slippery as the real thing, while being easily removable!
 

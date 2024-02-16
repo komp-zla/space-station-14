@@ -3,3 +3,7 @@ ent-Clothing = { ent-BaseItem }
 
 ent-GeigerCounterClothing = 
 
+ent-ClothingSlotBase = 
+
+ent-ContentsExplosionResistanceBase = 
+

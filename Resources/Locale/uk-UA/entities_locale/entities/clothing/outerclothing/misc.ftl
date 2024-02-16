@@ -76,3 +76,6 @@ ent-ClothingOuterFlannelBlue = blue flannel jacket
 ent-ClothingOuterFlannelGreen = green flannel jacket
     .desc = An old fashioned green flannel jacket for space autumn.
 
+ent-ClothingOuterRedRacoon = red racoon suit
+    .desc = Fluffy suit of red racoon!
+

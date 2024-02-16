@@ -16,6 +16,9 @@ ent-ClothingShoesTourist = tourist shoes
 ent-ClothingShoesDameDane = yakuza shoes
     .desc = At last...
 
+ent-ClothingShoesSnakeskinBoots = snakeskin boots
+    .desc = Boots made of high-class snakeskin, everyone around you will be jealous.
+
 ent-ClothingShoesBootsSpeed = speed boots
     .desc = High-tech boots woven with quantum fibers, able to convert electricity into pure speed!
 

@@ -13,6 +13,9 @@ ent-BreakerFlip = { ent-BaseGameRule }
 ent-BureaucraticError = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
 
+ent-ClericalError = { ent-BaseGameRule }
+    .desc = { ent-BaseGameRule.desc }
+
 ent-ClosetSkeleton = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
 
@@ -52,6 +55,9 @@ ent-RandomSentience = { ent-BaseGameRule }
 ent-SolarFlare = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
 
+ent-TerminatorSpawn = { ent-BaseGameRule }
+    .desc = { ent-BaseGameRule.desc }
+
 ent-VentClog = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
 
@@ -80,5 +86,8 @@ ent-ImmovableRodSpawn = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
 
 ent-IonStorm = { ent-BaseGameRule }
+    .desc = { ent-BaseGameRule.desc }
+
+ent-MimicVendorRule = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
 

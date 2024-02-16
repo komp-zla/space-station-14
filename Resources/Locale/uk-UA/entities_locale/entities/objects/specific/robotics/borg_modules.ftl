@@ -21,6 +21,12 @@ ent-BaseBorgModuleMedical = { ent-BaseBorgModule }
 ent-BaseBorgModuleService = { ent-BaseBorgModule }
     .desc = { ent-BaseBorgModule.desc }
 
+ent-BaseBorgModuleSyndicate = { ent-BaseBorgModule }
+    .desc = { ent-BaseBorgModule.desc }
+
+ent-BaseBorgModuleSyndicateAssault = { ent-BaseBorgModule }
+    .desc = { ent-BaseBorgModule.desc }
+
 ent-BorgModuleCable = cable cyborg module
     .desc = { ent-[ BaseBorgModule, BaseProviderBorgModule ].desc }
 
@@ -46,9 +52,6 @@ ent-BorgModuleGrapplingGun = grappling gun cyborg module
     .desc = { ent-[ BaseBorgModuleCargo, BaseProviderBorgModule ].desc }
 
 ent-BorgModuleAdvancedTool = advanced tool cyborg module
-    .desc = { ent-[ BaseBorgModuleEngineering, BaseProviderBorgModule ].desc }
-
-ent-BorgModuleGasAnalyzer = gas analyzer cyborg module
     .desc = { ent-[ BaseBorgModuleEngineering, BaseProviderBorgModule ].desc }
 
 ent-BorgModuleConstruction = construction cyborg module
@@ -98,4 +101,16 @@ ent-BorgModuleHarvesting = harvesting cyborg module
 
 ent-BorgModuleClowning = clowning cyborg module
     .desc = { ent-[ BaseBorgModuleService, BaseProviderBorgModule ].desc }
+
+ent-BorgModuleSyndicateWeapon = weapon cyborg module
+    .desc = { ent-[ BaseBorgModule, BaseProviderBorgModule ].desc }
+
+ent-BorgModuleOperative = operative cyborg module
+    .desc = A module that comes with a crowbar, an Emag and a syndicate pinpointer.
+
+ent-BorgModuleEsword = energy sword cyborg module
+    .desc = A module that comes with a double energy sword.
+
+ent-BorgModuleL6C = L6C ROW cyborg module
+    .desc = A module that comes with a L6C.
 

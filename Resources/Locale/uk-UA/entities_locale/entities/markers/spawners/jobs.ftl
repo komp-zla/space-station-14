@@ -17,7 +17,7 @@ ent-SpawnPointCargoTechnician = cargotechnician
 ent-SpawnPointSalvageSpecialist = salvagespecialist
     .desc = { ent-SpawnPointJobBase.desc }
 
-ent-SpawnPointAssistant = passenger
+ent-SpawnPointPassenger = passenger
     .desc = { ent-SpawnPointJobBase.desc }
 
 ent-SpawnPointTechnicalAssistant = technical assistant
@@ -80,9 +80,6 @@ ent-SpawnPointHeadOfPersonnel = headofpersonnel
 ent-SpawnPointChiefEngineer = chiefengineer
     .desc = { ent-SpawnPointJobBase.desc }
 
-ent-SpawnPointSeniorEngineer = seniorengineer
-    .desc = { ent-SpawnPointJobBase.desc }
-
 ent-SpawnPointStationEngineer = stationengineer
     .desc = { ent-SpawnPointJobBase.desc }
 
@@ -90,9 +87,6 @@ ent-SpawnPointAtmos = atmospherics
     .desc = { ent-SpawnPointJobBase.desc }
 
 ent-SpawnPointChiefMedicalOfficer = chiefmedicalofficer
-    .desc = { ent-SpawnPointJobBase.desc }
-
-ent-SpawnPointSeniorPhysician = seniorphysician
     .desc = { ent-SpawnPointJobBase.desc }
 
 ent-SpawnPointMedicalDoctor = medicaldoctor
@@ -107,9 +101,6 @@ ent-SpawnPointChemist = chemist
 ent-SpawnPointResearchDirector = researchdirector
     .desc = { ent-SpawnPointJobBase.desc }
 
-ent-SpawnPointSeniorResearcher = seniorresearcher
-    .desc = { ent-SpawnPointJobBase.desc }
-
 ent-SpawnPointScientist = scientist
     .desc = { ent-SpawnPointJobBase.desc }
 
@@ -117,9 +108,6 @@ ent-SpawnPointHeadOfSecurity = headofsecurity
     .desc = { ent-SpawnPointJobBase.desc }
 
 ent-SpawnPointWarden = warden
-    .desc = { ent-SpawnPointJobBase.desc }
-
-ent-SpawnPointSeniorOfficer = seniorofficer
     .desc = { ent-SpawnPointJobBase.desc }
 
 ent-SpawnPointSecurityOfficer = securityofficer

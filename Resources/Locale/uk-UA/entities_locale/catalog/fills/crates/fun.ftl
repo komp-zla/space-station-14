@@ -1,6 +1,9 @@
 ent-CrateFunPlushie = { ent-CrateGenericSteel }
     .desc = { ent-CrateGenericSteel.desc }
 
+ent-CrateFunLizardPlushieBulk = bulk lizard plushie crate
+    .desc = A buncha soft lizard plushies. Throw them around and then wonder how you're gonna explain this purchase to NT.
+
 ent-CrateFunInstrumentsVariety = { ent-CrateGenericSteel }
     .desc = { ent-CrateGenericSteel.desc }
 
@@ -25,9 +28,6 @@ ent-CrateFunArtSupplies = { ent-CrateGenericSteel }
 ent-CrateFunBoardGames = { ent-CrateGenericSteel }
     .desc = { ent-CrateGenericSteel.desc }
 
-ent-CrateFunATV = { ent-CrateLivestock }
-    .desc = { ent-CrateLivestock.desc }
-
 ent-CrateFunSadTromboneImplants = { ent-CrateGenericSteel }
     .desc = { ent-CrateGenericSteel.desc }
 
@@ -40,14 +40,12 @@ ent-CrateFunParty = { ent-CrateGenericSteel }
 ent-CrateFunWaterGuns = { ent-CratePlastic }
     .desc = { ent-CratePlastic.desc }
 
-ent-CrateFunSyndicateSegway = { ent-CrateLivestock }
-    .desc = { ent-CrateLivestock.desc }
-
 ent-CrateFunBoxing = { ent-CrateGenericSteel }
     .desc = { ent-CrateGenericSteel.desc }
 
 ent-CrateFunPirate = { ent-CratePirate }
     .desc = { ent-CratePirate.desc }
+    .suffix = 
 
 ent-CrateFunToyBox = { ent-CrateToyBox }
     .desc = { ent-CrateToyBox.desc }

@@ -45,6 +45,9 @@ ent-Bloodpack10Lingering = { ent-Bloodpack }
     .desc = { ent-Bloodpack.desc }
     .suffix = 10, Lingering
 
+ent-Tourniquet = tourniquet
+    .desc = Stops bleeding! Hopefully.
+
 ent-Gauze = roll of gauze
     .desc = Some sterile gauze to wrap around bloody stumps.
     .suffix = Full
@@ -183,5 +186,8 @@ ent-SyringeSaline = saline syringe
     .desc = { ent-BaseSyringe.desc }
 
 ent-SyringeRomerol = romerol syringe
+    .desc = { ent-BaseSyringe.desc }
+
+ent-SyringeStimulants = stimulants syringe
     .desc = { ent-BaseSyringe.desc }
 

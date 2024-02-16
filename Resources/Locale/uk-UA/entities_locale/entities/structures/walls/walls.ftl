@@ -50,6 +50,14 @@ ent-WallPlastitaniumDiagonal = plastitanium wall
 ent-WallReinforced = reinforced wall
     .desc = { ent-BaseWall.desc }
 
+ent-WallReinforcedRust = reinforced wall
+    .desc = { ent-WallReinforced.desc }
+    .suffix = rusted
+
+ent-WallReinforcedDiagonal = reinforced wall
+    .desc = { ent-WallShuttleDiagonal.desc }
+    .suffix = diagonal
+
 ent-WallRiveted = riveted wall
     .desc = { ent-BaseWall.desc }
 

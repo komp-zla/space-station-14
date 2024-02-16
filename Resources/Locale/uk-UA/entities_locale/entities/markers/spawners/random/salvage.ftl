@@ -4,19 +4,8 @@ ent-SalvageMaterialCrateSpawner = Salvage Material Crate Spawner
 ent-SalvageCanisterSpawner = Salvage Canister Spawner
     .desc = { ent-MarkerBase.desc }
 
-ent-SalvagePartsT2Spawner = Salvage T2 Machine Parts Spawner
+ent-SalvageLootSpawner = salvage loot spawner
     .desc = { ent-MarkerBase.desc }
-
-ent-SalvagePartsT3T4Spawner = tier 3/4 machine part
-    .desc = { ent-MarkerBase.desc }
-
-ent-SalvagePartsT3Spawner = tier 3 machine part
-    .desc = { ent-MarkerBase.desc }
-    .suffix = Spawner
-
-ent-SalvagePartsT4Spawner = tier 4 machine part
-    .desc = { ent-MarkerBase.desc }
-    .suffix = Spawner
 
 ent-SalvageMobSpawner = Salvage Mob Spawner
     .desc = { ent-MarkerBase.desc }
@@ -38,4 +27,11 @@ ent-SpawnMobKangarooSalvage = Salvage Space Kangaroo Spawner
 
 ent-SpawnMobSpiderSalvage = Salvage Space Spider Spawner
     .desc = { ent-MarkerBase.desc }
+
+ent-SpawnMobCobraSalvage = Salvage Space Cobra Spawner
+    .desc = { ent-MarkerBase.desc }
+
+ent-SalvageFleshSpawner = Salvage Flesh Spawner
+    .desc = { ent-SalvageMobSpawner.desc }
+    .suffix = 100
 

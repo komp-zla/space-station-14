@@ -38,6 +38,9 @@ ent-UplinkImplanter = uplink implanter
 ent-EmpImplanter = EMP implanter
     .desc = { ent-BaseImplantOnlyImplanterSyndi.desc }
 
+ent-ScramImplanter = scram implanter
+    .desc = { ent-BaseImplantOnlyImplanterSyndi.desc }
+
 ent-DnaScramblerImplanter = DNA scrambler implanter
     .desc = { ent-BaseImplantOnlyImplanterSyndi.desc }
 

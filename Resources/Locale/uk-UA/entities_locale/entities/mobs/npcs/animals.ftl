@@ -11,6 +11,12 @@ ent-MobAngryBee = bee
 ent-MobChicken = chicken
     .desc = Comes before an egg, and IS a dinosaur!
 
+ent-MobChicken1 = { ent-MobChicken }
+    .desc = { ent-MobChicken.desc }
+
+ent-MobChicken2 = { ent-MobChicken }
+    .desc = { ent-MobChicken.desc }
+
 ent-FoodEggChickenFertilized = { ent-FoodEgg }
     .desc = { ent-FoodEgg.desc }
     .suffix = Fertilized, Chicken
@@ -62,8 +68,26 @@ ent-MobKangaroo = kangaroo
 ent-MobBoxingKangaroo = boxing kangaroo
     .desc = { ent-MobKangaroo.desc }
 
+ent-MobBaseAncestor = genetic ancestor
+    .desc = The genetic bipedal ancestor of... Uh... Something. Yeah, there's definitely something on the station that descended from whatever this is.
+
 ent-MobMonkey = monkey
     .desc = New church of neo-darwinists actually believe that EVERY animal evolved from a monkey. Tastes like pork, and killing them is both fun and relaxing.
+
+ent-MobBaseSyndicateMonkey = monkey
+    .desc = New church of neo-darwinists actually believe that EVERY animal evolved from a monkey. Tastes like pork, and killing them is both fun and relaxing.
+    .suffix = syndicate base
+
+ent-MobMonkeySyndicateAgent = monkey
+    .desc = New church of neo-darwinists actually believe that EVERY animal evolved from a monkey. Tastes like pork, and killing them is both fun and relaxing.
+    .suffix = syndicate
+
+ent-MobMonkeySyndicateAgentNukeops = { ent-MobBaseSyndicateMonkey }
+    .desc = { ent-MobBaseSyndicateMonkey.desc }
+    .suffix = NukeOps
+
+ent-MobKobold = kobold
+    .desc = Cousins to the sentient race of lizard people, kobolds blend in with their natural habitat and are as nasty as monkeys; ready to pull out your hair and stab you to death.
 
 ent-MobGuidebookMonkey = guidebook monkey
     .desc = A hopefully helpful monkey whose only purpose in life is for you to click on. Does this count as having a monkey give you a tutorial?
@@ -103,10 +127,6 @@ ent-MobPenguin = penguin
 ent-MobGrenadePenguin = grenade penguin
     .desc = A small penguin with a grenade strapped around its neck. Harvested by the Syndicate from icy shit-hole planets.
 
-ent-MobMonkeySyndicateAgent = monkey
-    .desc = New church of neo-darwinists actually believe that EVERY animal evolved from a monkey. Tastes like pork, and killing them is both fun and relaxing.
-    .suffix = syndicate
-
 ent-MobSnake = snake
     .desc = Hissss! Bites aren't poisonous.
 
@@ -122,6 +142,10 @@ ent-MobClownSpider = clown spider
 
 ent-MobPossum = possum
     .desc = '"O Possum! My Possum!" -- Walt Whitman, 1865'
+
+ent-MobPossumOld = possum
+    .desc = { ent-MobPossum.desc }
+    .suffix = Old sprite
 
 ent-MobRaccoon = raccoon
     .desc = Trash panda!
@@ -143,6 +167,9 @@ ent-MobCat = cat
 
 ent-MobCatCalico = calico cat
     .desc = Feline pet, very funny.
+
+ent-MobCatSyndy = syndicat
+    .desc = Explosive kitten.
 
 ent-MobCatSpace = space cat
     .desc = Feline pet, prepared for the worst.

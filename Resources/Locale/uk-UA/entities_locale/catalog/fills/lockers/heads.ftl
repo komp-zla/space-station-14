@@ -10,6 +10,10 @@ ent-LockerCaptainFilled = { ent-LockerCaptain }
     .desc = { ent-LockerCaptain.desc }
     .suffix = Filled
 
+ent-LockerCaptainFilledNoLaser = { ent-LockerCaptain }
+    .desc = { ent-LockerCaptain.desc }
+    .suffix = Filled
+
 ent-LockerHeadOfPersonnelFilled = { ent-LockerHeadOfPersonnel }
     .desc = { ent-LockerHeadOfPersonnel.desc }
     .suffix = Filled
@@ -45,4 +49,8 @@ ent-LockerHeadOfSecurityFilledHardsuit = { ent-LockerHeadOfSecurity }
 ent-LockerHeadOfSecurityFilled = { ent-LockerHeadOfSecurity }
     .desc = { ent-LockerHeadOfSecurity.desc }
     .suffix = Filled
+
+ent-LockerFreezerVaultFilled = { ent-LockerFreezerBase }
+    .desc = { ent-LockerFreezerBase.desc }
+    .suffix = Vault, Locked
 

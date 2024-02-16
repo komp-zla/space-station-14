@@ -10,3 +10,7 @@ ent-BriefcaseSyndieLobbyingBundleFilled = brown briefcase
     .desc = { ent-BriefcaseSyndie.desc }
     .suffix = Syndicate, Spesos
 
+ent-BriefcaseThiefBribingBundleFilled = brown briefcase
+    .desc = { ent-BriefcaseSyndie.desc }
+    .suffix = Thief, Spesos
+

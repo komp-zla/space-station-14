@@ -31,6 +31,9 @@ ent-ClothingUniformJumpsuitChiefEngineerTurtle = chief engineer's turtleneck
 ent-ClothingUniformJumpsuitChaplain = chaplain's jumpsuit
     .desc = It's a black jumpsuit, often worn by religious folk.
 
+ent-ClothingUniformJumpsuitCentcomAgent = CentCom agent's jumpsuit
+    .desc = A suit worn by CentCom's legal team. Smells of burnt coffee.
+
 ent-ClothingUniformJumpsuitCentcomOfficial = CentCom official's jumpsuit
     .desc = It's a jumpsuit worn by CentCom's officials.
 
@@ -123,6 +126,9 @@ ent-ClothingUniformJumpsuitQM = quartermaster's jumpsuit
 
 ent-ClothingUniformJumpsuitQMTurtleneck = quartermasters's turtleneck
     .desc = A sharp turtleneck made for the hardy work environment of supply.
+
+ent-ClothingUniformJumpsuitQMFormal = quartermasters's formal suit
+    .desc = Inspired by the quartermasters of military's past, the perfect outfit for supplying a formal occasion.
 
 ent-ClothingUniformJumpsuitResearchDirector = research director's turtleneck
     .desc = It's a turtleneck worn by those with the know-how to achieve the position of Research Director. Its fabric provides minor protection from biological contaminants.
@@ -358,4 +364,7 @@ ent-ClothingUniformJumpsuitCasualPurple = casual purple jumpsuit
 
 ent-ClothingUniformJumpsuitCasualRed = casual red jumpsuit
     .desc = A loose worn red shirt with a grey pants, perfect for someone looking to relax.
+
+ent-ClothingUniformJumpsuitFamilyGuy = familiar garbs
+    .desc = Makes you remember the time you did something funny.
 

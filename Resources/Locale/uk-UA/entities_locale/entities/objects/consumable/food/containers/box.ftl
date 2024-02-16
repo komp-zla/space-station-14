@@ -30,7 +30,10 @@ ent-FoodBoxDonkpocketTeriyaki = box of teriyaki-flavoured donk-pockets
 ent-FoodBoxDonkpocketPizza = box of pizza-flavoured donk-pockets
     .desc = { ent-FoodBoxDonkpocket.desc }
 
-ent-FoodBoxDonkpocketGondola = box of gondola-flavoured donk-pockets
+ent-FoodBoxDonkpocketStonk = box of limited edition stonk-pockets
+    .desc = { ent-FoodBoxDonkpocket.desc }
+
+ent-FoodBoxDonkpocketCarp = box of carp-pockets
     .desc = { ent-FoodBoxDonkpocket.desc }
 
 ent-FoodBoxDonkpocketBerry = box of berry-flavoured donk-pockets

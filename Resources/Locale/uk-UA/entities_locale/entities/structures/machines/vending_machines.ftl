@@ -86,9 +86,6 @@ ent-VendingMachineSeeds = { ent-VendingMachineSeedsUnlocked }
     .desc = { ent-VendingMachineSeedsUnlocked.desc }
     .suffix = Hyroponics
 
-ent-VendingMachineSmartFridge = SmartFridge
-    .desc = A refrigerated storage unit for keeping items cold and fresh.
-
 ent-VendingMachineSnack = Getmore Chocolate Corp
     .desc = A snack machine courtesy of the Getmore Chocolate Corporation, based out of Mars.
 

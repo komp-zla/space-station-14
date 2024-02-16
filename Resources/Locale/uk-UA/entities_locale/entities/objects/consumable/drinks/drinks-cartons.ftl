@@ -1,6 +1,8 @@
 ent-DrinkCartonBaseFull = { ent-DrinkBase }
     .desc = { ent-DrinkBase.desc }
 
+ent-DrinkCartonVisualsOpenable = 
+
 ent-DrinkJuiceLimeCarton = lime juice
     .desc = Sweet-sour goodness.
 
@@ -18,4 +20,7 @@ ent-DrinkMilkCarton = milk
 
 ent-DrinkSoyMilkCarton = soy milk
     .desc = White and nutritious soy goodness!
+
+ent-DrinkOatMilkCarton = oat milk
+    .desc = It's oat milk. Tan and nutritious goodness!
 

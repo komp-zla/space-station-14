@@ -21,3 +21,6 @@ ent-GasPipeFourway = { ent-GasPipeBase }
     .desc = { ent-GasPipeBase.desc }
     .suffix = Fourway
 
+ent-GasPipeBroken = broken pipe
+    .desc = It used to hold gas.
+

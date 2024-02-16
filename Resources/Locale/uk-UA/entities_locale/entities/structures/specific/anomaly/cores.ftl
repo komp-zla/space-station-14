@@ -33,6 +33,14 @@ ent-AnomalyCoreElectricity = { ent-BaseAnomalyCore }
     .desc = { ent-BaseAnomalyCore.desc }
     .suffix = Electricity
 
+ent-AnomalyCoreFlora = { ent-BaseAnomalyCore }
+    .desc = { ent-BaseAnomalyCore.desc }
+    .suffix = Flora
+
+ent-AnomalyCoreShadow = { ent-[ BaseAnomalyCore, BaseShadow ] }
+    .desc = { ent-[ BaseAnomalyCore, BaseShadow ].desc }
+    .suffix = Shadow
+
 ent-BaseAnomalyInertCore = { ent-BaseAnomalyCore }
     .desc = { ent-BaseAnomalyCore.desc }
 
@@ -67,4 +75,12 @@ ent-AnomalyCoreBluespaceInert = { ent-BaseAnomalyInertCore }
 ent-AnomalyCoreElectricityInert = { ent-BaseAnomalyInertCore }
     .desc = { ent-BaseAnomalyInertCore.desc }
     .suffix = Electricity, Inert
+
+ent-AnomalyCoreFloraInert = { ent-BaseAnomalyInertCore }
+    .desc = { ent-BaseAnomalyInertCore.desc }
+    .suffix = Flora, Inert
+
+ent-AnomalyCoreShadowInert = { ent-[ BaseAnomalyInertCore, BaseShadow ] }
+    .desc = { ent-[ BaseAnomalyInertCore, BaseShadow ].desc }
+    .suffix = Shadow, Inert
 

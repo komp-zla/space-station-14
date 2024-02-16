@@ -25,6 +25,9 @@ ent-UplinkImplant = uplink implant
 ent-EmpImplant = EMP implant
     .desc = This implant creates an electromagnetic pulse when activated.
 
+ent-ScramImplant = scram implant
+    .desc = This implant randomly teleports the user within a large radius when activated.
+
 ent-DnaScramblerImplant = DNA scrambler implant
     .desc = This implant lets the user randomly change their appearance and name once.
 

@@ -10,13 +10,16 @@ ent-ClothingBackpackSatchelClownFilled = { ent-ClothingBackpackSatchelClown }
 ent-ClothingBackpackSatchelSecurityFilled = { ent-ClothingBackpackSatchelSecurity }
     .desc = { ent-ClothingBackpackSatchelSecurity.desc }
 
-ent-ClothingBackpackSatchelSecurityFilledDetective = { ent-ClothingBackpackSatchelSecurity }
-    .desc = { ent-ClothingBackpackSatchelSecurity.desc }
+ent-ClothingBackpackSatchelFilledDetective = { ent-ClothingBackpackSatchel }
+    .desc = { ent-ClothingBackpackSatchel.desc }
 
 ent-ClothingBackpackSatchelBrigmedicFilled = { ent-ClothingBackpackSatchelBrigmedic }
     .desc = { ent-ClothingBackpackSatchelBrigmedic.desc }
 
 ent-ClothingBackpackSatchelMedicalFilled = { ent-ClothingBackpackSatchelMedical }
+    .desc = { ent-ClothingBackpackSatchelMedical.desc }
+
+ent-ClothingBackpackSatchelParamedicFilled = { ent-ClothingBackpackSatchelMedical }
     .desc = { ent-ClothingBackpackSatchelMedical.desc }
 
 ent-ClothingBackpackSatchelCaptainFilled = { ent-ClothingBackpackSatchelCaptain }
@@ -78,4 +81,7 @@ ent-ClothingBackpackSatchelDrone = { ent-ClothingBackpackSatchel }
 
 ent-ClothingBackpackSatchelMimeFilled = { ent-ClothingBackpackSatchelMime }
     .desc = { ent-ClothingBackpackSatchelMime.desc }
+
+ent-ClothingBackpackSatchelHoldingAdmin = { ent-ClothingBackpackSatchelHolding }
+    .desc = { ent-ClothingBackpackSatchelHolding.desc }
 

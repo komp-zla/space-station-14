@@ -28,9 +28,6 @@ ent-RandomTraitorProgressObjective = { ent-BaseTraitorSocialObjective }
 ent-CMOHyposprayStealObjective = { ent-BaseTraitorStealObjective }
     .desc = { ent-BaseTraitorStealObjective.desc }
 
-ent-BaseRDObjective = { ent-BaseTraitorStealObjective }
-    .desc = { ent-BaseTraitorStealObjective.desc }
-
 ent-RDHardsuitStealObjective = { ent-BaseRDObjective }
     .desc = { ent-BaseRDObjective.desc }
 

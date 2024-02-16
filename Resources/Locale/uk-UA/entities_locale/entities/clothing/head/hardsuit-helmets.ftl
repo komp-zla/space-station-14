@@ -13,6 +13,9 @@ ent-ClothingHeadHelmetHardsuitSpatio = spationaut hardsuit helmet
 ent-ClothingHeadHelmetHardsuitSalvage = salvage hardsuit helmet
     .desc = A special helmet designed for work in a hazardous, low pressure environment. Has reinforced plating for wildlife encounters and dual floodlights.
 
+ent-ClothingHeadHelmetHardsuitMaxim = salvager maxim helmet
+    .desc = A predication of decay washes over your mind.
+
 ent-ClothingHeadHelmetHardsuitSecurity = security hardsuit helmet
     .desc = Armored hardsuit helmet for security needs.
 
@@ -92,4 +95,10 @@ ent-ClothingHeadHelmetHardsuitDeathsquad = deathsquad hardsuit helmet
 
 ent-ClothingHeadHelmetHardsuitClown = clown hardsuit helmet
     .desc = A clown hardsuit helmet.
+
+ent-ClothingHeadHelmetHardsuitMime = mime hardsuit helmet
+    .desc = A mime hardsuit helmet.
+
+ent-ClothingHeadHelmetHardsuitSanta = Santa's hardsuit helmet
+    .desc = A festive-looking hardsuit helmet that provides the jolly gift-giver protection from low-pressure environments.
 
