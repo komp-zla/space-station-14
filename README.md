@@ -1,38 +1,33 @@
 <p align="center"> <img alt="Space Station 14" width="880" height="300" src="https://raw.githubusercontent.com/space-wizards/asset-dump/de329a7898bb716b9d5ba9a0cd07f38e61f1ed05/github-logo.svg" /></p>
 
-Space Station 14 is a remake of SS13 that runs on [Robust Toolbox](https://github.com/space-wizards/RobustToolbox), our homegrown engine written in C#.
+Космічна Станція 14 це ремейк Космічної Станції 13, що працює на рушію [Robust Toolbox](https://github.com/space-wizards/RobustToolbox), що написан на C#.
 
-This is the primary repo for Space Station 14. To prevent people forking RobustToolbox, a "content" pack is loaded by the client and server. This content pack contains everything needed to play the game on one specific server.
+Цей репозіторій містить в собі переклад гри на українську мову. Ви можете використовувати його на своїх серверах.
 
-If you want to host or create content for SS14, this is the repo you need. It contains both RobustToolbox and the content pack for development of new content packs.
+## Посилання
 
-## Links
+[Сайт (Англійською)](https://spacestation14.io/) | [Discord (Англійською)](https://discord.ss14.io/) | [Форум (Англійською)](https://forum.spacestation14.io/) | [Steam](https://store.steampowered.com/app/1255460/Space_Station_14/) | [Лаунчер](https://spacestation14.io/about/nightlies/)
 
-[Website](https://spacestation14.io/) | [Discord](https://discord.ss14.io/) | [Forum](https://forum.spacestation14.io/) | [Steam](https://store.steampowered.com/app/1255460/Space_Station_14/) | [Standalone Download](https://spacestation14.io/about/nightlies/)
+## Документація/Вікі
 
-## Documentation/Wiki
+[Сайт документації (Англійською)](https://docs.spacestation14.io/) містить в собі документацію контента, рушію, ігрових дизайнів та інше. Також тут знаходиться багато ресурсів для нових контриб'юторів.
 
-Our [docs site](https://docs.spacestation14.io/) has documentation on SS14s content, engine, game design and more. We also have lots of resources for new contributors to the project.
+## Допомога розробці
 
-## Contributing
+Я буду рада прийняти допомогу в перекладі цього репозиторію..
 
-We are happy to accept contributions from anybody. Get in Discord if you want to help. We've got a [list of issues](https://github.com/space-wizards/space-station-14-content/issues) that need to be done and anybody can pick them up. Don't be afraid to ask for help either!  
-Just make sure your changes and pull requests are in accordance with the [contribution guidelines](https://docs.spacestation14.com/en/general-development/codebase-info/pull-request-guidelines.html).
+## Збірка
 
-We are not currently accepting translations of the game on our main repository. If you would like to translate the game into another language consider creating a fork or contributing to a fork.
+1. Клонуйте цей репозиторій.
+2. Запустить `RUN_THIS.py` щоб ініціализувати підмодулі та завантажити рушій.
+3. Скомпілюйте рішення
 
-## Building
-
-1. Clone this repo.
-2. Run `RUN_THIS.py` to init submodules and download the engine.
-3. Compile the solution.
-
-[More detailed instructions on building the project.](https://docs.spacestation14.com/en/general-development/setup.html)
+[Більш детальна інструкція по збірці проекту (Англійською)](https://docs.spacestation14.com/en/general-development/setup.html)
 
 ## License
 
-All code for the content repository is licensed under [MIT](https://github.com/space-wizards/space-station-14/blob/master/LICENSE.TXT).
+Увесь код у цьому репозиторії має лицензію [MIT](https://github.com/space-wizards/space-station-14/blob/master/LICENSE.TXT).
 
-Most assets are licensed under [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) unless stated otherwise. Assets have their license and the copyright in the metadata file. [Example](https://github.com/space-wizards/space-station-14/blob/master/Resources/Textures/Objects/Tools/crowbar.rsi/meta.json).
+Більшість асетів лицензується [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), якщо не вказано інакше. Лицензія та копирайт асетів знаходиться в мета файлах. [Приклад](https://github.com/space-wizards/space-station-14/blob/master/Resources/Textures/Objects/Tools/crowbar.rsi/meta.json).
 
-Note that some assets are licensed under the non-commercial [CC-BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) or similar non-commercial licenses and will need to be removed if you wish to use this project commercially.
+Зауважте, що деякі асети лицензовані не-комерційною [CC-BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) або іншою не-комерційною лицензією, і їх потрібно буде прибрати/видалити у випадку використання цього проекту у комерціоних цілях.
