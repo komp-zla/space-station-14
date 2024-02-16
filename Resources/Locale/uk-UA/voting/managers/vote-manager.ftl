@@ -1,22 +1,22 @@
 # Displayed as initiator of vote when no user creates the vote
-ui-vote-initiator-server = The server
+ui-vote-initiator-server = Сервер
 
 ## Default.Votes
 
-ui-vote-restart-title = Restart round
-ui-vote-restart-succeeded = Restart vote succeeded.
-ui-vote-restart-failed = Restart vote failed (need { TOSTRING($ratio, "P0") }).
-ui-vote-restart-fail-not-enough-ghost-players = Restart vote failed: A minimum of { $ghostPlayerRequirement }% ghost players is required to initiate a restart vote. Currently, there are not enough ghost players.
-ui-vote-restart-yes = Yes
-ui-vote-restart-no = No
-ui-vote-restart-abstain = Abstain
+ui-vote-restart-title = Перезапустити раунд
+ui-vote-restart-succeeded = Успішне голосування.
+ui-vote-restart-failed = Голосування неуспішне (Треба мінімум { TOSTRING($ratio, "P0") }).
+ui-vote-restart-fail-not-enough-ghost-players = Голосування неуспішне: Необхідно мінімум { $ghostPlayerRequirement }% привидів щоб перезапустити раунд.
+ui-vote-restart-yes = Так
+ui-vote-restart-no = Ні
+ui-vote-restart-abstain = Утриматися
 
-ui-vote-gamemode-title = Next gamemode
-ui-vote-gamemode-tie = Tie for gamemode vote! Picking... { $picked }
-ui-vote-gamemode-win = { $winner } won the gamemode vote!
+ui-vote-gamemode-title = Наступний режим
+ui-vote-gamemode-tie = Нічия! Обираю... { $picked }
+ui-vote-gamemode-win = { $winner } переміг!
 
-ui-vote-map-title = Next map
-ui-vote-map-tie = Tie for map vote! Picking... { $picked }
-ui-vote-map-win = { $winner } won the map vote!
-ui-vote-map-notlobby = Voting for maps is only valid in the pre-round lobby!
-ui-vote-map-notlobby-time = Voting for maps is only valid in the pre-round lobby with { $time } remaining!
+ui-vote-map-title = Наступна мапа
+ui-vote-map-tie = Нічия! Обираю... { $picked }
+ui-vote-map-win = { $winner } перемогла!
+ui-vote-map-notlobby = Голосування за мапу можливо тільки в лобі!
+ui-vote-map-notlobby-time = Голосування за мапу можливо тільки в лобі з часом { $time } remaining!
