@@ -7,14 +7,14 @@ game-ticker-unknown-role = Невідома
 game-ticker-delay-start = Запуск раунду було відкладено на {$seconds} секунд.
 game-ticker-pause-start = Запуск раунду було відкладено.
 game-ticker-pause-start-resumed = Round start countdown is now resumed.
-game-ticker-player-join-game-message = Вітаємо на Колоніальних Морпіхах 14! Якщо це ваш перший раз, прочитайте правила та не бійтеся просити допомоги у LOOC (локальному OOC), OOC (зазвичай вимкнутий під час раунду) чи у АХелпі (F1).
-game-ticker-get-info-text = Привіт і вітаємо на [color=white]Колоніальних Морпіхах 14![/color]
+game-ticker-player-join-game-message = Вітаємо на Космічної Станції 14! Якщо це ваш перший раз, прочитайте правила та не бійтеся просити допомоги у LOOC (локальному OOC), OOC (зазвичай вимкнутий під час раунду) чи у АХелпі (F1).
+game-ticker-get-info-text = Привіт і вітаємо на [color=white]Космічної Станції 14![/color]
                             Поточний раунд: [color=white]#{$roundId}[/color]
                             Наразі гравців на сервері: [color=white]{$playerCount}[/color]
                             Поточна мапа: [color=white]{$mapName}[/color]
                             Поточний режим гри: [color=white]{$gmTitle}[/color]
                             >[color=yellow]{$desc}[/color]
-game-ticker-get-info-preround-text = Привіт і вітаємо на [color=white]Колоніальних Морпіхах 14![/color]
+game-ticker-get-info-preround-text = Привіт і вітаємо на [color=white]Космічної Станції 14![/color]
                             Поточний раунд: [color=white]#{$roundId}[/color]
                             Наразі гравців на сервері: [color=white]{$playerCount}[/color] ([color=white]{$readyCount}[/color] {$readyCount ->
                                 [one] готовий
