@@ -23,10 +23,10 @@ ent-ClothingEyesGlassesOutlawGlasses = outlaw glasses
     .desc = A must for every self-respecting undercover agent.
 
 ent-ClothingEyesGlassesSunglasses = sun glasses
-    .desc = Useful both for security and cargonia.
+    .desc = A pair of black sunglasses.
 
-ent-ClothingEyesGlassesSecurity = security sunglasses
-    .desc = Strangely ancient technology used to help provide rudimentary eye cover. Enhanced shielding blocks many flashes. Often worn by budget security officers.
+ent-ClothingEyesGlassesSecurity = security glasses
+    .desc = Upgraded sunglasses that provide flash immunity and a security HUD.
 
 ent-ClothingEyesGlassesMercenary = mercenary glasses
     .desc = Glasses made for combat, to protect the eyes from bright blinding flashes.

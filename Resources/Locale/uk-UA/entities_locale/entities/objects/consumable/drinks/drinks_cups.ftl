@@ -31,7 +31,7 @@ ent-DrinkMugMetal = metal mug
 ent-DrinkMugMoebius = moebius mug
     .desc = A mug with a Moebius Laboratories logo on it. Not even your morning coffee is safe from corporate advertising.
 
-ent-DrinkMugOne = []
+ent-DrinkMugOne = { ent-DrinkBaseMug }
     .desc = "A white mug, it prominently features a
 
 ent-DrinkMugRainbow = rainbow mug
@@ -40,22 +40,22 @@ ent-DrinkMugRainbow = rainbow mug
 ent-DrinkMugRed = red mug
     .desc = A red and black mug.
 
-ent-DrinkHotCoco = Hot chocolate
+ent-DrinkHotCoco = hot chocolate
     .desc = A heated drink consisting melted chocolate and heated milk.
 
-ent-DrinkHotCoffee = Coffee
+ent-DrinkHotCoffee = coffee
     .desc = Coffee is a brewed drink prepared from roasted seeds, commonly called coffee beans, of the coffee plant.
 
-ent-DrinkCafeLatte = Cafe latte
+ent-DrinkCafeLatte = cafe latte
     .desc = A nice, strong and tasty beverage while you are reading.
 
-ent-DrinkTeacup = Teacup
+ent-DrinkTeacup = teacup
     .desc = A plain white porcelain teacup.
 
-ent-DrinkGreenTea = Green tea
+ent-DrinkGreenTea = green tea
     .desc = A plain white porcelain teacup.
 
-ent-DrinkLean = Grape Juice
+ent-DrinkLean = grape Juice
     .desc = Damn, no fun allowed.
 
 ent-DrinkWaterCup = water cup

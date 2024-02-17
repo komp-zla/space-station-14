@@ -34,10 +34,10 @@ ent-ActionActivateDnaScramblerImplant = Scramble DNA
 ent-ActionToggleSuitPiece = Toggle Suit Piece
     .desc = Remember to equip the important pieces of your suit before going into action.
 
-ent-ActionCombatModeToggle = []
+ent-ActionCombatModeToggle = [color=red]Combat Mode[/color]
     .desc = Enter combat mode
 
-ent-ActionCombatModeToggleOff = []
+ent-ActionCombatModeToggleOff = [color=red]Combat Mode[/color]
     .desc = Enter combat mode
 
 ent-ActionChangeVoiceMask = Set name

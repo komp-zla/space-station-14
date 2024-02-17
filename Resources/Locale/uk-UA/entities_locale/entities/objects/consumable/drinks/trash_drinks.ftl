@@ -4,7 +4,7 @@ ent-DrinkBottleBaseEmpty = base empty bottle
 ent-DrinkCartonBaseEmpty = base empty carton
     .desc = An empty carton.
 
-ent-DrinkBottleAbsinthe = jailbreaker verte bottle
+ent-DrinkBottleAbsinthe = Jailbreaker Verte bottle
     .desc = { ent-DrinkBottleBaseEmpty.desc }
 
 ent-DrinkBottleAlcoClear = alcohol bottle
@@ -19,7 +19,7 @@ ent-DrinkBottleBeer = beer bottle
 ent-DrinkBottleCognac = cognac bottle
     .desc = { ent-DrinkBottleBaseEmpty.desc }
 
-ent-DrinkBottleGin = griffeater gin bottle
+ent-DrinkBottleGin = Griffeater gin bottle
     .desc = { ent-DrinkBottleBaseEmpty.desc }
 
 ent-DrinkBottleGoldschlager = goldschlager bottle
@@ -64,7 +64,7 @@ ent-DrinkCartonOrange = orange juice carton
 ent-DrinkCartonTomato = tomato juice carton
     .desc = { ent-DrinkCartonBaseEmpty.desc }
 
-ent-DrinkCartonCream = Milk Cream carton
+ent-DrinkCartonCream = milk cream carton
     .desc = { ent-DrinkCartonBaseEmpty.desc }
 
 ent-DrinkCartonMilk = milk carton

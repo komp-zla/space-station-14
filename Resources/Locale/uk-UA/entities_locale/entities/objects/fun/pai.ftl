@@ -1,7 +1,7 @@
 ent-PersonalAI = personal ai device
     .desc = Your electronic pal who's fun to be with!
 
-ent-SyndicatePersonalAI = Syndicate personal ai device
+ent-SyndicatePersonalAI = syndicate personal ai device
     .desc = Your Syndicate pal who's fun to be with!
 
 ent-PotatoAI = potato artificial intelligence

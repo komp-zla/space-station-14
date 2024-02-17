@@ -1,59 +1,59 @@
-ent-CrateNPCBee = { ent-CrateLivestock }
-    .desc = { ent-CrateLivestock.desc }
+ent-CrateNPCBee = crate of bees
+    .desc = A crate containing a swarm of eight bees.
 
-ent-CrateNPCButterflies = { ent-CrateLivestock }
-    .desc = { ent-CrateLivestock.desc }
+ent-CrateNPCButterflies = crate of butterflies
+    .desc = A crate containing five butterflies.
 
-ent-CrateNPCCat = { ent-CrateLivestock }
-    .desc = { ent-CrateLivestock.desc }
+ent-CrateNPCCat = cat crate
+    .desc = A crate containing a single cat.
 
-ent-CrateNPCChicken = { ent-CrateLivestock }
-    .desc = { ent-CrateLivestock.desc }
+ent-CrateNPCChicken = chicken crate
+    .desc = A crate containing four fully grown chickens.
 
-ent-CrateNPCCrab = { ent-CrateLivestock }
-    .desc = { ent-CrateLivestock.desc }
+ent-CrateNPCCrab = crab crate
+    .desc = A crate containing three huge crabs.
 
-ent-CrateNPCDuck = { ent-CrateLivestock }
-    .desc = { ent-CrateLivestock.desc }
+ent-CrateNPCDuck = duck crate
+    .desc = A crate containing six fully grown ducks.
 
-ent-CrateNPCCorgi = { ent-CrateLivestock }
-    .desc = { ent-CrateLivestock.desc }
+ent-CrateNPCCorgi = corgi crate
+    .desc = A crate containing a single corgi.
 
-ent-CrateNPCPuppyCorgi = { ent-CrateLivestock }
-    .desc = { ent-CrateLivestock.desc }
+ent-CrateNPCPuppyCorgi = puppy corgi crate
+    .desc = A crate containing a single puppy corgi. Awww.
 
-ent-CrateNPCCow = { ent-CrateLivestock }
-    .desc = { ent-CrateLivestock.desc }
+ent-CrateNPCCow = cow crate
+    .desc = A crate containing a single cow.
 
-ent-CrateNPCGoat = { ent-CrateLivestock }
-    .desc = { ent-CrateLivestock.desc }
+ent-CrateNPCGoat = goat crate
+    .desc = A crate containing a single goat.
 
-ent-CrateNPCGoose = { ent-CrateLivestock }
-    .desc = { ent-CrateLivestock.desc }
+ent-CrateNPCGoose = goose crate
+    .desc = A crate containing two geese.
 
-ent-CrateNPCGorilla = { ent-CrateLivestock }
-    .desc = { ent-CrateLivestock.desc }
+ent-CrateNPCGorilla = gorilla crate
+    .desc = A crate containing a single gorilla.
 
-ent-CrateNPCMonkeyCube = { ent-CrateGenericSteel }
-    .desc = { ent-CrateGenericSteel.desc }
+ent-CrateNPCMonkeyCube = monkey cube crate
+    .desc = A crate containing single box of monkey cubes.
 
 ent-CrateNPCKoboldCube = kobold cube crate
     .desc = A crate containing single box of kobold cubes.
 
-ent-CrateNPCMouse = { ent-CrateLivestock }
-    .desc = { ent-CrateLivestock.desc }
+ent-CrateNPCMouse = mice crate
+    .desc = A crate containing five mice.
 
-ent-CrateNPCParrot = { ent-CrateLivestock }
-    .desc = { ent-CrateLivestock.desc }
+ent-CrateNPCParrot = parrot crate
+    .desc = A crate containing three parrots.
 
-ent-CrateNPCPenguin = { ent-CrateLivestock }
-    .desc = { ent-CrateLivestock.desc }
+ent-CrateNPCPenguin = penguin crate
+    .desc = A crate containing two penguins.
 
-ent-CrateNPCPig = { ent-CrateLivestock }
-    .desc = { ent-CrateLivestock.desc }
+ent-CrateNPCPig = pig crate
+    .desc = A crate containing a single pig.
 
-ent-CrateNPCSnake = { ent-CrateLivestock }
-    .desc = { ent-CrateLivestock.desc }
+ent-CrateNPCSnake = snake crate
+    .desc = A crate containing three snakes.
 
 ent-CrateNPCHamster = { ent-CrateRodentCage }
     .desc = { ent-CrateRodentCage.desc }
@@ -63,11 +63,11 @@ ent-CrateNPCHamlet = { ent-CrateRodentCage }
     .desc = { ent-CrateRodentCage.desc }
     .suffix = Hamlet
 
-ent-CrateNPCLizard = { ent-CrateLivestock }
-    .desc = { ent-CrateLivestock.desc }
+ent-CrateNPCLizard = lizard crate
+    .desc = A crate containing a lizard.
 
-ent-CrateNPCKangaroo = { ent-CrateLivestock }
-    .desc = { ent-CrateLivestock.desc }
+ent-CrateNPCKangaroo = kangaroo crate
+    .desc = A crate containing a kangaroo.
 
 ent-CrateNPCMothroach = crate of mothroaches
     .desc = A crate containing four mothroaches.

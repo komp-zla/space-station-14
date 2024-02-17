@@ -1,5 +1,5 @@
 ent-MachineAnomalyVessel = anomaly vessel
-    .desc = A container able to harness a scan of an anomaly and turn it into research points.
+    .desc = A container able to harness a scan of an anomaly and turn it into research data.
 
 ent-MachineAnomalyVesselExperimental = experimental anomaly vessel
     .desc = An advanced anomaly vessel capable of greater research potential at the cost of increased volatility and low-level radioactive decay into the environment.

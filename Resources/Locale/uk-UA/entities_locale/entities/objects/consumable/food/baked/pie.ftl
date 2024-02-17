@@ -53,7 +53,7 @@ ent-FoodPieFrostySlice = slice of frosty pie
     .desc = { ent-FoodPieSliceBase.desc }
 
 ent-FoodTartMime = mime tart
-    .desc = []
+    .desc = \"      \"
 
 ent-FoodTartMimeSlice = slice of mime tart
     .desc = { ent-FoodPieSliceBase.desc }

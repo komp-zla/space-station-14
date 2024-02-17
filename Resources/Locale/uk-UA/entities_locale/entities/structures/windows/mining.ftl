@@ -1,7 +1,7 @@
 ent-MiningWindow = mining window
     .desc = { ent-Window.desc }
 
-ent-MiningWindowDiagonal = diagonal mining window
+ent-MiningWindowDiagonal = { ent-ShuttleWindow }
     .desc = { ent-ShuttleWindow.desc }
     .suffix = diagonal
 

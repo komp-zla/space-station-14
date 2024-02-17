@@ -1,33 +1,33 @@
-ent-PartGingerbread = []
+ent-PartGingerbread = gingerbead body part
     .desc = { ent-[BaseItem, BasePart].desc }
 
-ent-TorsoGingerbread = []
+ent-TorsoGingerbread = gingerbread torso
     .desc = { ent-[PartGingerbread, BaseTorso].desc }
 
-ent-HeadGingerbread = []
+ent-HeadGingerbread = gingerbread head
     .desc = { ent-[PartGingerbread, BaseHead].desc }
 
-ent-LeftArmGingerbread = []
+ent-LeftArmGingerbread = left gingerbread arm
     .desc = { ent-[PartGingerbread, BaseLeftArm].desc }
 
-ent-RightArmGingerbread = []
+ent-RightArmGingerbread = right gingerbread arm
     .desc = { ent-[PartGingerbread, BaseRightArm].desc }
 
-ent-LeftHandGingerbread = []
+ent-LeftHandGingerbread = left gingerbread hand
     .desc = { ent-[PartGingerbread, BaseLeftHand].desc }
 
-ent-RightHandGingerbread = []
+ent-RightHandGingerbread = right gingerbread hand
     .desc = { ent-[PartGingerbread, BaseRightHand].desc }
 
-ent-LeftLegGingerbread = []
+ent-LeftLegGingerbread = left gingerbread leg
     .desc = { ent-[PartGingerbread, BaseLeftLeg].desc }
 
-ent-RightLegGingerbread = []
+ent-RightLegGingerbread = right gingerbread leg
     .desc = { ent-[PartGingerbread, BaseRightLeg].desc }
 
-ent-LeftFootGingerbread = []
+ent-LeftFootGingerbread = left gingerbread foot
     .desc = { ent-[PartGingerbread, BaseLeftFoot].desc }
 
-ent-RightFootGingerbread = []
+ent-RightFootGingerbread = right gingerbread foot
     .desc = { ent-[PartGingerbread, BaseRightFoot].desc }
 

@@ -38,7 +38,7 @@ ent-FoodDonkpocketHonkWarm = warm honk-pocket
     .desc = The award-winning donk-pocket, now warm and toasty.
 
 ent-FoodDonkpocketBerry = berry-pocket
-    .desc = A relentlessly sweet donk-pocket first created for use in Operation Iraqi Freedom.
+    .desc = A relentlessly sweet donk-pocket. Made with 100% artificial flavoring.
 
 ent-FoodDonkpocketBerryWarm = warm berry-pocket
     .desc = A relentlessly sweet donk-pocket, now warm and delicious.

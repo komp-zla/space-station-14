@@ -8,7 +8,7 @@ ent-ToolboxElectricalFilled = electrical toolbox
 
 ent-ToolboxElectricalTurretFilled = electrical toolbox
     .desc = { ent-ToolboxElectricalTurret.desc }
-    .suffix = Filled
+    .suffix = Syndicate, Turret, Filled
 
 ent-ToolboxArtisticFilled = artistic toolbox
     .desc = { ent-ToolboxArtistic.desc }

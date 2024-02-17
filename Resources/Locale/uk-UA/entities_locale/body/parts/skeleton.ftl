@@ -1,33 +1,33 @@
-ent-PartSkeleton = []
+ent-PartSkeleton = skeleton body part
     .desc = { ent-BaseItem.desc }
 
-ent-TorsoSkeleton = []
+ent-TorsoSkeleton = skeleton torso
     .desc = { ent-PartSkeleton.desc }
 
-ent-HeadSkeleton = []
+ent-HeadSkeleton = skull
     .desc = Alas poor Yorick...
 
-ent-LeftArmSkeleton = []
+ent-LeftArmSkeleton = left skeleton arm
     .desc = { ent-PartSkeleton.desc }
 
-ent-RightArmSkeleton = []
+ent-RightArmSkeleton = right skeleton arm
     .desc = { ent-PartSkeleton.desc }
 
-ent-LeftHandSkeleton = []
+ent-LeftHandSkeleton = left skeleton hand
     .desc = { ent-PartSkeleton.desc }
 
-ent-RightHandSkeleton = []
+ent-RightHandSkeleton = right skeleton hand
     .desc = { ent-PartSkeleton.desc }
 
-ent-LeftLegSkeleton = []
+ent-LeftLegSkeleton = left skeleton leg
     .desc = { ent-PartSkeleton.desc }
 
-ent-RightLegSkeleton = []
+ent-RightLegSkeleton = right skeleton leg
     .desc = { ent-PartSkeleton.desc }
 
-ent-LeftFootSkeleton = []
+ent-LeftFootSkeleton = left skeleton foot
     .desc = { ent-PartSkeleton.desc }
 
-ent-RightFootSkeleton = []
+ent-RightFootSkeleton = right skeleton foot
     .desc = { ent-PartSkeleton.desc }
 

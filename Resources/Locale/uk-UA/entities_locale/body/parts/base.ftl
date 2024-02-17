@@ -1,33 +1,33 @@
-ent-BasePart = []
+ent-BasePart = body part
     .desc = { ent-BaseItem.desc }
 
-ent-BaseTorso = []
+ent-BaseTorso = torso
     .desc = { ent-BasePart.desc }
 
-ent-BaseHead = []
+ent-BaseHead = head
     .desc = { ent-BasePart.desc }
 
-ent-BaseLeftArm = []
+ent-BaseLeftArm = left arm
     .desc = { ent-BasePart.desc }
 
-ent-BaseRightArm = []
+ent-BaseRightArm = right arm
     .desc = { ent-BasePart.desc }
 
-ent-BaseLeftHand = []
+ent-BaseLeftHand = left hand
     .desc = { ent-BasePart.desc }
 
-ent-BaseRightHand = []
+ent-BaseRightHand = right hand
     .desc = { ent-BasePart.desc }
 
-ent-BaseLeftLeg = []
+ent-BaseLeftLeg = left leg
     .desc = { ent-BasePart.desc }
 
-ent-BaseRightLeg = []
+ent-BaseRightLeg = right leg
     .desc = { ent-BasePart.desc }
 
-ent-BaseLeftFoot = []
+ent-BaseLeftFoot = left foot
     .desc = { ent-BasePart.desc }
 
-ent-BaseRightFoot = []
+ent-BaseRightFoot = right foot
     .desc = { ent-BasePart.desc }
 

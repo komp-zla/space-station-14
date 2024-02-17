@@ -1,33 +1,33 @@
-ent-PartReptilian = []
+ent-PartReptilian = reptilian body part
     .desc = { ent-[BaseItem, BasePart].desc }
 
-ent-TorsoReptilian = []
+ent-TorsoReptilian = reptilian torso
     .desc = { ent-[PartReptilian, BaseTorso].desc }
 
-ent-HeadReptilian = []
+ent-HeadReptilian = reptilian head
     .desc = { ent-[PartReptilian, BaseHead].desc }
 
-ent-LeftArmReptilian = []
+ent-LeftArmReptilian = left reptilian arm
     .desc = { ent-[PartReptilian, BaseLeftArm].desc }
 
-ent-RightArmReptilian = []
+ent-RightArmReptilian = right reptilian arm
     .desc = { ent-[PartReptilian, BaseRightArm].desc }
 
-ent-LeftHandReptilian = []
+ent-LeftHandReptilian = left reptilian hand
     .desc = { ent-[PartReptilian, BaseLeftHand].desc }
 
-ent-RightHandReptilian = []
+ent-RightHandReptilian = right reptilian hand
     .desc = { ent-[PartReptilian, BaseRightHand].desc }
 
-ent-LeftLegReptilian = []
+ent-LeftLegReptilian = left reptilian leg
     .desc = { ent-[PartReptilian, BaseLeftLeg].desc }
 
-ent-RightLegReptilian = []
+ent-RightLegReptilian = right reptilian leg
     .desc = { ent-[PartReptilian, BaseRightLeg].desc }
 
-ent-LeftFootReptilian = []
+ent-LeftFootReptilian = left reptilian foot
     .desc = { ent-[PartReptilian, BaseLeftFoot].desc }
 
-ent-RightFootReptilian = []
+ent-RightFootReptilian = right reptilian foot
     .desc = { ent-[PartReptilian, BaseRightFoot].desc }
 

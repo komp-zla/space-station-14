@@ -26,7 +26,7 @@ ent-BaseCannonBall = base cannon ball
     .desc = { ent-BaseItem.desc }
 
 ent-CannonBall = cannonball
-    .desc = { ent-BaseGrenade.desc }
+    .desc = { ent-BaseCannonBall.desc }
     .suffix = Pirate
 
 ent-CannonBallGrapeshot = grapeshot

@@ -1,6 +1,6 @@
-ent-BaseItem = []
+ent-BaseItem = item
 
-ent-BaseStorageItem = []
+ent-BaseStorageItem = storage item
     .desc = { ent-BaseItem.desc }
 
 ent-BaseBagOpenClose = 

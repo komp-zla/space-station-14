@@ -1,5 +1,5 @@
 ent-ClothingEyesHudDiagnostic = diagnostic hud
-    .desc = A heads-up display capable of analyzing the integrity and status of robotics and exosuits.
+    .desc = A heads-up display capable of analyzing the integrity and status of robotics and exosuits. Made out of see-borg-ium.
 
 ent-ClothingEyesHudMedical = medical hud
     .desc = A heads-up display that scans the humanoids in view and provides accurate data about their health status.
@@ -23,7 +23,7 @@ ent-ClothingEyesHudMedOnionBeer = medthungerst hud
     .desc = Filler
 
 ent-ClothingEyesHudMedSec = medsec hud
-    .desc = Filler
+    .desc = An eye display that looks like a mixture of medical and security huds.
 
 ent-ClothingEyesHudMultiversal = multiversal hud
     .desc = Filler

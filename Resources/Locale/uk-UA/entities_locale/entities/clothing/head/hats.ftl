@@ -31,7 +31,7 @@ ent-ClothingHeadHatBeretWarden = warden's beret
 ent-ClothingHeadHatBeretSeniorPhysician = physician beret
     .desc = Donning the colours of medical and chemistry, physicians are the pride of this department!
 
-ent-ClothingHeadHatBeretBrigmedic = medical beret
+ent-ClothingHeadHatBeretBrigmedic = brigmedical beret
     .desc = White beret, looks like a cream pie on the head.
 
 ent-ClothingHeadHatBeretMerc = mercenary beret
@@ -47,10 +47,10 @@ ent-ClothingHeadHatCardborg = cardborg helmet
     .desc = A hat made out of a box.
 
 ent-ClothingHeadHatCentcom = CentCom brand hat
-    .desc = []
+    .desc = It's good to be the emperor.
 
 ent-ClothingHeadHatChef = chef's hat
-    .desc = []
+    .desc = It's a hat used by chefs to keep hair out of your food. Judging by the food in the mess, they don't work.
 
 ent-ClothingHeadHatFedoraBrown = brown fedora
     .desc = It's a brown fedora.
@@ -65,7 +65,7 @@ ent-ClothingHeadHatHopcap = head of personnel's cap
     .desc = A grand, stylish head of personnel's cap.
 
 ent-ClothingHeadHatHoshat = head of security's hat
-    .desc = []
+    .desc = There's a new sheriff in station.
 
 ent-ClothingHeadHatOutlawHat = outlaw's hat
     .desc = A hat that makes you look like you carry a notched pistol, numbered one and nineteen more.
@@ -86,10 +86,10 @@ ent-ClothingHeadHatRedwizard = red wizard hat
     .desc = Strange-looking red hat-wear that most certainly belongs to a real magic user.
 
 ent-ClothingHeadHatSantahat = santa hat
-    .desc = []
+    .desc = A festive hat worn by Santa Claus
 
 ent-ClothingHeadHatSombrero = sombrero
-    .desc = []
+    .desc = Perfectly for Space Mexico, si?
 
 ent-ClothingHeadHatSurgcapBlue = surgical cap
     .desc = A blue cap surgeons wear during operations. Keeps their hair from tickling your internal organs.
@@ -104,10 +104,10 @@ ent-ClothingHeadHatTophat = tophat
     .desc = A stylish black tophat.
 
 ent-ClothingHeadHatUshanka = ushanka
-    .desc = []
+    .desc = Perfect for winter in Siberia, da?
 
 ent-ClothingHeadHatVioletwizard = violet wizard hat
-    .desc = []
+    .desc = Strange-looking violet hat-wear that most certainly belongs to a real magic user.
 
 ent-ClothingHeadHatWarden = warden's cap
     .desc = A police officer's Hat. This hat emphasizes that you are THE LAW
@@ -176,13 +176,13 @@ ent-ClothingHeadHatSyndieMAA = master at arms hat
     .desc = Master at arms hat, looks intimidating, I doubt that you will like to communicate with its owner...
 
 ent-ClothingHeadHatTacticalMaidHeadband = tactical maid headband
-    .desc = []
+    .desc = A red headband - don't imagine yourself a Rambo and don't pick up a few machine guns.
 
-ent-ClothingHeadHatHetmanHat = Hetman hat
+ent-ClothingHeadHatHetmanHat = hetman hat
     .desc = From the Zaporozhian Sich with love.
 
 ent-ClothingHeadHatMagician = magician's top hat.
-    .desc = []
+    .desc = A magician's top hat.
 
 ent-ClothingHeadHatCapcap = cap cap
     .desc = A grand, stylish captain cap.
@@ -190,7 +190,7 @@ ent-ClothingHeadHatCapcap = cap cap
 ent-ClothingHeadHatCentcomcap = CentCom cap
     .desc = An extravagant, fancy Central Commander cap.
 
-ent-ClothingHeadHatGladiator = Gladiator helmet
+ent-ClothingHeadHatGladiator = gladiator helmet
     .desc = Protects the head from harsh ash winds and toy spears.
 
 ent-ClothingHeadHatPartyRed = red party hat

@@ -7,7 +7,7 @@ ent-WindowDirectional = directional window
 ent-WindowFrostedDirectional = directional frosted window
     .desc = Don't smudge up the glass down there.
 
-ent-WindowDiagonal = window diagonal
+ent-WindowDiagonal = { ent-Window }
     .desc = { ent-Window.desc }
     .suffix = diagonal
 

@@ -1,2 +1,2 @@
-ent-TetherEntity = 
+ent-TetherEntity = tether
 

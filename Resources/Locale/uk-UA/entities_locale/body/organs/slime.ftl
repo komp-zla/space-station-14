@@ -1,6 +1,6 @@
 ent-SentientSlimeCore = sentient slime core
-    .desc = []
+    .desc = The source of incredible, unending gooeyness.
 
 ent-OrganSlimeLungs = slime gas sacs
-    .desc = []
+    .desc = Collects nitrogen, which slime cells use for maintenance.
 

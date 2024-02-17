@@ -78,9 +78,9 @@ ent-MobBaseSyndicateMonkey = monkey
     .desc = New church of neo-darwinists actually believe that EVERY animal evolved from a monkey. Tastes like pork, and killing them is both fun and relaxing.
     .suffix = syndicate base
 
-ent-MobMonkeySyndicateAgent = monkey
-    .desc = New church of neo-darwinists actually believe that EVERY animal evolved from a monkey. Tastes like pork, and killing them is both fun and relaxing.
-    .suffix = syndicate
+ent-MobMonkeySyndicateAgent = { ent-MobBaseSyndicateMonkey }
+    .desc = { ent-MobBaseSyndicateMonkey.desc }
+    .suffix = syndicate agent
 
 ent-MobMonkeySyndicateAgentNukeops = { ent-MobBaseSyndicateMonkey }
     .desc = { ent-MobBaseSyndicateMonkey.desc }

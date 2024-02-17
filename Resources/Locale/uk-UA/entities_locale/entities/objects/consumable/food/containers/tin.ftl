@@ -10,14 +10,14 @@ ent-FoodTinPeaches = tinned peaches
 ent-FoodTinPeachesTrash = tinned peaches
     .desc = { ent-FoodTinBaseTrash.desc }
 
-ent-FoodTinPeachesMaint = Maintenance Peaches
+ent-FoodTinPeachesMaint = maintenance peaches
     .desc = { ent-FoodTinPeaches.desc }
 
 ent-FoodTinPeachesMaintOpen = { ent-FoodTinPeachesMaint }
     .desc = { ent-FoodTinPeachesMaint.desc }
     .suffix = Open
 
-ent-FoodTinPeachesMaintTrash = Maintenance Peaches
+ent-FoodTinPeachesMaintTrash = maintenance peaches
     .desc = { ent-FoodTinBaseTrash.desc }
 
 ent-FoodTinBeans = tin of beans

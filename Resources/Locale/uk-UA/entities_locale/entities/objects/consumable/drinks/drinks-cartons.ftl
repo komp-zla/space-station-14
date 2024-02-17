@@ -12,7 +12,7 @@ ent-DrinkJuiceOrangeCarton = orange juice
 ent-DrinkJuiceTomatoCarton = tomato juice
     .desc = Well, at least it LOOKS like tomato juice. You can't tell with all that redness.
 
-ent-DrinkCreamCarton = Milk Cream
+ent-DrinkCreamCarton = milk cream
     .desc = It's cream. Made from milk. What else did you think you'd find in there?
 
 ent-DrinkMilkCarton = milk

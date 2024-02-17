@@ -29,7 +29,7 @@ ent-DrinkColaBottleFull = space cola bottle
 ent-DrinkGrenadineBottleFull = briar rose grenadine syrup bottle
     .desc = Sweet and tangy, a bar syrup used to add color or flavor to drinks.
 
-ent-DrinkGinBottleFull = Griffeater Gin
+ent-DrinkGinBottleFull = Griffeater gin
     .desc = A bottle of high quality gin, produced in the New London Space Station.
 
 ent-DrinkGildlagerBottleFull = gildlager bottle

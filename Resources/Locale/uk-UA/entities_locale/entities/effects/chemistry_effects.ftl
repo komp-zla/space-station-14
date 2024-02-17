@@ -18,8 +18,8 @@ ent-AluminiumMetalFoam = aluminium metal foam
 ent-BaseFoamedMetal = base foamed metal
 
 ent-FoamedIronMetal = foamed iron metal
-    .desc = []
+    .desc = For sealing hull breaches.
 
 ent-FoamedAluminiumMetal = foamed aluminium metal
-    .desc = []
+    .desc = For sealing hull breaches.
 

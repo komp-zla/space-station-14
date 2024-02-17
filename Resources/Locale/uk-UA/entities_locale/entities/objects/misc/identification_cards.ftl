@@ -103,7 +103,7 @@ ent-BrigmedicIDCard = brigmedic ID card
 ent-CentcomIDCard = command officer ID card
     .desc = { ent-IDCardStandard.desc }
 
-ent-ERTLeaderIDCard = ERT ID card
+ent-ERTLeaderIDCard = ERT leader ID card
     .desc = { ent-CentcomIDCard.desc }
 
 ent-ERTChaplainIDCard = ERT chaplain ID card
@@ -165,7 +165,7 @@ ent-DetectiveIDCard = detective ID card
 
 ent-CBURNIDcard = CBURN ID card
     .desc = { ent-CentcomIDCard.desc }
-    .suffix = 
+    .suffix = CBURN
 
 ent-CluwneIDCard = cluwne ID card
     .desc = { ent-IDCardStandard.desc }

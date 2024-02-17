@@ -12,10 +12,10 @@ ent-WeaponShotgunDoubleBarreledRubber = double-barreled shotgun
     .suffix = Non-Lethal
 
 ent-WeaponShotgunEnforcer = Enforcer
-    .desc = A next-generation Frozen Star shotgun. Uses .50 shotgun shells.
+    .desc = A premium combat shotgun based on the Kammerer design, featuring an upgraded clip capacity. .50 shotgun shells.
 
-ent-WeaponShotgunEnforcerRubber = Enforcer
-    .desc = A next-generation Frozen Star shotgun. Uses .50 shotgun shells.
+ent-WeaponShotgunEnforcerRubber = { ent-WeaponShotgunEnforcer }
+    .desc = { ent-WeaponShotgunEnforcer.desc }
     .suffix = Non-Lethal
 
 ent-WeaponShotgunKammerer = Kammerer

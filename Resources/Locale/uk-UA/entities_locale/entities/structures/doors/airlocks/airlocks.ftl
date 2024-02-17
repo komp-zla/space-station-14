@@ -6,8 +6,8 @@ ent-AirlockEngineering = { ent-Airlock }
     .desc = { ent-Airlock.desc }
     .suffix = Engineering
 
-ent-AirlockAtmospherics = { ent-Airlock }
-    .desc = { ent-Airlock.desc }
+ent-AirlockAtmospherics = { ent-AirlockEngineering }
+    .desc = { ent-AirlockEngineering.desc }
     .suffix = Atmospherics
 
 ent-AirlockCargo = { ent-Airlock }
@@ -18,12 +18,12 @@ ent-AirlockMedical = { ent-Airlock }
     .desc = { ent-Airlock.desc }
     .suffix = Medical
 
-ent-AirlockVirology = { ent-Airlock }
-    .desc = { ent-Airlock.desc }
+ent-AirlockVirology = { ent-AirlockMedical }
+    .desc = { ent-AirlockMedical.desc }
     .suffix = Virology
 
-ent-AirlockChemistry = { ent-Airlock }
-    .desc = { ent-Airlock.desc }
+ent-AirlockChemistry = { ent-AirlockMedical }
+    .desc = { ent-AirlockMedical.desc }
     .suffix = Chemistry
 
 ent-AirlockScience = { ent-Airlock }
@@ -38,15 +38,15 @@ ent-AirlockSecurity = { ent-Airlock }
     .desc = { ent-Airlock.desc }
     .suffix = Security
 
-ent-AirlockMaint = maintenance hatch
+ent-AirlockMaint = maintenance access
     .desc = { ent-Airlock.desc }
 
-ent-AirlockSyndicate = { ent-Airlock }
-    .desc = { ent-Airlock.desc }
+ent-AirlockSyndicate = { ent-AirlockSecurity }
+    .desc = { ent-AirlockSecurity.desc }
     .suffix = Syndicate
 
-ent-AirlockMining = { ent-Airlock }
-    .desc = { ent-Airlock.desc }
+ent-AirlockMining = { ent-AirlockCargo }
+    .desc = { ent-AirlockCargo.desc }
     .suffix = Mining(Salvage)
 
 ent-AirlockCentralCommand = { ent-AirlockCommand }
@@ -70,8 +70,8 @@ ent-AirlockMaintGlass = { ent-AirlockGlass }
     .desc = { ent-AirlockGlass.desc }
     .suffix = Maintenance
 
-ent-AirlockAtmosphericsGlass = { ent-AirlockGlass }
-    .desc = { ent-AirlockGlass.desc }
+ent-AirlockAtmosphericsGlass = { ent-AirlockEngineeringGlass }
+    .desc = { ent-AirlockEngineeringGlass.desc }
     .suffix = Atmospherics
 
 ent-AirlockCargoGlass = { ent-AirlockGlass }
@@ -82,12 +82,12 @@ ent-AirlockMedicalGlass = { ent-AirlockGlass }
     .desc = { ent-AirlockGlass.desc }
     .suffix = Medical
 
-ent-AirlockChemistryGlass = { ent-AirlockGlass }
-    .desc = { ent-AirlockGlass.desc }
+ent-AirlockChemistryGlass = { ent-AirlockMedicalGlass }
+    .desc = { ent-AirlockMedicalGlass.desc }
     .suffix = Chemistry
 
-ent-AirlockVirologyGlass = { ent-AirlockGlass }
-    .desc = { ent-AirlockGlass.desc }
+ent-AirlockVirologyGlass = { ent-AirlockMedicalGlass }
+    .desc = { ent-AirlockMedicalGlass.desc }
     .suffix = Virology
 
 ent-AirlockScienceGlass = { ent-AirlockGlass }
@@ -102,12 +102,12 @@ ent-AirlockSecurityGlass = { ent-AirlockGlass }
     .desc = { ent-AirlockGlass.desc }
     .suffix = Security
 
-ent-AirlockSyndicateGlass = { ent-AirlockGlass }
-    .desc = { ent-AirlockGlass.desc }
+ent-AirlockSyndicateGlass = { ent-AirlockSecurityGlass }
+    .desc = { ent-AirlockSecurityGlass.desc }
     .suffix = Syndicate
 
-ent-AirlockMiningGlass = { ent-AirlockGlass }
-    .desc = { ent-AirlockGlass.desc }
+ent-AirlockMiningGlass = { ent-AirlockCargoGlass }
+    .desc = { ent-AirlockCargoGlass.desc }
     .suffix = Mining(Salvage)
 
 ent-AirlockCentralCommandGlass = { ent-AirlockCommandGlass }

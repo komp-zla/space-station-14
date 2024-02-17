@@ -2,11 +2,11 @@ ent-BaseDionaOrgan = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
 
 ent-OrganDionaBrain = brain
-    .desc = []
+    .desc = The source of incredible, unending intelligence. Honk.
 
 ent-OrganDionaEyes = eyes
-    .desc = []
+    .desc = I see you!
 
 ent-OrganDionaStomach = stomach
-    .desc = []
+    .desc = Gross. This is hard to stomach.
 

@@ -1,7 +1,7 @@
 ent-BaseDice = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
 
-ent-PercentileDie = Percentile Die
+ent-PercentileDie = percentile die
     .desc = A die with ten sides. Works better for d100 rolls than a golf ball.
 
 ent-d20Dice = d20

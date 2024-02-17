@@ -53,7 +53,7 @@ ent-RandomHumanoidSpawnerCBURNUnit = CBURN Agent
 
 ent-RandomHumanoidSpawnerCentcomOfficial = CentCom official
 
-ent-RandomHumanoidSpawnerSyndicateAgent = Syndicate Agent
+ent-RandomHumanoidSpawnerSyndicateAgent = syndicate agent
 
 ent-RandomHumanoidSpawnerNukeOp = Nuclear Operative
 

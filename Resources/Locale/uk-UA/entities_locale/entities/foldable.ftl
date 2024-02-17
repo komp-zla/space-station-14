@@ -1,2 +1,2 @@
-ent-BaseFoldable = []
+ent-BaseFoldable = foldable
 

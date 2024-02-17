@@ -35,8 +35,8 @@ ent-ClothingOuterArmorMagusred = red magus armor
 ent-ClothingOuterArmorScaf = scaf suit
     .desc = A green and brown tactical suit for combat situations.
 
-ent-ClothingOuterArmorCaptainCarapace = []
-    .desc = []
+ent-ClothingOuterArmorCaptainCarapace = captain's carapace
+    .desc = An armored chestpiece that provides protection whilst still offering maximum mobility and flexibility. Issued only to the station's finest.
 
 ent-ClothingOuterArmorChangeling = chitinous armor
     .desc = Inflates the changeling's body into an all-consuming chitinous mass of armor.

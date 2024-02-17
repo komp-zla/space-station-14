@@ -9,7 +9,7 @@ ent-GoldOre1 = { ent-GoldOre }
     .desc = { ent-GoldOre.desc }
     .suffix = Single
 
-ent-SteelOre = steel ore
+ent-SteelOre = iron ore
     .desc = { ent-OreBase.desc }
     .suffix = Full
 

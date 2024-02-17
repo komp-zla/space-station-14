@@ -154,7 +154,7 @@ ent-HotplateMachineCircuitboard = hotplate machine board
 ent-ElectricGrillMachineCircuitboard = electric grill machine board
     .desc = A machine printed circuit board for an electric grill.
 
-ent-StasisBedMachineCircuitboard = Stasis Bed (Machine Board)
+ent-StasisBedMachineCircuitboard = stasis bed machine board
     .desc = { ent-BaseMachineCircuitboard.desc }
 
 ent-ElectrolysisUnitMachineCircuitboard = electrolysis unit machine board

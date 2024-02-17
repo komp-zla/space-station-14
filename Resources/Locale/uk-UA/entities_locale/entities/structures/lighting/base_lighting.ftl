@@ -1,17 +1,17 @@
 ent-AlwaysPoweredWallLight = light
-    .desc = []
+    .desc = An always powered light.
     .suffix = Always powered
 
 ent-PoweredlightEmpty = light
-    .desc = []
+    .desc = A light fixture. Draws power and produces light when equipped with a light tube.
     .suffix = Empty
 
 ent-Poweredlight = { ent-PoweredlightEmpty }
-    .desc = []
+    .desc = A light fixture. Draws power and produces light when equipped with a light tube.
     .suffix = ""
 
 ent-PoweredlightLED = { ent-Poweredlight }
-    .desc = []
+    .desc = A light fixture. Draws power and produces light when equipped with a light tube.
     .suffix = LED
 
 ent-AlwaysPoweredLightLED = { ent-AlwaysPoweredWallLight }
@@ -19,7 +19,7 @@ ent-AlwaysPoweredLightLED = { ent-AlwaysPoweredWallLight }
     .suffix = Always Powered, LED
 
 ent-PoweredlightExterior = { ent-Poweredlight }
-    .desc = []
+    .desc = A light fixture. Draws power and produces light when equipped with a light tube.
     .suffix = Blue
 
 ent-AlwaysPoweredLightExterior = { ent-AlwaysPoweredWallLight }
@@ -27,7 +27,7 @@ ent-AlwaysPoweredLightExterior = { ent-AlwaysPoweredWallLight }
     .suffix = Always Powered, Blue
 
 ent-PoweredlightSodium = { ent-Poweredlight }
-    .desc = []
+    .desc = A light fixture. Draws power and produces light when equipped with a light tube.
     .suffix = Sodium
 
 ent-AlwaysPoweredLightSodium = { ent-AlwaysPoweredWallLight }
@@ -35,11 +35,11 @@ ent-AlwaysPoweredLightSodium = { ent-AlwaysPoweredWallLight }
     .suffix = Always Powered, Sodium
 
 ent-SmallLight = small light
-    .desc = []
+    .desc = An always powered light.
     .suffix = Always Powered
 
 ent-PoweredSmallLightEmpty = small light
-    .desc = []
+    .desc = A light fixture. Draws power and produces light when equipped with a light bulb.
     .suffix = Empty
 
 ent-PoweredSmallLight = { ent-PoweredSmallLightEmpty }

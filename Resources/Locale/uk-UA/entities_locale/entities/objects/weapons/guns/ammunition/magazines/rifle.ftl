@@ -1,15 +1,15 @@
-ent-BaseMagazineRifle = []
+ent-BaseMagazineRifle = magazine (.20 rifle)
     .desc = { ent-BaseItem.desc }
 
-ent-MagazineRifle = []
+ent-MagazineRifle = magazine (.20 rifle)
     .desc = { ent-BaseMagazineRifle.desc }
 
-ent-MagazineRiflePractice = []
+ent-MagazineRiflePractice = magazine (.20 rifle practice)
     .desc = { ent-BaseMagazineRifle.desc }
 
-ent-MagazineRifleRubber = []
+ent-MagazineRifleRubber = magazine (.20 rifle rubber)
     .desc = { ent-BaseMagazineRifle.desc }
 
-ent-MagazineRifleUranium = []
+ent-MagazineRifleUranium = magazine (.20 rifle uranium)
     .desc = { ent-BaseMagazineRifle.desc }
 

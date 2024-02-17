@@ -1,8 +1,8 @@
 ent-BaseAnimalOrganUnGibbable = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
 
-ent-BaseAnimalOrgan = { ent-BaseItem }
-    .desc = { ent-BaseItem.desc }
+ent-BaseAnimalOrgan = { ent-BaseAnimalOrganUnGibbable }
+    .desc = { ent-BaseAnimalOrganUnGibbable.desc }
 
 ent-OrganAnimalLungs = lungs
     .desc = { ent-BaseAnimalOrgan.desc }

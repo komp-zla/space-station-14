@@ -68,7 +68,7 @@ ent-IronRockMining = ironrock
 
 ent-WallRock = rock
     .desc = { ent-BaseStructure.desc }
-    .suffix = 
+    .suffix = planetmap
 
 ent-WallRockCoal = { ent-WallRock }
     .desc = An ore vein rich with coal.
@@ -91,8 +91,8 @@ ent-WallRockSilver = { ent-WallRock }
     .suffix = Silver
 
 ent-WallRockTin = { ent-WallRock }
-    .desc = An ore vein rich with steel.
-    .suffix = Steel
+    .desc = An ore vein rich with iron.
+    .suffix = Iron
 
 ent-WallRockUranium = { ent-WallRock }
     .desc = An ore vein rich with uranium.
@@ -130,8 +130,8 @@ ent-WallRockBasaltSilver = { ent-WallRockBasalt }
     .suffix = Silver
 
 ent-WallRockBasaltTin = { ent-WallRockBasalt }
-    .desc = An ore vein rich with steel.
-    .suffix = Steel
+    .desc = An ore vein rich with iron.
+    .suffix = Iron
 
 ent-WallRockBasaltUranium = { ent-WallRockBasalt }
     .desc = An ore vein rich with uranium.
@@ -169,8 +169,8 @@ ent-WallRockSnowSilver = { ent-WallRockSnow }
     .suffix = Silver
 
 ent-WallRockSnowTin = { ent-WallRockSnow }
-    .desc = An ore vein rich with steel.
-    .suffix = Steel
+    .desc = An ore vein rich with iron.
+    .suffix = Iron
 
 ent-WallRockSnowUranium = { ent-WallRockSnow }
     .desc = An ore vein rich with uranium.
@@ -208,8 +208,8 @@ ent-WallRockSandSilver = { ent-WallRockSand }
     .suffix = Silver
 
 ent-WallRockSandTin = { ent-WallRockSand }
-    .desc = An ore vein rich with steel.
-    .suffix = Steel
+    .desc = An ore vein rich with iron.
+    .suffix = Iron
 
 ent-WallRockSandUranium = { ent-WallRockSand }
     .desc = An ore vein rich with uranium.
@@ -247,8 +247,8 @@ ent-WallRockChromiteSilver = { ent-WallRockChromite }
     .suffix = Silver
 
 ent-WallRockChromiteTin = { ent-WallRockChromite }
-    .desc = An ore vein rich with steel.
-    .suffix = Steel
+    .desc = An ore vein rich with iron.
+    .suffix = Iron
 
 ent-WallRockChromiteUranium = { ent-WallRockChromite }
     .desc = An ore vein rich with uranium.
@@ -286,8 +286,8 @@ ent-WallRockAndesiteSilver = { ent-WallRockAndesite }
     .suffix = Silver
 
 ent-WallRockAndesiteTin = { ent-WallRockAndesite }
-    .desc = An ore vein rich with steel.
-    .suffix = Steel
+    .desc = An ore vein rich with iron.
+    .suffix = Iron
 
 ent-WallRockAndesiteUranium = { ent-WallRockAndesite }
     .desc = An ore vein rich with uranium.

@@ -1,4 +1,4 @@
-ent-PartAnimal = []
+ent-PartAnimal = animal body part
     .desc = { ent-BaseItem.desc }
 
 ent-HandsAnimal = animal hands

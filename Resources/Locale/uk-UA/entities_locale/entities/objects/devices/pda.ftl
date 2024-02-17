@@ -125,7 +125,7 @@ ent-SyndiPDA = syndicate PDA
 
 ent-ERTLeaderPDA = ERT PDA
     .desc = Red for firepower.
-    .suffix = 
+    .suffix = Leader
 
 ent-ERTChaplainPDA = ERT PDA
     .desc = { ent-ERTLeaderPDA.desc }

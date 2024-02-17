@@ -5,7 +5,7 @@ ent-ClothingHeadHatCake = cake hat
     .desc = You put the cake on your head. Brilliant.
 
 ent-ClothingHeadHatChickenhead = chicken head
-    .desc = []
+    .desc = It's a chicken head. Bok bok bok!
 
 ent-ClothingHeadHatFlowerCrown = flower crown
     .desc = A coronet of fresh and fragrant flowers.
@@ -35,7 +35,7 @@ ent-ClothingHeadHatFancyCrown = fancy crown
     .desc = It smells like dead rat. Lets you speak like one!
 
 ent-ClothingHeadHatCatEars = cat ears
-    .desc = []
+    .desc = NYAH!
     .suffix = DO NOT MAP
 
 ent-ClothingHeadHatDogEars = doggy ears
@@ -43,7 +43,7 @@ ent-ClothingHeadHatDogEars = doggy ears
     .suffix = DO NOT MAP
 
 ent-ClothingHeadHatSquid = squiddy
-    .desc = []
+    .desc = Scare your friends with this eldritch mask.
 
 ent-ClothingHeadHatRedRacoon = red racoon hat
     .desc = Fluffy hat of red racoon!

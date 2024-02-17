@@ -12,7 +12,7 @@ ent-ClothingOuterSuitAtmosFire = atmos fire suit
     .desc = An expensive firesuit that protects against even the most deadly of station fires. Designed to protect even if the wearer is set aflame.
 
 ent-ClothingOuterSuitRad = radiation suit
-    .desc = []
+    .desc = A suit that protects against radiation. The label reads, 'Made with lead. Please do not consume insulation.'
 
 ent-ClothingOuterSuitSpaceNinja = space ninja suit
     .desc = This black technologically advanced, cybernetically-enhanced suit provides many abilities like invisibility or teleportation.

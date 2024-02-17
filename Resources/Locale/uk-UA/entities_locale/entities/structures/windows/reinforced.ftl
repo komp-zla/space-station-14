@@ -7,7 +7,7 @@ ent-TintedWindow = tinted window
 ent-WindowReinforcedDirectional = directional reinforced window
     .desc = Don't smudge up the glass down there.
 
-ent-ReinforcedWindowDiagonal = reinforced window diagonal
+ent-ReinforcedWindowDiagonal = { ent-ReinforcedWindow }
     .desc = { ent-ReinforcedWindow.desc }
     .suffix = diagonal
 

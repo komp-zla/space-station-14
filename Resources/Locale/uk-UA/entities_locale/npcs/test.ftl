@@ -1,4 +1,4 @@
-ent-MobPathfindDummy = Pathfind dummy
+ent-MobPathfindDummy = pathfind dummy
     .desc = { ent-MobXenoRouny.desc }
     .suffix = NPC
 

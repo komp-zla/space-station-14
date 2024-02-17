@@ -10,7 +10,7 @@ ent-ClothingHeadHelmetSyndicate = syndicate EVA helmet
 ent-ClothingHeadHelmetCosmonaut = cosmonaut helmet
     .desc = Ancient design, but advanced manufacturing.
 
-ent-ClothingHeadHelmetVoidParamed = Paramedic Void Helmet
+ent-ClothingHeadHelmetVoidParamed = paramedic void helmet
     .desc = A void helmet made for paramedics.
 
 ent-ClothingHeadHelmetAncient = NTSRA void helmet

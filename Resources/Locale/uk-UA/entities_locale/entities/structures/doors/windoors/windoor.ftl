@@ -64,6 +64,10 @@ ent-WindoorSecureChemistryLocked = { ent-WindoorSecure }
     .desc = { ent-WindoorSecure.desc }
     .suffix = Chemistry, Locked
 
+ent-WindoorSecureCentralCommandLocked = { ent-WindoorSecure }
+    .desc = { ent-WindoorSecure.desc }
+    .suffix = Central Command, Locked
+
 ent-WindoorSecureCommandLocked = { ent-WindoorSecure }
     .desc = { ent-WindoorSecure.desc }
     .suffix = Command, Locked
@@ -111,8 +115,4 @@ ent-WindoorSecureHeadOfPersonnelLocked = { ent-WindoorSecure }
 ent-WindoorSecureAtmosphericsLocked = { ent-WindoorSecure }
     .desc = { ent-WindoorSecure.desc }
     .suffix = Atmospherics, Locked
-
-ent-WindoorSecureParamedicLocked = { ent-WindoorSecure }
-    .desc = { ent-WindoorSecure.desc }
-    .suffix = Paramedic, Locked
 

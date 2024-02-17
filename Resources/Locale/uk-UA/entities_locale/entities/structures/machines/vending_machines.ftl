@@ -1,10 +1,10 @@
 ent-VendingMachine = vending machine
     .desc = Just add capitalism!
 
-ent-VendingMachineCondiments = Condiment Station
+ent-VendingMachineCondiments = condiment station
     .desc = Slather these thick gooey substances on your food for a full flavor effect.
 
-ent-VendingMachineAmmo = Liberation Station
+ent-VendingMachineAmmo = liberation station
     .desc = An overwhelming amount of ancient patriotism washes over you just by looking at the machine.
 
 ent-VendingMachineBooze = Booze-O-Mat
@@ -121,7 +121,7 @@ ent-VendingMachineRobotics = Robotech Deluxe
     .desc = All the tools you need to create your own robot army.
 
 ent-VendingMachineYouTool = YouTool
-    .desc = []
+    .desc = A vending machine containing standard tools. A label reads: Tools for tools.
 
 ent-VendingMachineGames = Good Clean Fun
     .desc = Vends things that the Captain and Head of Personnel are probably not going to appreciate you fiddling with instead of your job...
@@ -139,7 +139,7 @@ ent-VendingMachineWallmount = vending machine
     .desc = { ent-VendingMachine.desc }
 
 ent-VendingMachineWallMedical = NanoMed
-    .desc = []
+    .desc = It's a wall-mounted medical equipment dispenser. Natural chemicals only!
 
 ent-VendingMachineHydrobe = HyDrobe
     .desc = A machine with a catchy name. It dispenses botany related clothing and gear.
@@ -204,11 +204,11 @@ ent-VendingMachineCentDrobe = CentDrobe
 ent-VendingMachineHappyHonk = Happy Honk Dispenser
     .desc = A happy honk meal box dispenser made by honk! co.
 
-ent-VendingMachineTankDispenserEVA = Gas Tank Dispenser
+ent-VendingMachineTankDispenserEVA = gas tank dispenser
     .desc = A vendor for dispensing gas tanks.
     .suffix = EVA [O2, N2]
 
-ent-VendingMachineTankDispenserEngineering = Gas Tank Dispenser
+ent-VendingMachineTankDispenserEngineering = gas tank dispenser
     .desc = A vendor for dispensing gas tanks. This one has an engineering livery.
     .suffix = ENG [O2, Plasma]
 

@@ -1,42 +1,42 @@
-ent-CrateMedicalSupplies = { ent-CrateMedical }
-    .desc = { ent-CrateMedical.desc }
+ent-CrateMedicalSupplies = medical supplies crate
+    .desc = Basic medical supplies.
 
-ent-CrateChemistrySupplies = { ent-CrateMedical }
-    .desc = { ent-CrateMedical.desc }
+ent-CrateChemistrySupplies = chemistry supplies crate
+    .desc = Basic chemistry supplies.
 
 ent-CrateChemistryVials = vial supply crate
     .desc = Crate filled with a box of vials.
 
-ent-CrateMindShieldImplants = { ent-CrateMedical }
-    .desc = { ent-CrateMedical.desc }
+ent-CrateMindShieldImplants = MindShield implant crate
+    .desc = Crate filled with 3 MindShield implants.
 
-ent-CrateMedicalSurgery = { ent-CrateSurgery }
-    .desc = { ent-CrateSurgery.desc }
+ent-CrateMedicalSurgery = surgical supplies crate
+    .desc = Surgical instruments.
 
-ent-CrateMedicalScrubs = { ent-CrateMedical }
-    .desc = { ent-CrateMedical.desc }
+ent-CrateMedicalScrubs = medical scrubs crate
+    .desc = Medical clothings.
 
-ent-CrateEmergencyBurnKit = { ent-CrateMedical }
-    .desc = { ent-CrateMedical.desc }
+ent-CrateEmergencyBurnKit = emergency burn kit
+    .desc = Crate filled with a burn treatment kit.
 
-ent-CrateEmergencyToxinKit = { ent-CrateMedical }
-    .desc = { ent-CrateMedical.desc }
+ent-CrateEmergencyToxinKit = emergency toxin kit
+    .desc = Crate filled with a toxin treatment kit.
 
-ent-CrateEmergencyO2Kit = { ent-CrateMedical }
-    .desc = { ent-CrateMedical.desc }
+ent-CrateEmergencyO2Kit = emergency O2 kit
+    .desc = Crate filled with an O2 treatment kit.
 
-ent-CrateEmergencyBruteKit = { ent-CrateMedical }
-    .desc = { ent-CrateMedical.desc }
+ent-CrateEmergencyBruteKit = emergency brute kit
+    .desc = Crate filled with a brute treatment kit.
 
-ent-CrateEmergencyAdvancedKit = { ent-CrateMedical }
-    .desc = { ent-CrateMedical.desc }
+ent-CrateEmergencyAdvancedKit = emergency advanced kit
+    .desc = Crate filled with an advanced treatment kit.
 
-ent-CrateEmergencyRadiationKit = { ent-CrateMedical }
-    .desc = { ent-CrateMedical.desc }
+ent-CrateEmergencyRadiationKit = emergency radiation kit
+    .desc = Crate filled with a radiation treatment kit.
 
-ent-CrateBodyBags = { ent-CrateMedical }
-    .desc = { ent-CrateMedical.desc }
+ent-CrateBodyBags = body bags crate
+    .desc = Contains ten body bags.
 
-ent-CrateVirologyBiosuit = { ent-CrateMedicalSecure }
-    .desc = { ent-CrateMedicalSecure.desc }
+ent-CrateVirologyBiosuit = virology bio suit crate
+    .desc = Contains 2 biohazard suits to ensure that no disease will distract you from treating the crew. Requires Medical access to open.
 

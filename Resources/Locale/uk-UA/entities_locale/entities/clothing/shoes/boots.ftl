@@ -23,7 +23,7 @@ ent-ClothingShoesBootsLaceup = laceup shoes
     .desc = The height of fashion, and they're pre-polished!
 
 ent-ClothingShoesBootsWinter = winter boots
-    .desc = Fluffy boots to help survive even the coldest of winters.
+    .desc = { ent-ClothingShoesBaseWinterBoots.desc }
 
 ent-ClothingShoesBootsWinterCargo = cargo winter boots
     .desc = { ent-ClothingShoesBaseWinterBoots.desc }

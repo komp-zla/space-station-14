@@ -111,7 +111,7 @@ ent-FoodPacketDanDanTrash = empty dan dan box
     .desc = { ent-FoodPacketTrash.desc }
 
 ent-FoodCookieFortune = cookie fortune
-    .desc = []
+    .desc = The fortune reads: The end is near...and it's all your fault.
 
 ent-FoodPacketMRETrash = MRE wrapper
     .desc = A general purpose wrapper for a variety of military food goods.

@@ -67,7 +67,7 @@ ent-DisgustingSweptSoup = salty sweet miso cola soup
 ent-FoodMealQueso = queso
     .desc = A classic dipping sauce that you can't go wrong with.
 
-ent-FoodMealSashimi = Sashimi
+ent-FoodMealSashimi = sashimi
     .desc = Its taste can only be described as "Exotic". The poisoning though? That's pretty common.
 
 ent-FoodMealEnchiladas = enchiladas

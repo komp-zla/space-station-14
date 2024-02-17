@@ -2,32 +2,32 @@ ent-ClothingHeadBandBase = { ent-[ClothingHeadBaseButcherable, BaseFoldable] }
     .desc = { ent-[ClothingHeadBaseButcherable, BaseFoldable].desc }
 
 ent-ClothingHeadBandBlack = black bandana
-    .desc = A black bandana to make you look cool.
+    .desc = { ent-[ClothingHeadBandBase, ClothingMaskBandBlack].desc }
 
 ent-ClothingHeadBandBlue = blue bandana
-    .desc = A blue bandana to make you look cool.
+    .desc = { ent-[ClothingHeadBandBase, ClothingMaskBandBlue].desc }
 
 ent-ClothingHeadBandBotany = botany bandana
-    .desc = A botany bandana to make you look cool, made from natural fibers.
+    .desc = { ent-[ClothingHeadBandBase, ClothingMaskBandBotany].desc }
 
 ent-ClothingHeadBandGold = gold bandana
-    .desc = A gold bandana to make you look cool.
+    .desc = { ent-[ClothingHeadBandBase, ClothingMaskBandGold].desc }
 
 ent-ClothingHeadBandGreen = green bandana
-    .desc = A green bandana to make you look cool.
+    .desc = { ent-[ClothingHeadBandBase, ClothingMaskBandGreen].desc }
 
 ent-ClothingHeadBandGrey = grey bandana
-    .desc = A grey bandana to make you look cool.
+    .desc = { ent-[ClothingHeadBandBase, ClothingMaskBandGrey].desc }
 
 ent-ClothingHeadBandRed = red bandana
-    .desc = A red bandana to make you look cool.
+    .desc = { ent-[ClothingHeadBandBase, ClothingMaskBandRed].desc }
 
 ent-ClothingHeadBandSkull = skull bandana
-    .desc = A bandana with a skull to make you look even cooler.
+    .desc = { ent-[ClothingHeadBandBase, ClothingMaskBandSkull].desc }
 
 ent-ClothingHeadBandMerc = mercenary bandana
-    .desc = To protect the head from the sun, insects and other dangers of the higher path.
+    .desc = { ent-[ClothingHeadBandBase, ClothingMaskBandMerc].desc }
 
 ent-ClothingHeadBandBrown = brown bandana
-    .desc = A brown bandana to make you look cool.
+    .desc = { ent-[ClothingHeadBandBase, ClothingMaskBandBrown].desc }
 

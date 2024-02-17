@@ -3,6 +3,7 @@ ent-Cigarette = cigarette
 
 ent-SoakedCigarette = cigarette
     .desc = A roll of tobacco and nicotine soaked in some chemical.
+    .suffix = Soaked
 
 ent-CigaretteSpent = { ent-Cigarette }
     .desc = { ent-Cigarette.desc }

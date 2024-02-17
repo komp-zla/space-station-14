@@ -65,7 +65,7 @@ ent-AloeCream = aloe cream
 
 ent-HealingToolbox = healing toolbox
     .desc = A powerful toolbox imbued with robust energy. It can heal your wounds and fill you with murderous intent.
-    .suffix = Do Not Map
+    .suffix = DO NOT MAP
 
 ent-PillDexalin = dexalin pill (10u)
     .desc = { ent-Pill.desc }

@@ -21,19 +21,19 @@ ent-SpawnPointPassenger = passenger
     .desc = { ent-SpawnPointJobBase.desc }
 
 ent-SpawnPointTechnicalAssistant = technical assistant
-    .desc = { ent-SpawnPointAssistant.desc }
+    .desc = { ent-SpawnPointJobBase.desc }
 
 ent-SpawnPointMedicalIntern = medical intern
-    .desc = { ent-SpawnPointAssistant.desc }
+    .desc = { ent-SpawnPointJobBase.desc }
 
 ent-SpawnPointSecurityCadet = security cadet
-    .desc = { ent-SpawnPointAssistant.desc }
+    .desc = { ent-SpawnPointJobBase.desc }
 
 ent-SpawnPointResearchAssistant = research assistant
-    .desc = { ent-SpawnPointAssistant.desc }
+    .desc = { ent-SpawnPointJobBase.desc }
 
 ent-SpawnPointServiceWorker = service worker
-    .desc = { ent-SpawnPointAssistant.desc }
+    .desc = { ent-SpawnPointJobBase.desc }
 
 ent-SpawnPointBartender = bartender
     .desc = { ent-SpawnPointJobBase.desc }

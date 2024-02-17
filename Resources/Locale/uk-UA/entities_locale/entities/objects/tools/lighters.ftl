@@ -1,12 +1,12 @@
 ent-Lighter = basic lighter
-    .desc = []
+    .desc = A simple plastic cigarette lighter.
 
 ent-CheapLighter = cheap lighter
-    .desc = []
+    .desc = A dangerously inexpensive plastic lighter, don't burn your thumb!
 
 ent-FlippoLighter = flippo lighter
-    .desc = []
+    .desc = A rugged metal lighter, lasts quite a while.
 
 ent-FlippoEngravedLighter = flippo engraved lighter
-    .desc = []
+    .desc = A rugged golden lighter, lasts quite a while. Engravings serve no tactical advantage whatsoever.
 

@@ -50,7 +50,7 @@ ent-ClothingOuterHardsuitSyndieMedic = blood-red medic hardsuit
     .desc = A heavily armored and agile advanced hardsuit specifically designed for field medic operations.
 
 ent-ClothingOuterHardsuitSyndieElite = syndicate elite hardsuit
-    .desc = An elite version of the blood-red hardsuit, with improved armor and fireproofing. Property of Gorlex Marauders.
+    .desc = An elite version of the blood-red hardsuit, with improved mobility and fireproofing. Property of Gorlex Marauders.
 
 ent-ClothingOuterHardsuitSyndieCommander = syndicate commander hardsuit
     .desc = A bulked up version of the blood-red hardsuit, purpose-built for the commander of a syndicate operative squad. Has significantly improved armor for those deadly front-lines firefights.
@@ -93,7 +93,7 @@ ent-ClothingOuterHardsuitCBURN = CBURN exosuit
     .desc = A lightweight yet strong exosuit used for special cleanup operations.
 
 ent-ClothingOuterHardsuitClown = clown hardsuit
-    .desc = A custom made clown hardsuit.
+    .desc = A custom-made clown hardsuit.
 
 ent-ClothingOuterHardsuitMime = mime hardsuit
     .desc = A custom-made mime hardsuit.

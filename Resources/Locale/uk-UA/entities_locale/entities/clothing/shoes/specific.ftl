@@ -2,10 +2,10 @@ ent-ClothingShoesChef = chef shoes
     .desc = Sturdy shoes that minimize injury from falling objects or knives.
 
 ent-ClothingShoesClown = clown shoes
-    .desc = []
+    .desc = The prankster's standard-issue clowning shoes. Damn they're huge!
 
 ent-ClothingShoesClownBanana = banana clown shoes
-    .desc = []
+    .desc = When humor and footwear combine into new levels of absurdity.
 
 ent-ClothingShoesBling = bling clown shoes
     .desc = Made of refined bananium and shined with the pulp of a fresh banana peel. These make a flashy statement.
@@ -37,12 +37,12 @@ ent-ClothingShoesJester = jester shoes
     .desc = A court jester's shoes, updated with modern squeaking technology.
 
 ent-ClothingShoesCluwne = cluwne shoes
-    .desc = []
+    .desc = Cursed pair of cluwne shoes.
     .suffix = Unremoveable
 
 ent-ClothingShoesClownLarge = large clown shoes
-    .desc = []
+    .desc = When you need to stand out in a room full of clowns!
 
 ent-ClothingShoesSkates = roller skates
-    .desc = []
+    .desc = Get your skates on!
 

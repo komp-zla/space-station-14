@@ -14,7 +14,7 @@ ent-Mooltitool = mooltitool
     .desc = An crude tool to copy, store, and send electrical pulses and signals through wires and machines. Moo!
 
 ent-Cowelder = cowelding tool
-    .desc = []
+    .desc = Melts anything as long as it's fueled, don't forget your eye protection! Moo!
 
 ent-Milkalyzer = milkalyzer
     .desc = A hand-held environmental scanner which reports current gas levels. Moo!

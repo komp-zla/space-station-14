@@ -47,18 +47,18 @@ ent-BookRandom = { ent-BookBase }
 ent-BookEscalation = Robert's Rules of Escalation
     .desc = The book is stained with blood. It seems to have been used more as a weapon than reading material.
 
-ent-BookEscalationSecurity = []
+ent-BookEscalationSecurity = Robert's Rules of Escalation: Security Edition
     .desc = The book is stained with blood. It seems to have been used more as a weapon than reading material.
 
-ent-BookAtmosDistro = []
+ent-BookAtmosDistro = Newton's Guide to Atmos: The Distro
     .desc = There are endless illegible notes scribbled in the margins. Most of the text is covered in handwritten question marks.
 
-ent-BookAtmosWaste = []
+ent-BookAtmosWaste = Newton's Guide to Atmos: Waste
     .desc = There are endless illegible notes scribbled in the margins. Most of the text is covered in handwritten question marks.
 
-ent-BookAtmosAirAlarms = []
+ent-BookAtmosAirAlarms = Newton's Guide to Atmos: Air Alarms
     .desc = There are endless illegible notes scribbled in the margins. Most of the text is covered in handwritten question marks.
 
-ent-BookAtmosVentsMore = []
+ent-BookAtmosVentsMore = Newton's Guide to Atmos: Vents and More
     .desc = There are endless illegible notes scribbled in the margins. Most of the text is covered in handwritten question marks.
 

@@ -1,18 +1,24 @@
-ent-CrystalGreen = green crystal
-    .desc = It's a shiny green crystal.
+ent-CrystalGreen = crystal
+    .desc = A crystaline solid.
+    .suffix = green
 
-ent-CrystalPink = pink crystal
-    .desc = It's a shiny pink crystal.
+ent-CrystalPink = { ent-CrystalGreen }
+    .desc = { ent-CrystalGreen.desc }
+    .suffix = pink
 
-ent-CrystalGrey = grey crystal
-    .desc = It's a shiny grey crystal.
+ent-CrystalGrey = { ent-CrystalGreen }
+    .desc = { ent-CrystalGreen.desc }
+    .suffix = red
 
-ent-CrystalOrange = orange crystal
-    .desc = It's a shiny orange crystal.
+ent-CrystalOrange = { ent-CrystalGreen }
+    .desc = { ent-CrystalGreen.desc }
+    .suffix = orange
 
-ent-CrystalBlue = blue crystal
-    .desc = It's a shiny blue crystal.
+ent-CrystalBlue = { ent-CrystalGreen }
+    .desc = { ent-CrystalGreen.desc }
+    .suffix = blue
 
-ent-CrystalCyan = cyan crystal
-    .desc = It's a shiny cyan crystal.
+ent-CrystalCyan = { ent-CrystalGreen }
+    .desc = { ent-CrystalGreen.desc }
+    .suffix = cyan
 

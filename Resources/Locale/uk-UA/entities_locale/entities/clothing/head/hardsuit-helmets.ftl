@@ -76,16 +76,16 @@ ent-ClothingHeadHelmetHardsuitERTLeader = ERT leader hardsuit helmet
     .desc = A special hardsuit helmet worn by members of an emergency response team.
 
 ent-ClothingHeadHelmetHardsuitERTEngineer = ERT engineer hardsuit helmet
-    .desc = { ent-ClothingHeadHelmetHardsuitSyndie.desc }
+    .desc = A special hardsuit helmet worn by members of an emergency response team.
 
 ent-ClothingHeadHelmetHardsuitERTMedical = ERT medic hardsuit helmet
-    .desc = { ent-ClothingHeadHelmetHardsuitSyndieElite.desc }
+    .desc = A special hardsuit helmet worn by members of an emergency response team.
 
 ent-ClothingHeadHelmetHardsuitERTSecurity = ERT security hardsuit helmet
-    .desc = { ent-ClothingHeadHelmetHardsuitSyndie.desc }
+    .desc = A special hardsuit helmet worn by members of an emergency response team.
 
 ent-ClothingHeadHelmetHardsuitERTJanitor = ERT janitor hardsuit helmet
-    .desc = { ent-ClothingHeadHelmetHardsuitSyndie.desc }
+    .desc = A special hardsuit helmet worn by members of an emergency response team.
 
 ent-ClothingHeadHelmetCBURN = CBURN exosuit helmet
     .desc = A pressure resistant and fireproof hood worn by special cleanup units.

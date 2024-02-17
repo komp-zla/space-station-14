@@ -1,4 +1,4 @@
-ent-BaseGameRule = 
+ent-BaseGameRule = Base Game Rule
 
 ent-DeathMatch31 = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }

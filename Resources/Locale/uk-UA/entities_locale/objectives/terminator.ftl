@@ -1,7 +1,7 @@
 ent-BaseTerminatorObjective = { ent-BaseObjective }
     .desc = { ent-BaseObjective.desc }
 
-ent-TerminateObjective = { ent-[BaseTerminatorObjective, BaseKillObjective] }
+ent-TerminateObjective = { ent-BaseKillObjective }
     .desc = Follow your programming and terminate the target.
 
 ent-ShutDownObjective = Shut down

@@ -78,7 +78,7 @@ ent-BoxDeathRattleImplants = deathrattle implant box
 
 ent-BoxLeadLined = lead-lined box
     .desc = This box stymies the transmission of harmful radiation.
-    .suffix = Debug
+    .suffix = DEBUG
 
 ent-BoxCandle = candle box
     .desc = { ent-BoxCardboard.desc }

@@ -14,5 +14,5 @@ ent-PortableGeneratorSuperPacman = S.U.P.E.R.P.A.C.M.A.N.-type portable generato
 
 ent-PortableGeneratorJrPacman = J.R.P.A.C.M.A.N.-type portable generator
     .desc = |-
-    .suffix = Welding Fuel, 5 kW
+    .suffix = Welding Fuel, 8 kW
 

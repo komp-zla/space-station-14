@@ -43,7 +43,7 @@ ent-BedsheetHOP = HOP's bedsheet
 ent-BedsheetHOS = HOS's bedsheet
     .desc = It's decorated with a shield emblem. While crime doesn't sleep, you do, but you are still THE LAW!
 
-ent-BedsheetIan = Ian bedsheet
+ent-BedsheetIan = Ian's bedsheet
     .desc = { ent-BedsheetBase.desc }
 
 ent-BedsheetMedical = medical bedsheet
@@ -70,13 +70,13 @@ ent-BedsheetRainbow = rainbow bedsheet
 ent-BedsheetRD = RD's bedsheet
     .desc = It appears to have a beaker emblem, and is made out of fire-resistant material, although it probably won't protect you in the event of fires you're familiar with every day.
 
-ent-BedsheetBrigmedic = Brigmedic's bedsheet
+ent-BedsheetBrigmedic = brigmedic's bedsheet
     .desc = Not worse than cotton.
 
 ent-BedsheetRed = red bedsheet
     .desc = { ent-BedsheetBase.desc }
 
-ent-BedsheetSyndie = Syndie bedsheet
+ent-BedsheetSyndie = syndicate bedsheet
     .desc = It has a syndicate emblem and it has an aura of evil.
 
 ent-BedsheetUSA = USA bedsheet

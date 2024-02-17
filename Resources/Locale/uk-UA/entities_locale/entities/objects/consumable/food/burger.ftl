@@ -37,7 +37,7 @@ ent-FoodBurgerChicken = chicken sandwich
 ent-FoodBurgerClown = clown burger
     .desc = This tastes funny...
 
-ent-FoodBurgerCorgi = corgi burger
+ent-FoodBurgerCorgi = corger
     .desc = The Head of Personnel's favorite!
 
 ent-FoodBurgerCrab = crab burger

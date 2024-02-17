@@ -1,38 +1,38 @@
-ent-CrateEngineeringGear = { ent-CrateEngineering }
-    .desc = { ent-CrateEngineering.desc }
+ent-CrateEngineeringGear = engineering gear crate
+    .desc = Various engineering gear parts.
 
-ent-CrateEngineeringToolbox = { ent-CrateEngineering }
-    .desc = { ent-CrateEngineering.desc }
+ent-CrateEngineeringToolbox = toolbox crate
+    .desc = Two mechanical and two electrical toolboxes.
 
-ent-CrateEngineeringCableLV = { ent-CrateElectrical }
-    .desc = { ent-CrateElectrical.desc }
+ent-CrateEngineeringCableLV = LV cable crate
+    .desc = 3 coils of LV cables.
 
-ent-CrateEngineeringCableMV = { ent-CrateElectrical }
-    .desc = { ent-CrateElectrical.desc }
+ent-CrateEngineeringCableMV = MV cable crate
+    .desc = 3 coils of LV cables.
 
-ent-CrateEngineeringCableHV = { ent-CrateElectrical }
-    .desc = { ent-CrateElectrical.desc }
+ent-CrateEngineeringCableHV = HV cable crate
+    .desc = 3 coils of HV cables.
 
-ent-CrateEngineeringCableBulk = { ent-CrateElectrical }
-    .desc = { ent-CrateElectrical.desc }
+ent-CrateEngineeringCableBulk = bulk cable crate
+    .desc = 2 coils each for every cable type.
 
-ent-CrateEngineeringElectricalSupplies = { ent-CrateElectrical }
-    .desc = { ent-CrateElectrical.desc }
+ent-CrateEngineeringElectricalSupplies = electrical supplies crate
+    .desc = NT is not responsible for any workplace infighting relating to the insulated gloves included within these crates.
 
 ent-CrateEngineeringStationBeaconBundle = station beacon bundle
     .desc = A crate containing 5 station beacon assemblies for modifying the station map.
 
-ent-CrateEngineeringJetpack = { ent-CrateGenericSteel }
-    .desc = { ent-CrateGenericSteel.desc }
+ent-CrateEngineeringJetpack = jetpack crate
+    .desc = Two jetpacks for those who don't know how to use fire extinguishers.
 
-ent-CrateEngineeringMiniJetpack = { ent-CrateGenericSteel }
-    .desc = { ent-CrateGenericSteel.desc }
+ent-CrateEngineeringMiniJetpack = mini jetpack crate
+    .desc = Two mini jetpacks for those who want an extra challenge.
 
-ent-CrateAirlockKit = { ent-CrateGenericSteel }
-    .desc = { ent-CrateGenericSteel.desc }
+ent-CrateAirlockKit = airlock kit
+    .desc = A kit for building 6 airlocks, doesn't include tools.
 
-ent-CrateEvaKit = { ent-CrateCommandSecure }
-    .desc = { ent-CrateCommandSecure.desc }
+ent-CrateEvaKit = EVA kit
+    .desc = A set consisting of two prestigious EVA suits and helmets.
 
 ent-CrateRCDAmmo = RCD ammo crate
     .desc = 3 RCD ammo, each restoring 5 charges.

@@ -1,33 +1,33 @@
-ent-PartMoth = []
+ent-PartMoth = moth body part
     .desc = { ent-[BaseItem, BasePart].desc }
 
-ent-TorsoMoth = []
+ent-TorsoMoth = moth torso
     .desc = { ent-[PartMoth, BaseTorso].desc }
 
-ent-HeadMoth = []
+ent-HeadMoth = moth head
     .desc = { ent-[PartMoth, BaseHead].desc }
 
-ent-LeftArmMoth = []
+ent-LeftArmMoth = left moth arm
     .desc = { ent-[PartMoth, BaseLeftArm].desc }
 
-ent-RightArmMoth = []
+ent-RightArmMoth = right moth arm
     .desc = { ent-[PartMoth, BaseRightArm].desc }
 
-ent-LeftHandMoth = []
+ent-LeftHandMoth = left moth hand
     .desc = { ent-[PartMoth, BaseLeftHand].desc }
 
-ent-RightHandMoth = []
+ent-RightHandMoth = right moth hand
     .desc = { ent-[PartMoth, BaseRightHand].desc }
 
-ent-LeftLegMoth = []
+ent-LeftLegMoth = left moth leg
     .desc = { ent-[PartMoth, BaseLeftLeg].desc }
 
-ent-RightLegMoth = []
+ent-RightLegMoth = right moth leg
     .desc = { ent-[PartMoth, BaseRightLeg].desc }
 
-ent-LeftFootMoth = []
+ent-LeftFootMoth = left moth foot
     .desc = { ent-[PartMoth, BaseLeftFoot].desc }
 
-ent-RightFootMoth = []
+ent-RightFootMoth = right moth foot
     .desc = { ent-[PartMoth, BaseRightFoot].desc }
 

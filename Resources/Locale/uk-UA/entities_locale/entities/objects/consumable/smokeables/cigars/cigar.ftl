@@ -1,5 +1,5 @@
 ent-Cigar = cigar
-    .desc = []
+    .desc = A brown roll of tobacco and... well, you're not quite sure.
 
 ent-CigarSpent = { ent-Cigar }
     .desc = { ent-Cigar.desc }

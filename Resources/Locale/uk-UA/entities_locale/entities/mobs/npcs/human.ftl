@@ -1,10 +1,10 @@
-ent-MobCivilian = Civilian
+ent-MobCivilian = civilian
     .desc = A miserable pile of secrets.
 
-ent-MobSalvager = Salvager
+ent-MobSalvager = salvager
     .desc = { ent-BaseMobHuman.desc }
 
-ent-MobSpirate = Spirate
+ent-MobSpirate = spirate
     .desc = Yarr!
 
 ent-SalvageHumanCorpse = unidentified corpse

@@ -107,10 +107,10 @@ ent-ClothingUniformJumpskirtColorGreen = green jumpskirt
     .desc = A generic green jumpskirt with no rank markings.
 
 ent-ClothingUniformJumpskirtColorOrange = orange jumpskirt
-    .desc = []
+    .desc = Don't wear this near paranoid security officers.
 
 ent-ClothingUniformJumpskirtColorPink = pink jumpskirt
-    .desc = []
+    .desc = Just looking at this makes you feel fabulous.
 
 ent-ClothingUniformJumpskirtColorRed = red jumpskirt
     .desc = A generic red jumpskirt with no rank markings.
@@ -191,7 +191,7 @@ ent-ClothingUniformJumpskirtLawyerGood = good lawyer's suitskirt
     .desc = A tacky suitskirt perfect for a CRIMINAL lawyer!
 
 ent-ClothingUniformJumpskirtSyndieFormalDress = syndicate formal dress
-    .desc = []
+    .desc = The syndicate's uniform is made in an elegant style, it's even a pity to do dirty tricks in this.
 
 ent-ClothingUniformJumpskirtTacticalMaid = tactical maid suitskirt
     .desc = It is assumed that the best maids should have designer suits.

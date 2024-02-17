@@ -1,18 +1,18 @@
 ent-AtmosFixBlockerMarker = Atmos Fix Vacuum Marker
-    .desc = []
+    .desc = Vacuum, T20C
 
 ent-AtmosFixOxygenMarker = Atmos Fix Oxygen Marker
-    .desc = []
+    .desc = Oxygen @ gas miner pressure, T20C
 
 ent-AtmosFixNitrogenMarker = Atmos Fix Nitrogen Marker
-    .desc = []
+    .desc = Nitrogen @ gas miner pressure, T20C
 
 ent-AtmosFixPlasmaMarker = Atmos Fix Plasma Marker
-    .desc = []
+    .desc = Plasma @ gas miner pressure, T20C
 
 ent-AtmosFixInstantPlasmaFireMarker = Atmos Fix Instant Plasmafire Marker
-    .desc = []
+    .desc = INSTANT PLASMAFIRE
 
 ent-AtmosFixFreezerMarker = Atmos Fix Freezer Marker
-    .desc = []
+    .desc = Change air temp to 235K, for freezer with a big of wiggle room to get set up.
 

@@ -1,27 +1,27 @@
-ent-CrateMaterialGlass = { ent-CrateGenericSteel }
-    .desc = { ent-CrateGenericSteel.desc }
+ent-CrateMaterialGlass = glass sheet crate
+    .desc = 90 sheets of glass, packed with care.
 
-ent-CrateMaterialSteel = { ent-CrateGenericSteel }
-    .desc = { ent-CrateGenericSteel.desc }
+ent-CrateMaterialSteel = steel sheet crate
+    .desc = 90 sheets of steel.
 
-ent-CrateMaterialTextiles = { ent-CrateGenericSteel }
-    .desc = { ent-CrateGenericSteel.desc }
+ent-CrateMaterialTextiles = textiles crate
+    .desc = 60 pieces of cloth and 30 pieces of durathread.
 
-ent-CrateMaterialPlastic = { ent-CrateGenericSteel }
-    .desc = { ent-CrateGenericSteel.desc }
+ent-CrateMaterialPlastic = plastic sheet crate
+    .desc = 90 sheets of plastic.
 
-ent-CrateMaterialWood = { ent-CrateGenericSteel }
-    .desc = { ent-CrateGenericSteel.desc }
+ent-CrateMaterialWood = wood crate
+    .desc = Bunch of wood planks.
 
-ent-CrateMaterialPlasteel = { ent-CrateGenericSteel }
-    .desc = { ent-CrateGenericSteel.desc }
+ent-CrateMaterialPlasteel = plasteel crate
+    .desc = 90 sheets of plasteel.
 
-ent-CrateMaterialPlasma = { ent-CratePlasma }
-    .desc = { ent-CratePlasma.desc }
+ent-CrateMaterialPlasma = solid plasma crate
+    .desc = 90 sheets of plasma.
 
-ent-CrateMaterialCardboard = { ent-CrateGenericSteel }
-    .desc = { ent-CrateGenericSteel.desc }
+ent-CrateMaterialCardboard = cardboard crate
+    .desc = 60 pieces of cardboard.
 
-ent-CrateMaterialPaper = { ent-CrateGenericSteel }
-    .desc = { ent-CrateGenericSteel.desc }
+ent-CrateMaterialPaper = paper crate
+    .desc = 90 sheets of paper.
 

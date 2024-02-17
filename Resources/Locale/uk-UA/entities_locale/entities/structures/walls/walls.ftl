@@ -87,7 +87,7 @@ ent-WallSolidDiagonal = solid wall
     .suffix = diagonal
 
 ent-WallSolidRust = solid wall
-    .desc = { ent-BaseWall.desc }
+    .desc = { ent-WallSolid.desc }
     .suffix = rusted
 
 ent-WallUranium = uranium wall
@@ -120,7 +120,7 @@ ent-WallVaultSandstone = sandstone vault wall
 
 ent-WallInvisible = Invisible Wall
 
-ent-WallForce = Force Wall
+ent-WallForce = force wall
 
 ent-WallCobblebrick = cobblestone brick wall
     .desc = Stone by stone, perfectly fitted together to form a wall.

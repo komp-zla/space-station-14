@@ -23,7 +23,7 @@ ent-GarlicSeeds = packet of garlic seeds
     .desc = { ent-SeedBase.desc }
 
 ent-LaughinPeaSeeds = packet of laughin' pea pods
-    .desc = []
+    .desc = These seeds give off a very soft purple glow.. they should grow into Laughin' Peas.
 
 ent-LemonSeeds = packet of lemon seeds
     .desc = { ent-SeedBase.desc }
@@ -77,49 +77,49 @@ ent-EggySeeds = packet of egg-plant seeds
     .desc = { ent-SeedBase.desc }
 
 ent-TobaccoSeeds = packet of tobacco seeds
-    .desc = []
+    .desc = These seeds grow into tobacco plants.
 
 ent-CannabisSeeds = packet of cannabis seeds
-    .desc = []
+    .desc = Taxable.
 
 ent-NettleSeeds = packet of nettle seeds
-    .desc = []
+    .desc = Handle with gloves.
 
 ent-DeathNettleSeeds = packet of death nettle seeds
-    .desc = []
+    .desc = Handle with very thick gloves.
 
 ent-ChiliSeeds = packet of chili seeds
-    .desc = []
+    .desc = Spicy.
 
 ent-ChillySeeds = packet of chilly seeds
-    .desc = []
+    .desc = Frostburn.
 
 ent-AloeSeeds = packet of aloe seeds
-    .desc = []
+    .desc = Soothing.
 
 ent-PoppySeeds = packet of poppy seeds
-    .desc = []
+    .desc = Do not eat within 72 hours of a drug test.
 
 ent-LingzhiSeeds = packet of lingzhi spores
-    .desc = []
+    .desc = Also known as reishi.
 
 ent-AmbrosiaVulgarisSeeds = packet of ambrosia vulgaris seeds
-    .desc = []
+    .desc = A medicinal plant for the common folk.
 
 ent-AmbrosiaDeusSeeds = packet of ambrosia deus seeds
-    .desc = []
+    .desc = A medicinal plant for the gods themselves.
 
 ent-GalaxythistleSeeds = packet of galaxythistle seeds
-    .desc = []
+    .desc = Brushes of starry nights.
 
 ent-FlyAmanitaSeeds = packet of fly amanita spores
-    .desc = []
+    .desc = The iconic, extremely deadly mushroom to be used for purely ornamental purposes.
 
 ent-GatfruitSeeds = packet of gatfruit seeds
-    .desc = []
+    .desc = These are no peashooters.
 
 ent-OnionSeeds = packet of onion seeds
-    .desc = []
+    .desc = Not a shallot.
 
 ent-RiceSeeds = packet of rice seeds
     .desc = { ent-SeedBase.desc }
@@ -131,7 +131,7 @@ ent-KoibeanSeeds = packet of koibean seeds
     .desc = { ent-SeedBase.desc }
 
 ent-OnionRedSeeds = packet of red onion seeds
-    .desc = []
+    .desc = Purple despite the name.
 
 ent-WatermelonSeeds = packet of watermelon seeds
     .desc = { ent-SeedBase.desc }
@@ -146,10 +146,10 @@ ent-BerrySeeds = packet of berry seeds
     .desc = { ent-SeedBase.desc }
 
 ent-BungoSeeds = packet of bungo seeds
-    .desc = []
+    .desc = Don't eat the pits.
 
 ent-PeaSeeds = packet of pea pods
-    .desc = []
+    .desc = These humble plants were once a vital part in the study of genetics.
 
 ent-PumpkinSeeds = packet of pumpkin seeds
     .desc = { ent-SeedBase.desc }

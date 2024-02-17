@@ -167,10 +167,10 @@ ent-ClothingUniformJumpsuitColorGreen = green jumpsuit
     .desc = A generic green jumpsuit with no rank markings.
 
 ent-ClothingUniformJumpsuitColorOrange = orange jumpsuit
-    .desc = []
+    .desc = Don't wear this near paranoid security officers.
 
 ent-ClothingUniformJumpsuitColorPink = pink jumpsuit
-    .desc = []
+    .desc = Just looking at this makes you feel fabulous.
 
 ent-ClothingUniformJumpsuitColorRed = red jumpsuit
     .desc = A generic red jumpsuit with no rank markings.
@@ -330,7 +330,7 @@ ent-ClothingUniformJumpsuitHawaiYellow = yellow hawaiian shirt
     .desc = Yellow as a bright sun.
 
 ent-ClothingUniformJumpsuitSyndieFormal = syndicate formal suit
-    .desc = []
+    .desc = The syndicate's uniform is made in an elegant style, it's even a pity to do dirty tricks in this.
 
 ent-ClothingUniformJumpsuitFlannel = flannel jumpsuit
     .desc = Smells like someones been grillin'.

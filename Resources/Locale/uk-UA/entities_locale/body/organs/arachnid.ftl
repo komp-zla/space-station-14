@@ -1,24 +1,24 @@
 ent-BaseArachnidOrgan = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
 
-ent-OrganArachnidStomach = Stomach
-    .desc = []
+ent-OrganArachnidStomach = stomach
+    .desc = Gross. This is hard to stomach.
 
 ent-OrganArachnidLungs = lungs
-    .desc = []
+    .desc = Filters oxygen from an atmosphere... just more greedily.
 
 ent-OrganArachnidHeart = heart
-    .desc = []
+    .desc = A disgustingly persistent little biological pump made for spiders.
 
 ent-OrganArachnidLiver = liver
-    .desc = []
+    .desc = Pairing suggestion: chianti and fava beans.
 
 ent-OrganArachnidKidneys = kidneys
-    .desc = []
+    .desc = Filters toxins from the bloodstream.
 
 ent-OrganArachnidEyes = eyes
-    .desc = []
+    .desc = Two was already too many.
 
 ent-OrganArachnidTongue = tongue
-    .desc = []
+    .desc = A fleshy muscle mostly used for lying.
 

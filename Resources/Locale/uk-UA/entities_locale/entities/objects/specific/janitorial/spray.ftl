@@ -14,7 +14,7 @@ ent-SprayBottleSpaceCleaner = space cleaner
     .desc = BLAM!-brand non-foaming space cleaner!
     .suffix = ""
 
-ent-Vapor = []
+ent-Vapor = vapor
 
 ent-BigVapor = { ent-Vapor }
     .desc = { ent-Vapor.desc }

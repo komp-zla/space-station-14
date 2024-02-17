@@ -10,8 +10,8 @@ ent-VendingMachineRestockChang = Mr. Chang's restock box
 ent-VendingMachineRestockChefvend = ChefVend restock box
     .desc = Refill the ChefVend. Just don't break any more of the eggs.
 
-ent-VendingMachineRestockCondimentStation = Condiment Station restock box
-    .desc = Refill the Condiment Station. Mmmm, cold sauce.
+ent-VendingMachineRestockCondimentStation = condiment station restock box
+    .desc = Refill the condiment station. Mmmm, cold sauce.
 
 ent-VendingMachineRestockClothes = wardrobe restock box
     .desc = It's time to step up your fashion! Place inside any clothes vendor restock slot to begin.
@@ -53,7 +53,7 @@ ent-VendingMachineRestockRobustSoftdrinks = beverage restock box
     .desc = A cold, clunky container of colliding chilly cylinders. Use only as directed by Robust Industries, LLC.
 
 ent-VendingMachineRestockSecTech = SecTech restock box
-    .desc = []
+    .desc = Communists beware: the reinforcements have arrived! A label reads SECURITY PERSONNEL ONLY.
 
 ent-VendingMachineRestockSalvageEquipment = Salvage Vendor restock box
     .desc = Strike the earth ere the space carp nip your behind! Slam into a salvage vendor to begin.

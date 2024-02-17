@@ -1,18 +1,18 @@
 ent-LeavesCannabis = cannabis leaves
-    .desc = []
+    .desc = Recently legalized in most galaxies.
 
 ent-LeavesCannabisDried = dried cannabis leaves
-    .desc = []
+    .desc = Dried cannabis leaves, ready to be ground.
 
 ent-GroundCannabis = ground cannabis
-    .desc = []
+    .desc = Ground cannabis, ready to take you on a trip.
 
 ent-LeavesTobacco = tobacco leaves
-    .desc = []
+    .desc = Dry them out to make some smokes.
 
 ent-LeavesTobaccoDried = dried tobacco leaves
-    .desc = []
+    .desc = Dried tobacco leaves, ready to be ground.
 
 ent-GroundTobacco = ground tobacco
-    .desc = []
+    .desc = Ground tobacco, perfect for hand-rolled cigarettes.
 

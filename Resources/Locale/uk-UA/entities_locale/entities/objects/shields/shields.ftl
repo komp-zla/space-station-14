@@ -19,10 +19,10 @@ ent-MakeshiftShield = makeshift shield
 ent-WebShield = web shield
     .desc = A stringy shield. It's weak, and doesn't seem to do well against heat.
 
-ent-ClockworkShield = Clockwork Shield
+ent-ClockworkShield = clockwork shield
     .desc = Ratvar oyrffrf lbh jvgu uvf cebgrpgvba.
 
-ent-MirrorShield = Mirror Shield
+ent-MirrorShield = mirror shield
     .desc = Eerily glows red... you hear the geometer whispering
 
 ent-EnergyShield = energy shield

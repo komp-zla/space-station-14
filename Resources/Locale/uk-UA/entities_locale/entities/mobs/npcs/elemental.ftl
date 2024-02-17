@@ -3,13 +3,13 @@ ent-MobElementalBase =
 ent-MobOreCrab = ore crab
     .desc = { ent-[ MobElementalBase, MobCombat ].desc }
 
-ent-MobQuartzCrab = quartz crab
-    .desc = An ore crab made from quartz.
+ent-MobQuartzCrab = { ent-MobOreCrab }
+    .desc = An ore crab made from Quartz.
 
-ent-MobIronCrab = ore crab
+ent-MobIronCrab = { ent-MobOreCrab }
     .desc = An ore crab made from iron.
 
-ent-MobUraniumCrab = ore crab
+ent-MobUraniumCrab = { ent-MobOreCrab }
     .desc = An ore crab made from uranium.
 
 ent-MobSilverCrab = ore crab

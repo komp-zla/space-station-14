@@ -11,7 +11,7 @@ ent-PaperArtifactAnalyzer = artifact analyzer printout
     .desc = 'The readout of a device forgotten to time'
 
 ent-PaperCaptainsThoughts = captain's thoughts
-    .desc = []
+    .desc = A page of the captain's journal. In luxurious lavender.
 
 ent-PaperCargoInvoice = cargo invoice
     .desc = 'A single unit of bureaucracy.'
@@ -42,12 +42,12 @@ ent-LuxuryPen = luxury pen
     .desc = A fancy and expensive pen that you only deserve to own if you're qualified to handle vast amounts of paperwork.
 
 ent-CyberPen = Cybersun pen
-    .desc = A high-tech pen straight from Cybersun's legal department, capable of refracting hard-light at impossible angles through its diamond tip in order to write.
+    .desc = A high-tech pen straight from Cybersun's legal department, capable of refracting hard-light at impossible angles through its diamond tip in order to write. So powerful, it's even able to rewrite officially stamped documents should the need arise.
 
 ent-PenCap = captain's fountain pen
     .desc = 'A luxurious fountain pen for the captain of the station.'
 
-ent-PenCentcom = Centcom pen
+ent-PenCentcom = CentCom pen
     .desc = In an attempt to keep up with the "power" of the cybersun bureaucracy, NT made a replica of cyber pen, in their corporate style.
 
 ent-PenHop = hop's fountain pen

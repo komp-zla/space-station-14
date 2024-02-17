@@ -104,7 +104,7 @@ ent-FoodOnionRed = red onion
     .desc = Purple despite the name.
 
 ent-FoodMushroom = chanterelle cluster
-    .desc = []
+    .desc = Cantharellus Cibarius: These jolly yellow little shrooms sure look tasty!
 
 ent-ProduceSliceBase = { ent-FoodInjectableBase }
     .desc = { ent-FoodInjectableBase.desc }
@@ -181,6 +181,6 @@ ent-FoodPeaPod = pea pod
 ent-FoodPumpkin = pumpkin
     .desc = A large, orange... berry. Seriously.
 
-ent-CottonBol = cotton bol
+ent-CottonBol = cotton boll
     .desc = Moth people's favorite snack, and just as fluffy as them.
 

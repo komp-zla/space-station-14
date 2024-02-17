@@ -1,3 +1,3 @@
 ent-StorageTank = storage tank
-    .desc = []
+    .desc = A liquids storage tank.
 

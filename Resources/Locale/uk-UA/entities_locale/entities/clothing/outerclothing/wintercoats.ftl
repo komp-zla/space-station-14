@@ -86,10 +86,10 @@ ent-ClothingOuterWinterWarden = warden's armored winter coat
     .desc = A sturdy, utilitarian winter coat designed to protect a warden from any brig-bound threats and hypothermic events.
 
 ent-ClothingOuterWinterSyndieCap = syndicate's winter coat
-    .desc = []
+    .desc = The syndicate's winter coat is made of durable fabric, with gilded patterns, and coarse wool.
 
 ent-ClothingOuterWinterSyndieCapArmored = syndicate's armored winter coat
-    .desc = []
+    .desc = The syndicate's armored winter coat is made of durable fabric, with gilded patterns, and coarse wool.
 
 ent-ClothingOuterWinterSyndie = syndicate's winter coat
     .desc = Insulated winter coat, looks like a merch from "Syndieland"

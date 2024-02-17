@@ -64,7 +64,7 @@ ent-ClothingOuterNunRobe = nun robe
 ent-ClothingOuterGhostSheet = ghost sheet
     .desc = Spooky!!!
 
-ent-ClothingOuterHospitalGown = Hospital Gown
+ent-ClothingOuterHospitalGown = hospital gown
     .desc = Made from the wool of slaughtered baby lambs.  The cruelty makes it softer.
 
 ent-ClothingOuterFlannelRed = red flannel jacket

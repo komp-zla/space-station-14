@@ -28,18 +28,18 @@ ent-GasMinerNitrogenStationLarge = N2 gas miner
 ent-GasMinerCarbonDioxide = CO2 gas miner
     .desc = { ent-GasMinerBase.desc }
 
-ent-GasMinerPlasma = Plasma gas miner
+ent-GasMinerPlasma = plasma gas miner
     .desc = { ent-GasMinerBase.desc }
 
-ent-GasMinerTritium = Tritium gas miner
+ent-GasMinerTritium = tritium gas miner
     .desc = { ent-GasMinerBase.desc }
 
-ent-GasMinerWaterVapor = Water Vapor gas miner
+ent-GasMinerWaterVapor = water vapor gas miner
     .desc = { ent-GasMinerBase.desc }
 
-ent-GasMinerMiasma = Miasma gas miner
+ent-GasMinerAmmonia = ammonia gas miner
     .desc = { ent-GasMinerBase.desc }
 
-ent-GasMinerNitrousOxide = Nitrous Oxide gas miner
+ent-GasMinerNitrousOxide = nitrous oxide gas miner
     .desc = { ent-GasMinerBase.desc }
 

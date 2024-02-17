@@ -20,7 +20,7 @@ ent-CrateInternals = oxygen crate
     .desc = { ent-CratePlastic.desc }
 
 ent-CrateElectrical = electrical crate
-    .desc = { ent-CratePlastic.desc }
+    .desc = { ent-CrateGenericSteel.desc }
 
 ent-CrateEngineering = engineering crate
     .desc = { ent-CrateGenericSteel.desc }
@@ -91,8 +91,8 @@ ent-CrateStoneGrave = grave
     .desc = Someone died here...
     .suffix = stone
 
-ent-CrateSyndicate = { ent-CrateGenericSteel }
-    .desc = { ent-CrateGenericSteel.desc }
+ent-CrateSyndicate = Syndicate crate
+    .desc = A dark steel crate with red bands and a letter S embossed on the front.
 
 ent-CrateTrashCart = trash cart
     .desc = { ent-CrateBaseWeldable.desc }

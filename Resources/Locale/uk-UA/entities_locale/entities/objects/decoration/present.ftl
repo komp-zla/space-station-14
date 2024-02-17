@@ -1,4 +1,4 @@
-ent-PresentBase = Present
+ent-PresentBase = present
     .desc = A little box with incredible surprises inside.
 
 ent-Present = { ent-[PresentBase, BaseStorageItem] }
@@ -7,11 +7,11 @@ ent-Present = { ent-[PresentBase, BaseStorageItem] }
 
 ent-PresentRandomUnsafe = { ent-[PresentBase, BaseItem] }
     .desc = { ent-[PresentBase, BaseItem].desc }
-    .suffix = Filled Unsafe
+    .suffix = Filled, any item
 
 ent-PresentRandomInsane = { ent-PresentRandomUnsafe }
     .desc = { ent-PresentRandomUnsafe.desc }
-    .suffix = Filled Insane
+    .suffix = Filled, any entity
 
 ent-PresentRandom = { ent-[PresentBase, BaseItem] }
     .desc = { ent-[PresentBase, BaseItem].desc }
