@@ -186,3 +186,6 @@ ent-FloorTileItemAstroGrass = astro-grass
 ent-FloorTileItemAstroIce = astro-ice
     .desc = Fake ice that's as slippery as the real thing, while being easily removable!
 
+ent-FloorTileItemWoodLarge = large wood floor
+    .desc = { ent-FloorTileItemBase.desc }
+

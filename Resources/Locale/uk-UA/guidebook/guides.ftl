@@ -13,6 +13,7 @@ guide-entry-portable-generator = Ручні Генератори
 guide-entry-ame = Антиматериальний Двигун (АМД)
 guide-entry-singularity = Сингулярність
 guide-entry-teg = Термо-Електричній Генератор (ТЕГ)
+guide-entry-rtg = Радіоактивний Термічний Реактор
 guide-entry-controls = Коригування
 guide-entry-radio = Рація
 guide-entry-jobs = Ролі
@@ -48,7 +49,7 @@ guide-entry-cyborgs = Киборги
 guide-entry-security = Безпека
 guide-entry-forensics = Криміналістика
 guide-entry-defusal = Знешкодження бомб
-guide-entry-criminal-records = Кримінальі Записи
+guide-entry-criminal-records = Кримінальні Записи
 
 guide-entry-antagonists = Антагоністи
 guide-entry-nuclear-operatives = Ядерні Оперативники

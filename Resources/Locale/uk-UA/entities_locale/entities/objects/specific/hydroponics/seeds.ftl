@@ -100,6 +100,9 @@ ent-AloeSeeds = packet of aloe seeds
 ent-PoppySeeds = packet of poppy seeds
     .desc = Do not eat within 72 hours of a drug test.
 
+ent-LilySeeds = packet of lily seeds
+    .desc = These seeds grow into lilies.
+
 ent-LingzhiSeeds = packet of lingzhi spores
     .desc = Also known as reishi.
 
@@ -125,6 +128,9 @@ ent-RiceSeeds = packet of rice seeds
     .desc = { ent-SeedBase.desc }
 
 ent-SoybeanSeeds = packet of soybean seeds
+    .desc = { ent-SeedBase.desc }
+
+ent-SpacemansTrumpetSeeds = packet of spaceman's trumpet seeds
     .desc = { ent-SeedBase.desc }
 
 ent-KoibeanSeeds = packet of koibean seeds

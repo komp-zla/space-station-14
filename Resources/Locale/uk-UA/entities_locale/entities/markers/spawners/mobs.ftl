@@ -13,9 +13,6 @@ ent-SpawnMobPossumMorty = Possum Morty Spawner
 ent-SpawnMobRaccoonMorticia = Raccoon Morticia Spawner
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobDrone = Drone Spawner
-    .desc = { ent-MarkerBase.desc }
-
 ent-SpawnMobFoxRenault = Fox Renault Spawner
     .desc = { ent-MarkerBase.desc }
 

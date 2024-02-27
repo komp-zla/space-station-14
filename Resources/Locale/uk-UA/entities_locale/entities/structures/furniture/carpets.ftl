@@ -25,6 +25,14 @@ ent-CarpetSBlue = skyblue carpet
 ent-CarpetPurple = purple carpet
     .desc = { ent-CarpetBase.desc }
 
+ent-CarpetCyan = { ent-CarpetBase }
+    .desc = { ent-CarpetBase.desc }
+    .suffix = Cyan
+
+ent-CarpetWhite = { ent-CarpetBase }
+    .desc = { ent-CarpetBase.desc }
+    .suffix = White
+
 ent-CarpetChapel = chapel's carpet
     .desc = { ent-BaseStructure.desc }
 

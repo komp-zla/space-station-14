@@ -42,6 +42,10 @@ ent-PoweredSmallLightEmpty = small light
     .desc = A light fixture. Draws power and produces light when equipped with a light bulb.
     .suffix = Empty
 
+ent-PoweredLEDSmallLight = { ent-PoweredSmallLightEmpty }
+    .desc = { ent-PoweredSmallLightEmpty.desc }
+    .suffix = LED
+
 ent-PoweredSmallLight = { ent-PoweredSmallLightEmpty }
     .desc = { ent-PoweredSmallLightEmpty.desc }
     .suffix = ""

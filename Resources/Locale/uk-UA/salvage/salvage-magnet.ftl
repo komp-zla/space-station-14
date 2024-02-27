@@ -1,31 +1,32 @@
-salvage-system-announcement-losing = The magnet is no longer able to hold the salvagable debris. Estimated time until loss: {$timeLeft} seconds.
-salvage-system-announcement-spawn-debris-disintegrated = Debris disintegrated during orbital transfer.
-salvage-system-announcement-spawn-no-debris-available = No debris could be recovered by the salvage magnet.
-salvage-system-announcement-arrived = A piece of salvagable debris has been pulled in. Estimated hold time: {$timeLeft} seconds.
-salvage-asteroid-name = Asteroid
+salvage-system-announcement-losing = Магніт більше не може утримувати уламки. До втрати уламка: {$timeLeft} секунд.
+salvage-system-announcement-spawn-debris-disintegrated = Уламок було знищено під час орбітального переміщення.
+salvage-system-announcement-spawn-no-debris-available = Жодного уламку не було притягнуто магнітом.
+salvage-system-announcement-arrived = Уламок було притягнуто магнітом. До втрати уламка: {$timeLeft} секунд.
+salvage-asteroid-name = Астероїд
 
-salvage-magnet-window-title = Salvage magnet
-salvage-expedition-window-progression = Progression
+salvage-magnet-window-title = Шахтарський магніт
+salvage-expedition-window-progression = Просування
 
 salvage-magnet-resources = {$resource ->
-    [OreIron] Iron
-    [OreCoal] Coal
-    [OreQuartz] Quartz
-    [OreGold] Gold
-    [OreSilver] Silver
-    [OrePlasma] Plasma
-    [OreUranium] Uranium
-    [OreArtifactFragment] Artifact fragments
+    [OreIron] Зализо
+    [OreCoal] Вугілля
+    [OreQuartz] Кварц
+    [OreSalt] Сіль
+    [OreGold] Золото
+    [OreSilver] Срібло
+    [OrePlasma] Плазма
+    [OreUranium] Уран
+    [OreArtifactFragment] Фрагменти артефактів
     *[other] {$resource}
 }
 
 salvage-magnet-resources-count = {$count ->
-    [1] (Poor)
-    [2] (Moderate)
-    [3] (Moderate)
-    [4] (Rich)
-    [5] (Rich)
-    *[other] (Extraordinary)
+    [1] (Мало)
+    [2] (Середньо)
+    [3] (Середеньо)
+    [4] (Багато)
+    [5] (Багато)
+    *[other] (Переповнено)
 }
 
 # Asteroids

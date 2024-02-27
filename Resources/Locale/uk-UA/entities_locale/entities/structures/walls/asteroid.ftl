@@ -62,6 +62,10 @@ ent-IronRock = ironrock
     .desc = A rocky asteroid.
     .suffix = Low Ore Yield
 
+ent-AsteroidRockSalt = { ent-AsteroidRock }
+    .desc = An ore vein rich with salt.
+    .suffix = Salt
+
 ent-IronRockMining = ironrock
     .desc = An asteroid.
     .suffix = higher ore yield
@@ -106,6 +110,10 @@ ent-WallRockArtifactFragment = { ent-WallRock }
     .desc = A rock wall. What's that sticking out of it?
     .suffix = Artifact Fragment
 
+ent-WallRockSalt = { ent-WallRock }
+    .desc = An ore vein rich with salt.
+    .suffix = Salt
+
 ent-WallRockBasalt = basalt
     .desc = { ent-WallRock.desc }
 
@@ -144,6 +152,10 @@ ent-WallRockBasaltBananium = { ent-WallRockBasalt }
 ent-WallRockBasaltArtifactFragment = { ent-WallRockBasalt }
     .desc = A rock wall. What's that sticking out of it?
     .suffix = Artifact Fragment
+
+ent-WallRockBasaltSalt = { ent-WallRockBasalt }
+    .desc = An ore vein rich with salt.
+    .suffix = Salt
 
 ent-WallRockSnow = snowdrift
     .desc = { ent-WallRock.desc }
@@ -184,6 +196,10 @@ ent-WallRockSnowArtifactFragment = { ent-WallRockSnow }
     .desc = A rock wall. What's that sticking out of it?
     .suffix = Artifact Fragment
 
+ent-WallRockSnowSalt = { ent-WallRockSnow }
+    .desc = An ore vein rich with salt.
+    .suffix = Salt
+
 ent-WallRockSand = sandstone
     .desc = { ent-WallRock.desc }
 
@@ -222,6 +238,10 @@ ent-WallRockSandBananium = { ent-WallRockSand }
 ent-WallRockSandArtifactFragment = { ent-WallRockSand }
     .desc = A rock wall. What's that sticking out of it?
     .suffix = Artifact Fragment
+
+ent-WallRockSandSalt = { ent-WallRockSand }
+    .desc = An ore vein rich with salt.
+    .suffix = Salt
 
 ent-WallRockChromite = chromite
     .desc = { ent-WallRock.desc }
@@ -262,6 +282,10 @@ ent-WallRockChromiteArtifactFragment = { ent-WallRockChromite }
     .desc = A rock wall. What's that sticking out of it?
     .suffix = Artifact Fragment
 
+ent-WallRockChromiteSalt = { ent-WallRockChromite }
+    .desc = An ore vein rich with salt.
+    .suffix = Salt
+
 ent-WallRockAndesite = andesite
     .desc = { ent-WallRock.desc }
 
@@ -300,4 +324,8 @@ ent-WallRockAndesiteBananium = { ent-WallRockAndesite }
 ent-WallRockAndesiteArtifactFragment = { ent-WallRockAndesite }
     .desc = A rock wall. What's that sticking out of it?
     .suffix = Artifact Fragment
+
+ent-WallRockAndesiteSalt = { ent-WallRockAndesite }
+    .desc = An ore vein rich with salt.
+    .suffix = Salt
 

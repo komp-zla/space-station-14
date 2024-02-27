@@ -184,6 +184,9 @@ ent-PosterContrabandInterdyne = Interdyne Pharmaceutics: For the Health of Human
 ent-PosterContrabandWaffleCorp = Make Mine a Waffle Corp: Fine Rifles, Economic Prices
     .desc = An old advertisement for Waffle Corp rifles. 'Better weapons, lower prices!'
 
+ent-PosterContrabandMissingSpacepen = Missing Spacepen
+    .desc = This poster depicts something you will never find.
+
 ent-PosterLegitHereForYourSafety = Here For Your Safety
     .desc = A poster glorifying the station's security force.
 
@@ -233,7 +236,7 @@ ent-PosterLegitDoNotQuestion = Do Not Question
     .desc = A poster instructing the viewer not to ask about things they aren't meant to know.
 
 ent-PosterLegitWorkForAFuture = Work For A Future
-    .desc =  A poster encouraging you to work for your future.
+    .desc = A poster encouraging you to work for your future.
 
 ent-PosterLegitSoftCapPopArt = Soft Cap Pop Art
     .desc = A poster reprint of some cheap pop art.
@@ -263,7 +266,7 @@ ent-PosterLegit50thAnniversaryVintageReprint = 50th Anniversary Vintage Reprint
     .desc = A reprint of a poster from 2505, commemorating the 50th Anniversary of Nanoposters Manufacturing, a subsidiary of Nanotrasen.
 
 ent-PosterLegitFruitBowl = Fruit Bowl
-    .desc =  Simple, yet awe-inspiring.
+    .desc = Simple, yet awe-inspiring.
 
 ent-PosterLegitPDAAd = PDA Ad
     .desc = A poster advertising the latest PDA from Nanotrasen suppliers.
@@ -272,7 +275,7 @@ ent-PosterLegitEnlist = Enlist
     .desc = Enlist in the Nanotrasen Deathsquadron reserves today!
 
 ent-PosterLegitNanomichiAd = Nanomichi Ad
-    .desc =  A poster advertising Nanomichi brand audio cassettes.
+    .desc = A poster advertising Nanomichi brand audio cassettes.
 
 ent-PosterLegit12Gauge = 12 gauge
     .desc = A poster boasting about the superiority of 12 gauge shotgun shells.

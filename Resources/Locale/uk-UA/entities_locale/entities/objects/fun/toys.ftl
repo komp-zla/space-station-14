@@ -80,6 +80,15 @@ ent-PlushieAtmosian = atmosian plushie
 ent-PlushieXeno = xeno plushie
     .desc = An adorable stuffed toy that resembles a scary xenomorf. You're lucky it's just a toy.
 
+ent-PlushiePenguin = penguin plushie
+    .desc = I use arch btw!
+
+ent-PlushieHuman = human plushie
+    .desc = This is a felt plush of a human. All craftsmanship is of the lowest quality. The human is naked. The human is crying. The human is screaming.
+
+ent-PlushieMoth = moth plushie
+    .desc = Cute and fluffy moth plushie. Enjoy, bz!
+
 ent-BaseFigurineCheapo = figurine
     .desc = A small miniature.
 
@@ -123,6 +132,9 @@ ent-BeachBall = beach ball
 ent-BalloonSyn = syndie balloon
     .desc = Handed out to the bravest souls who survived the "atomic twister" ride at Syndieland.
 
+ent-BalloonNT = nanotrasen balloon
+    .desc = Specially designed to inflict maximum psychological damage to Syndicate operatives.
+
 ent-BalloonCorgi = corgi balloon
     .desc = Just like owning a real dog - but a lot floatier.
 
@@ -159,15 +171,6 @@ ent-PlasticBanana = banana
 
 ent-CrazyGlue = crazy glue
     .desc = A bottle of crazy glue manufactured by Honk! Co.
-
-ent-PlushieMoth = moth plushie
-    .desc = Cute and fluffy moth plushie. Enjoy, bz!
-
-ent-PlushiePenguin = penguin plushie
-    .desc = I use arch btw!
-
-ent-PlushieHuman = human plushie
-    .desc = This is a felt plush of a human. All craftsmanship is of the lowest quality. The human is naked. The human is crying. The human is screaming.
 
 ent-NewtonCradle = newton cradle
     .desc = A device bored paper pushers use to remind themselves that time did not stop yet. Contains gravity.

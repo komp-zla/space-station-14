@@ -182,6 +182,10 @@ ent-AirlockLawyerGlassLocked = { ent-AirlockGlass }
     .desc = { ent-AirlockGlass.desc }
     .suffix = Lawyer, Locked
 
+ent-AirlockTheatreGlassLocked = { ent-AirlockGlass }
+    .desc = { ent-AirlockGlass.desc }
+    .suffix = Theatre, Locked
+
 ent-AirlockBarGlassLocked = { ent-AirlockGlass }
     .desc = { ent-AirlockGlass.desc }
     .suffix = Bar, Locked
@@ -213,6 +217,10 @@ ent-AirlockExternalGlassAtmosphericsLocked = { ent-AirlockExternalGlass }
 ent-AirlockKitchenGlassLocked = { ent-AirlockGlass }
     .desc = { ent-AirlockGlass.desc }
     .suffix = Kitchen, Locked
+
+ent-AirlockJanitorGlassLocked = { ent-AirlockGlass }
+    .desc = { ent-AirlockGlass.desc }
+    .suffix = Janitor, Locked
 
 ent-AirlockHydroGlassLocked = { ent-AirlockGlass }
     .desc = { ent-AirlockGlass.desc }
