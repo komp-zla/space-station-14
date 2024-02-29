@@ -1,56 +1,56 @@
-ent-ActionScream = Scream
-    .desc = AAAAAAAAAAAAAAAAAAAAAAAAA
+ent-ActionScream = Кричати
+    .desc = АААААААААААААААААААААААА
 
 ent-ActionTurnUndead = Turn Undead
     .desc = Succumb to your infection and become a zombie.
 
-ent-ActionToggleLight = Toggle Light
-    .desc = Turn the light on and off.
+ent-ActionToggleLight = Перемкнути світло
+    .desc = Перемикає світло.
 
-ent-ActionOpenStorageImplant = Open Storage Implant
-    .desc = Opens the storage implant embedded under your skin
+ent-ActionOpenStorageImplant = Відкрити імплант Сховище
+    .desc = Відкриває імплант Сховище, що знаходиться під твоєю шкірою.
 
-ent-ActionActivateMicroBomb = Activate Microbomb
-    .desc = Activates your internal microbomb, completely destroying you and your equipment
+ent-ActionActivateMicroBomb = Активувати імплант Мікробомба
+    .desc = Активує вашу імплантовану мікробомбу, повністю знищуючи і вас і ваше обладнання.
 
-ent-ActionActivateDeathAcidifier = Activate Death-Acidifier
-    .desc = Activates your death-acidifier, completely melting you and your equipment
+ent-ActionActivateDeathAcidifier = Активувати імплант Кислоту
+    .desc = Активує ваш імплантований імплант Кислоту, повністю знищуючи і вас і ваше обладнання.
 
-ent-ActionActivateFreedomImplant = Break Free
-    .desc = Activating your freedom implant will free you from any hand restraints
+ent-ActionActivateFreedomImplant = Вирватися
+    .desc = Активує ваш імплант Воля, знимаючи будь які кайдани на вас.
 
-ent-ActionOpenUplinkImplant = Open Uplink
-    .desc = Opens the syndicate uplink embedded under your skin
+ent-ActionOpenUplinkImplant = Відкрити Аплінк
+    .desc = Відкриває імплантований вам під шкіру Аплінк Синдикату.
 
-ent-ActionActivateEmpImplant = Activate EMP
-    .desc = Triggers a small EMP pulse around you
+ent-ActionActivateEmpImplant = Активувати ЕМІ
+    .desc = Активує маленький ЕМІ імпульс навколо тебе.
 
-ent-ActionActivateScramImplant = SCRAM!
-    .desc = Randomly teleports you within a large distance.
+ent-ActionActivateScramImplant = ТІКАЙ!
+    .desc = Випадково телепортує тебе.
 
-ent-ActionActivateDnaScramblerImplant = Scramble DNA
-    .desc = Randomly changes your name and appearance.
+ent-ActionActivateDnaScramblerImplant = Змінити ДНК
+    .desc = Випадково змінює ваше ім'я та вигляд.
 
-ent-ActionToggleSuitPiece = Toggle Suit Piece
-    .desc = Remember to equip the important pieces of your suit before going into action.
+ent-ActionToggleSuitPiece = Перемкнути частину одягу
+    .desc = Не забувайте перемкнути важливі часті вашого одягу.
 
-ent-ActionCombatModeToggle = [color=red]Combat Mode[/color]
-    .desc = Enter combat mode
+ent-ActionCombatModeToggle = [color=red]Бойовий режим[/color]
+    .desc = Увімкнути бойовий режим
 
-ent-ActionCombatModeToggleOff = [color=red]Combat Mode[/color]
-    .desc = Enter combat mode
+ent-ActionCombatModeToggleOff = [color=red]Бойовий режим[/color]
+    .desc = Вимкнути бойовий режим
 
-ent-ActionChangeVoiceMask = Set name
-    .desc = Change the name others hear to something else.
+ent-ActionChangeVoiceMask = Змінити ім'я
+    .desc = Змінити ім'я яке будуть чути інші.
 
-ent-ActionVendingThrow = Dispense Item
-    .desc = Randomly dispense an item from your stock.
+ent-ActionVendingThrow = Видати річ
+    .desc = Випадково видати річ з вашого інвентарю.
 
-ent-ActionArtifactActivate = Activate Artifact
-    .desc = Immediately activates your current artifact node.
+ent-ActionArtifactActivate = Активуватися
+    .desc = Активує ваш вузол артефакта.
 
-ent-ActionToggleBlock = Block
-    .desc = Raise or lower your shield.
+ent-ActionToggleBlock = Блок
+    .desc = Підняти чи опустити щита.
 
 ent-ActionClearNetworkLinkOverlays = Clear network link overlays
     .desc = Clear network link overlays.
@@ -58,21 +58,18 @@ ent-ActionClearNetworkLinkOverlays = Clear network link overlays
 ent-ActionAnimalLayEgg = Lay egg
     .desc = Uses hunger to lay an egg.
 
-ent-ActionSleep = Sleep
-    .desc = Go to sleep.
+ent-ActionSleep = Спати
+    .desc = Заснути.
 
-ent-ActionWake = Wake up
-    .desc = Stop sleeping.
+ent-ActionWake = Піднятися
+    .desc = Перестати спати.
 
-ent-ActionActivateHonkImplant = Honk
-    .desc = Activates your honking implant, which will produce the signature sound of the clown.
+ent-ActionActivateHonkImplant = Хонк
+    .desc = Активує ваш імплант-гудок.
 
 ent-ActionFireStarter = Ignite
     .desc = Ignites enemies in a radius around you.
 
-ent-ActionToggleEyes = Open/Close eyes
-    .desc = Close your eyes to protect your peepers, or open your eyes to enjoy the pretty lights.
-
-ent-ActionToggleWagging = action-name-toggle-wagging
-    .desc = action-description-toggle-wagging
+ent-ActionToggleEyes = Відкрити/Закрити очі
+    .desc = Закрити чи відкрити ваші очі.
 
