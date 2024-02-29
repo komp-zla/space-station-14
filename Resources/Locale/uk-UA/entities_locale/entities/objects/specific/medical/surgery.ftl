@@ -25,8 +25,6 @@ ent-Retractor = retractor
 ent-Hemostat = hemostat
     .desc = A surgical tool used to compress blood vessels to prevent bleeding.
 
- = 
-
 ent-Saw = metal saw
     .desc = For cutting wood and other objects to pieces. Or sawing bones, in case of emergency.
 

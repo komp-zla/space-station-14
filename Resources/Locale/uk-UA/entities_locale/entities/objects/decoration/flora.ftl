@@ -1,7 +1,7 @@
 ent-BaseRock = boulder
     .desc = Heavy as a really heavy thing.
 
-ent-BaseTree = 
+ent-BaseTree = tree
     .desc = Yep, it's a tree.
 
 ent-BaseTreeSnow = { ent-BaseTree }
@@ -39,6 +39,24 @@ ent-FloraStalagmite5 = { ent-FloraStalagmite1 }
 
 ent-FloraStalagmite6 = { ent-FloraStalagmite1 }
     .desc = { ent-FloraStalagmite1.desc }
+
+ent-FloraGreyStalagmite1 = { ent-FloraStalagmite1 }
+    .desc = { ent-FloraStalagmite1.desc }
+
+ent-FloraGreyStalagmite2 = { ent-FloraGreyStalagmite1 }
+    .desc = { ent-FloraGreyStalagmite1.desc }
+
+ent-FloraGreyStalagmite3 = { ent-FloraGreyStalagmite1 }
+    .desc = { ent-FloraGreyStalagmite1.desc }
+
+ent-FloraGreyStalagmite4 = { ent-FloraGreyStalagmite1 }
+    .desc = { ent-FloraGreyStalagmite1.desc }
+
+ent-FloraGreyStalagmite5 = { ent-FloraGreyStalagmite1 }
+    .desc = { ent-FloraGreyStalagmite1.desc }
+
+ent-FloraGreyStalagmite6 = { ent-FloraGreyStalagmite1 }
+    .desc = { ent-FloraGreyStalagmite1.desc }
 
 ent-FloraTree01 = tree
     .desc = { ent-BaseTree.desc }

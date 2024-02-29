@@ -1,3 +1,12 @@
+ent-BaseTraitorObjective = { ent-BaseObjective }
+    .desc = { ent-BaseObjective.desc }
+
+ent-BaseTraitorSocialObjective = { ent-[BaseTraitorObjective, BaseSocialObjective] }
+    .desc = { ent-[BaseTraitorObjective, BaseSocialObjective].desc }
+
+ent-BaseTraitorStealObjective = { ent-[BaseTraitorObjective, BaseStealObjective] }
+    .desc = { ent-[BaseTraitorObjective, BaseStealObjective].desc }
+
 ent-EscapeShuttleObjective = Escape to centcom alive and unrestrained.
     .desc = One of our undercover agents will debrief you when you arrive. Don't show up in cuffs.
 
@@ -16,7 +25,16 @@ ent-RandomTraitorAliveObjective = { ent-BaseKeepAliveObjective }
 ent-RandomTraitorProgressObjective = { ent-BaseHelpProgressObjective }
     .desc = Identify yourself at your own risk. We just need them to succeed.
 
+ent-BaseCMOStealObjective = { ent-BaseTraitorStealObjective }
+    .desc = { ent-BaseTraitorStealObjective.desc }
+
 ent-CMOHyposprayStealObjective = { ent-BaseTraitorStealObjective }
+    .desc = { ent-BaseTraitorStealObjective.desc }
+
+ent-CMOCrewMonitorStealObjective = { ent-BaseCMOStealObjective }
+    .desc = { ent-BaseCMOStealObjective.desc }
+
+ent-BaseRDStealObjective = { ent-BaseTraitorStealObjective }
     .desc = { ent-BaseTraitorStealObjective.desc }
 
 ent-RDHardsuitStealObjective = { ent-BaseTraitorStealObjective }

@@ -79,6 +79,9 @@ ent-CondenserMachineCircuitBoard = condenser machine board
 ent-PortableScrubberMachineCircuitBoard = portable scrubber machine board
     .desc = A PCB for a portable scrubber.
 
+ent-SpaceHeaterMachineCircuitBoard = space heater machine board
+    .desc = A machine printed circuit board for a space heater.
+
 ent-CloningPodMachineCircuitboard = cloning pod machine board
     .desc = A machine printed circuit board for a cloning pod.
 
