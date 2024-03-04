@@ -22,11 +22,10 @@ news-write-ui-article-count-text = {$count} Статей
 news-write-ui-footer-text = News#Manager™ Authoring System
 news-write-ui-new-article = Нові статті
 news-write-ui-article-name-label = Заголовок:
-news-write-ui-article-content-label = Контент:
 news-write-no-access-popup = Нема доступу
 news-writer-text-length-exceeded = Text exceeds maximum length
 news-write-ui-richtext-tooltip = Новини підтримують Rich Text
-    Наступні мітки Rich Text'а підтримуються:
+    The following rich text tags are supported:
     {"[color=Gray][bullet/]heading \\[size=1-3\\]"}
     {"[bullet/]bold"}
     {"[bullet/]italic"}

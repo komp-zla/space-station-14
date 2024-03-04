@@ -1,41 +1,52 @@
-shuttle-pilot-start = Piloting ship
-shuttle-pilot-end = Stopped piloting
+shuttle-pilot-start = Пілотує шатл
+shuttle-pilot-end = Зупинився пілотувати
 
-shuttle-console-in-ftl = Can't FTL while in FTL!
-shuttle-console-proximity = Too close to nearby objects
-shuttle-console-prevent = You are unable to pilot this ship.
+shuttle-console-in-ftl = Ви не можете ШЗС поки ви в ШЗС!
+shuttle-console-mass = Занадто великий для ШЗС
+shuttle-console-prevent = Ви не можете пілотувати цього шатлу.
 
-# Display
-shuttle-console-display-label = Display
+# NAV
 
-shuttle-console-ftl-state = FTL State
-shuttle-console-ftl-available = Available
-shuttle-console-ftl-starting = Starting
-shuttle-console-ftl-travelling = Travelling
-shuttle-console-ftl-arriving = Arriving
-shuttle-console-ftl-cooldown = Cooldown
+shuttle-console-display-label = Дісплей
 
-shuttle-console-ftl-timer = FTL Time
+shuttle-console-position = Позіція:
+shuttle-console-orientation = Орієнтація:
+shuttle-console-linear-velocity = Лінійна швидкість:
+shuttle-console-angular-velocity = Кутова швидкість:
 
-shuttle-console-max-radar = Max radar range:
-shuttle-console-radar = Radar range:
-shuttle-console-position = Position:
-shuttle-console-orientation = Orientation:
-shuttle-console-linear-velocity = Linear velocity:
-shuttle-console-angular-velocity = Angular velocity:
+shuttle-console-unknown = Невідомий
+shuttle-console-iff-label = {$name} ({$distance}м)
+shuttle-console-exclusion = Зона виключення
 
-shuttle-console-dock-label = Docking ports
-shuttle-console-docked = {$index} (Docked)
-shuttle-console-dock-button = Dock {$suffix}
+shuttle-console-nav-settings = Налаштування
+shuttle-console-iff-toggle = Перемкнути IFF
+shuttle-console-dock-toggle = Показувати стиковки
 
-shuttle-console-hyperspace-label = FTL destinations
-shuttle-console-hyperspace-none = No destinations found
+# MAP
 
-shuttle-console-unknown = Unknown
-shuttle-console-iff-label = {$name} ({$distance}m)
+shuttle-console-ftl-label = Статус ШЗС
+shuttle-console-ftl-state-Available = Доступний
+shuttle-console-ftl-state-Starting = Стартує
+shuttle-console-ftl-state-Travelling = Подорожує
+shuttle-console-ftl-state-Arriving = Прибуває
+shuttle-console-ftl-state-Cooldown = Охолоджується
 
-# Buttons
-shuttle-console-strafing = Strafing mode
-shuttle-console-iff-toggle = Show IFF
-shuttle-console-dock-toggle = Show docks
-shuttle-console-undock = Undock
+shuttle-console-map-settings = Налаштування
+shuttle-console-ftl-button = ШЗС
+shuttle-console-map-rebuild = Сканувати
+shuttle-console-map-beacons = Показати маячки
+
+shuttle-console-no-signal = Нема сігналу
+
+shuttle-console-map-objects = Об'єкти
+
+# DOCK
+shuttle-console-docked = {$index} (Пристиковане)
+
+shuttle-console-view = Вид
+shuttle-console-undock = Відстикуватися
+shuttle-console-dock = Пристикуватися
+shuttle-console-docks-label = Стиковки
+
+shuttle-console-undock-fail = Невдале відстикування
+shuttle-console-dock-fail = Невдале стикування

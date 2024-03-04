@@ -1,3 +1,5 @@
+ent-BaseSuicideAction = Суїцид
+
 ent-ActionScream = Кричати
     .desc = АААААААААААААААААААААААА
 
@@ -72,4 +74,7 @@ ent-ActionFireStarter = Ignite
 
 ent-ActionToggleEyes = Відкрити/Закрити очі
     .desc = Закрити чи відкрити ваші очі.
+
+ent-ActionToggleWagging = action-name-toggle-wagging
+    .desc = action-description-toggle-wagging
 

@@ -1,53 +1,65 @@
-ent-SeatBase = chair
-    .desc = You sit in this. Either by will or force.
+ent-SeatBase = крісло
+    .desc = Зроблен щоб на ньому сидити.
 
-ent-Chair = chair
+ent-UnanchoredChairBase = крісло
     .desc = { ent-SeatBase.desc }
 
-ent-ChairGreyscale = chair
+ent-ChairBase = крісло
+    .desc = { ent-UnanchoredChairBase.desc }
+
+ent-OfficeChairBase = крісло
+    .desc = { ent-UnanchoredChairBase.desc }
+
+ent-StoolBase = сідушка
+    .desc = { ent-OfficeChairBase.desc }
+
+ent-Chair = крісло
+    .desc = { ent-SeatBase.desc }
+
+ent-ChairGreyscale = крісло
     .desc = { ent-Chair.desc }
-    .suffix = White
+    .suffix = Білу
 
-ent-Stool = stool
-    .desc = Apply butt.
+ent-Stool = сідушка
+    .desc = Додайте дупу.
 
-ent-StoolBar = bar stool
+ent-StoolBar = барна сідушка
     .desc = { ent-SeatBase.desc }
 
-ent-ChairOfficeLight = white office chair
+ent-ChairOfficeLight = біле офісне крісло
     .desc = { ent-SeatBase.desc }
 
-ent-ChairOfficeDark = dark office chair
+ent-ChairOfficeDark = темне офісне крісло
     .desc = { ent-ChairOfficeLight.desc }
 
-ent-ComfyChair = comfy chair
-    .desc = It looks comfy.
+ent-ComfyChair = комфортне крісло
+    .desc = Виглядає комфортним.
 
-ent-ChairPilotSeat = pilot seat
-    .desc = The pilot seat of a prestigious ship.
+ent-ChairPilotSeat = крісло пілота
+    .desc = Крісло пілота престижного коробля.
 
-ent-ChairWood = wooden chair
+ent-ChairWood = дерев'яне крісло
     .desc = { ent-SeatBase.desc }
 
-ent-ChairRitual = ritual chair
-    .desc = Looks uncomfortable.
+ent-ChairRitual = рітуальне крісло
+    .desc = Виглядає некомфортним.
 
-ent-ChairMeat = meat chair
-    .desc = Uncomfortably sweaty.
+ent-ChairMeat = м'ясне крісло
+    .desc = Некомфортно м'язісте.
 
-ent-ChairCursed = cursed chair
+ent-ChairCursed = прокляте крісло
     .desc = It's staring back.
 
-ent-ChairWeb = web chair
-    .desc = For true web developers.
+ent-ChairWeb = крісло з павутини
+    .desc = Для справжних веб розробників..
 
-ent-ChairFolding = folding chair
-    .desc = If you carry six of these you become the coolest kid at church.
+ent-ChairFolding = складне крісло
+    .desc = Якщо ти зможеш взяти шість таких то ти найкрутіший чел у церкві.
 
 ent-ChairFoldingSpawnFolded = { ent-ChairFolding }
     .desc = { ent-ChairFolding.desc }
-    .suffix = folded
+    .suffix = складене
 
-ent-SteelBench = steel bench
-    .desc = A long chair made for a metro. Really standard design.
+ent-SteelBench = стальна лавка
+    .desc = Довге крісло, що зроблено для метро. Нереально-реальний стандартний дизайн.
 

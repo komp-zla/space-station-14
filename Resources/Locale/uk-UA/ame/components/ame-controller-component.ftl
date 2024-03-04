@@ -1,8 +1,6 @@
-ame-controller-component-interact-no-hands-text = У вас немає рук.
-ame-controller-component-interact-using-no-hands-text = У вас немає рук.
-ame-controller-component-interact-using-already-has-jar = У регулятор вже вставлен бак.
-ame-controller-component-interact-using-success = Ви вставляєте паливний бак.
-ame-controller-component-interact-using-fail = Ви не можете вставити це у регулятор...
+ame-controller-component-fuel-slot-fail-whitelist = You can't put that in the controller...
+ame-controller-component-fuel-slot-fail-locked = Power down the AME before manipulating its fuel.
+ame-controller-component-fuel-slot-success-insert = You insert the jar into the fuel slot.
 
 ## UI
 

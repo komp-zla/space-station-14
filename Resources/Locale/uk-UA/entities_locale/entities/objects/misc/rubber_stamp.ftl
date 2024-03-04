@@ -65,3 +65,7 @@ ent-RubberStampApproved = APPROVED rubber stamp
 ent-RubberStampDenied = DENIED rubber stamp
     .desc = { ent-RubberStampBaseAlt.desc }
 
+ent-RubberStampDetective = detective's rubber stamp
+    .desc = { ent-RubberStampBase.desc }
+    .suffix = DO NOT MAP
+

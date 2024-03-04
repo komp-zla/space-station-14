@@ -1,5 +1,8 @@
 ent-BaseGameRule = Base Game Rule
 
+ent-SubGamemodesRule = { ent-BaseGameRule }
+    .desc = { ent-BaseGameRule.desc }
+
 ent-DeathMatch31 = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
 
