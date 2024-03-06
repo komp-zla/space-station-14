@@ -34,6 +34,12 @@ ent-FloorTileItemMono = mono tile
 ent-FloorTileItemLino = linoleum floor
     .desc = { ent-FloorTileItemBase.desc }
 
+ent-FloorTileItemBrassFilled = filled brass plate
+    .desc = { ent-FloorTileItemBase.desc }
+
+ent-FloorTileItemBrassReebe = smooth brass plate
+    .desc = { ent-FloorTileItemBase.desc }
+
 ent-FloorTileItemDirty = dirty tile
     .desc = { ent-FloorTileItemBase.desc }
 

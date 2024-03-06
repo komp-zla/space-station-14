@@ -4,6 +4,9 @@ ent-Windoor = windoor
 ent-WindoorSecure = secure windoor
     .desc = It's a sturdy window and a sliding door. Wow!
 
+ent-WindoorClockwork = clockwork windoor
+    .desc = It's a sturdy window and a sliding door. Wow!
+
 ent-WindoorPlasma = Plasma Windoor
     .desc = It's a pink window *and* a sliding door. Amazing!
 

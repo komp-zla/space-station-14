@@ -56,3 +56,11 @@ ent-SheetRUGlass1 = reinforced uranium glass
     .desc = { ent-SheetRUGlass.desc }
     .suffix = Single
 
+ent-SheetClockworkGlass = clockwork glass
+    .desc = A sheet of brass-hardened glass, primarily used by clockwork enthusiasts and remnants of Ratvarian cults.
+    .suffix = Full
+
+ent-SheetClockworkGlass1 = clockwork glass
+    .desc = { ent-SheetClockworkGlass.desc }
+    .suffix = Single
+

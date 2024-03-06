@@ -18,13 +18,16 @@ ent-Chair = крісло
 
 ent-ChairGreyscale = крісло
     .desc = { ent-Chair.desc }
-    .suffix = Білу
+    .suffix = Біле
 
 ent-Stool = сідушка
     .desc = Додайте дупу.
 
 ent-StoolBar = барна сідушка
     .desc = { ent-SeatBase.desc }
+
+ent-ChairBrass = brass chair
+    .desc = { ent-StoolBase.desc }
 
 ent-ChairOfficeLight = біле офісне крісло
     .desc = { ent-SeatBase.desc }

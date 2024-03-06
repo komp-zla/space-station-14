@@ -4,6 +4,9 @@ ent-WindoorAssembly = windoor assembly
 ent-WindoorAssemblySecure = secure windoor assembly
     .desc = It opens, it closes, and you can see through it! This one looks tough.
 
+ent-WindoorAssemblyClockwork = clockwork windoor assembly
+    .desc = It opens, it closes, and you can see through it! This one looks tough.
+
 ent-WindoorAssemblyPlasma = Plasma windoor assembly
     .desc = It opens, it closes, and you can see through it! This one looks purp-, no, pink. Wait...
 
