@@ -9,24 +9,24 @@ salvage-expedition-window-progression = Просування
 
 salvage-magnet-resources = {$resource ->
     [OreIron] Зализо
-    [OreCoal] Вугілля
-    [OreQuartz] Кварц
+    [OreCoal] Вугель
+    [OreQuartz] Квартц
     [OreSalt] Сіль
     [OreGold] Золото
     [OreSilver] Срібло
     [OrePlasma] Плазма
     [OreUranium] Уран
-    [OreArtifactFragment] Фрагменти артефактів
+    [OreArtifactFragment] Фрагменти артефакта
     *[other] {$resource}
 }
 
 salvage-magnet-resources-count = {$count ->
-    [1] (Мало)
-    [2] (Середньо)
-    [3] (Середеньо)
-    [4] (Багато)
-    [5] (Багато)
-    *[other] (Переповнено)
+    [1] (Poor)
+    [2] (Moderate)
+    [3] (Moderate)
+    [4] (Rich)
+    [5] (Rich)
+    *[other] (Extraordinary)
 }
 
 # Asteroids
@@ -64,6 +64,7 @@ salvage-map-proto-MediumShuttleWreck = Ruined Emergency Shuttle
 salvage-map-proto-MediumPetHospital = Pet and Bear Hospital
 salvage-map-proto-MediumCrashedShuttle = Crashed Shuttle
 salvage-map-proto-Meatball = Meatball
+salvage-map-proto-VeganMeatball = Vegan Meatball
 
 salvage-map-proto-StationStation = Station station
 salvage-map-proto-AsteroidBase = Asteroid Base
