@@ -1,16 +1,16 @@
-ent-CrateGenericSteel = crate
+ent-CrateGenericSteel = ящик
     .desc = { ent-CrateBaseWeldable.desc }
 
-ent-CratePlastic = plastic crate
+ent-CratePlastic = ящик з пластику
     .desc = { ent-CrateBaseWeldable.desc }
 
-ent-CrateFreezer = freezer
+ent-CrateFreezer = морозилка
     .desc = { ent-CratePlastic.desc }
 
-ent-CrateHydroponics = hydroponics crate
+ent-CrateHydroponics = ботанічний ящик
     .desc = { ent-CratePlastic.desc }
 
-ent-CrateMedical = medical crate
+ent-CrateMedical = медічний ящик
     .desc = { ent-CratePlastic.desc }
 
 ent-CrateRadiation = radiation gear crate
@@ -63,6 +63,10 @@ ent-CrateHydroSecure = secure hydroponics crate
 
 ent-CrateWeaponSecure = secure weapon crate
     .desc = { ent-CrateBaseSecure.desc }
+
+ent-CrateContrabandStorageSecure = contraband storage crate
+    .desc = An armory access locked crate for storing contraband confiscated from suspects or prisoners.
+    .suffix = Armory, Secure
 
 ent-CrateCommandSecure = command crate
     .desc = { ent-CrateBaseSecure.desc }

@@ -1,150 +1,151 @@
 ## General stuff
 
-ui-options-title = Game Options
-ui-options-tab-graphics = Graphics
-ui-options-tab-controls = Controls
-ui-options-tab-audio = Audio
-ui-options-tab-network = Network
-ui-options-tab-misc = General
+ui-options-title = Гра
+ui-options-tab-graphics = Графіка
+ui-options-tab-controls = Керування
+ui-options-tab-audio = Аудіо
+ui-options-tab-network = Мережа
+ui-options-tab-misc = Загальні
 
-ui-options-apply = Apply
-ui-options-reset-all = Reset All
-ui-options-default = Default
+ui-options-apply = Підтвердити
+ui-options-reset-all = Зкинути
+ui-options-default = По замовчуванню
 
 # Misc/General menu
 
-ui-options-discordrich = Enable Discord Rich Presence
-ui-options-general-ui-style = UI Style
+ui-options-discordrich = Увимкнути Discord Rich Presence
+ui-options-general-ui-style = Стиль дієвидла
 ui-options-general-discord = Discord
-ui-options-general-cursor = Cursor
-ui-options-general-speech = Speech
-ui-options-general-storage = Storage
-ui-options-general-accessibility = Accessibility
+ui-options-general-cursor = Курсор
+ui-options-general-speech = Голос
+ui-options-general-storage = Сховище
+ui-options-general-accessibility = Доступність
 
 ## Audio menu
 
-ui-options-master-volume = Master Volume:
-ui-options-midi-volume = MIDI (Instrument) Volume:
-ui-options-ambient-music-volume = Ambient music volume:
-ui-options-ambience-volume = Ambience volume:
-ui-options-lobby-volume = Lobby & Round-end volume:
-ui-options-interface-volume = Interface volume:
-ui-options-ambience-max-sounds = Ambience simultaneous sounds:
-ui-options-lobby-music = Lobby & Round-end Music
-ui-options-restart-sounds = Round Restart Sounds
-ui-options-event-music = Event Music
-ui-options-admin-sounds = Play Admin Sounds
-ui-options-volume-label = Volume
+ui-options-master-volume = Головна гучність:
+ui-options-midi-volume = MIDI (Інструментів) Гучність:
+ui-options-ambient-music-volume = Гучність атмосферної музики:
+ui-options-ambience-volume = Гучність оточення:
+ui-options-lobby-volume = Гучність Лобі та Кінця раунду:
+ui-options-interface-volume = Гучність дієвидла:
+ui-options-ambience-max-sounds = Максимальне число звуків оточення:
+ui-options-lobby-music = Музика лобі та кінця раунда
+ui-options-restart-sounds = Звуки перезапуску раунда
+ui-options-event-music = Івентна музика
+ui-options-admin-sounds = Музика адмінів
+ui-options-volume-label = Гучність
 ui-options-volume-percent = { TOSTRING($volume, "P0") }
 
 ## Graphics menu
 
-ui-options-show-held-item = Show held item next to cursor
-ui-options-show-combat-mode-indicators = Show combat mode indicators with cursor
-ui-options-opaque-storage-window = Opaque storage window
-ui-options-show-looc-on-head = Show LOOC chat above characters head
-ui-options-fancy-speech = Show names in speech bubbles
-ui-options-fancy-name-background = Add background to speech bubble names
-ui-options-enable-color-name = Add colors to character names
-ui-options-reduced-motion = Reduce motion of visual effects
-ui-options-screen-shake-intensity = Screen shake intensity
+ui-options-show-held-item = Показувати тримаємий предмет поряд з курсором
+ui-options-show-combat-mode-indicators = Показувати індікатор бойового режиму поряд з курсором
+ui-options-opaque-storage-window = Прозоре вікно сховища
+ui-options-show-looc-on-head = Показувати чат LOOC над головами персонажів
+ui-options-fancy-speech = Показувати імена у облачках розмов
+ui-options-fancy-name-background = Додати тло до імен у облачках розмов
+ui-options-enable-color-name = Додати кольори до імен персонажів
+ui-options-colorblind-friendly = Режим для людей з вадами зору
+ui-options-reduced-motion = Зменшити рух візуальних ефектів
+ui-options-screen-shake-intensity = Інтенсивність руху екрану
 ui-options-screen-shake-percent = { TOSTRING($intensity, "P0") }
-ui-options-vsync = VSync
-ui-options-fullscreen = Fullscreen
-ui-options-lighting-label = Lighting Quality:
-ui-options-lighting-very-low = Very Low
-ui-options-lighting-low = Low
-ui-options-lighting-medium = Medium
-ui-options-lighting-high = High
-ui-options-scale-label = UI Scale:
-ui-options-scale-auto = Automatic ({ TOSTRING($scale, "P0") })
+ui-options-vsync = Вертикальна Синхронізація
+ui-options-fullscreen = Повний екран
+ui-options-lighting-label = Якість світла:
+ui-options-lighting-very-low = Дуже низька
+ui-options-lighting-low = Низька
+ui-options-lighting-medium = Середня
+ui-options-lighting-high = Висока
+ui-options-scale-label = Масштаб дієвидла:
+ui-options-scale-auto = Автоматичне ({ TOSTRING($scale, "P0") })
 ui-options-scale-75 = 75%
 ui-options-scale-100 = 100%
 ui-options-scale-125 = 125%
 ui-options-scale-150 = 150%
 ui-options-scale-175 = 175%
 ui-options-scale-200 = 200%
-ui-options-hud-theme = HUD theme:
-ui-options-hud-theme-default = Default
-ui-options-hud-theme-plasmafire = Plasmafire
-ui-options-hud-theme-slimecore = Slimecore
-ui-options-hud-theme-clockwork = Clockwork
-ui-options-hud-theme-retro = Retro
-ui-options-hud-theme-minimalist = Minimalist
-ui-options-hud-theme-ashen = Ashen
-ui-options-vp-stretch = Stretch viewport to fit game window
-ui-options-vp-scale = Fixed viewport scale: x{ $scale }
-ui-options-vp-integer-scaling = Prefer integer scaling (might cause black bars/clipping)
+ui-options-hud-theme = Тема дієвидла:
+ui-options-hud-theme-default = По замовчуванню
+ui-options-hud-theme-plasmafire = Плазмений вогонь
+ui-options-hud-theme-slimecore = Слизкор
+ui-options-hud-theme-clockwork = Годинники
+ui-options-hud-theme-retro = Ретро
+ui-options-hud-theme-minimalist = Мінімализм
+ui-options-hud-theme-ashen = Ашен
+ui-options-vp-stretch = Розтягнути поле зору під розмір окна гри
+ui-options-vp-scale = Фіксований розмір екрану: x{ $scale }
+ui-options-vp-integer-scaling = Предпочитати цілочислене масштабування (може спричинити появу чорних смуг)
 ui-options-vp-integer-scaling-tooltip = If this option is enabled, the viewport will be scaled using an integer value
                                         at specific resolutions. While this results in crisp textures, it also often
                                         means that black bars appear at the top/bottom of the screen or that part
                                         of the viewport is not visible.
-ui-options-vp-low-res = Low-resolution viewport
-ui-options-parallax-low-quality = Low-quality Parallax (background)
-ui-options-fps-counter = Show FPS counter
-ui-options-vp-width = Viewport width: { $width }
-ui-options-hud-layout = HUD layout:
+ui-options-vp-low-res = Низько-якісне поле зору
+ui-options-parallax-low-quality = Низько-якісний паралакс (тло)
+ui-options-fps-counter = Показувати FPS
+ui-options-vp-width = Довжина поля зору: { $width }
+ui-options-hud-layout = Вигляд дієвидла:
 
 ## Controls menu
 
-ui-options-binds-reset-all = Reset ALL keybinds
-ui-options-binds-explanation = Click to change binding, right-click to clear
-ui-options-unbound = Unbound
-ui-options-bind-reset = Reset
-ui-options-key-prompt = Press a key...
+ui-options-binds-reset-all = Скинути УСІ скорочення
+ui-options-binds-explanation = Лівий клік щоб змінити, правий щоб видалити.
+ui-options-unbound = Зняти
+ui-options-bind-reset = Скинути
+ui-options-key-prompt = Натисніть клавишу...
 
-ui-options-header-movement = Movement
-ui-options-header-camera = Camera
-ui-options-header-interaction-basic = Basic Interaction
-ui-options-header-interaction-adv = Advanced Interaction
-ui-options-header-ui = User Interface
-ui-options-header-misc = Miscellaneous
-ui-options-header-hotbar = Hotbar
-ui-options-header-shuttle = Shuttle
-ui-options-header-map-editor = Map Editor
-ui-options-header-dev = Development
-ui-options-header-general = General
+ui-options-header-movement = Рух
+ui-options-header-camera = Камера
+ui-options-header-interaction-basic = Базові взаїмодії
+ui-options-header-interaction-adv = Просунуті взаїмодії
+ui-options-header-ui = Дієвидло користувача
+ui-options-header-misc = Різне
+ui-options-header-hotbar = Швидка панель
+ui-options-header-shuttle = Шатл
+ui-options-header-map-editor = Редактор мап
+ui-options-header-dev = Розробка
+ui-options-header-general = Загальні
 
-ui-options-hotkey-keymap = Use US QWERTY Keys
-ui-options-hotkey-toggle-walk = Toggle Walk
+ui-options-hotkey-keymap = Використовувати US QWERTY
+ui-options-hotkey-toggle-walk = Перемикати ходьбу
 
-ui-options-function-move-up = Move Up
-ui-options-function-move-left = Move Left
-ui-options-function-move-down = Move Down
-ui-options-function-move-right = Move Right
-ui-options-function-walk = Walk
+ui-options-function-move-up = Рух нагору
+ui-options-function-move-left = Рух вліво
+ui-options-function-move-down = Рух вних
+ui-options-function-move-right = Рух вправо
+ui-options-function-walk = Ходьба
 
-ui-options-function-camera-rotate-left = Rotate left
-ui-options-function-camera-rotate-right = Rotate right
-ui-options-function-camera-reset = Reset
-ui-options-function-zoom-in = Zoom in
-ui-options-function-zoom-out = Zoom out
-ui-options-function-reset-zoom = Reset zoom
+ui-options-function-camera-rotate-left = Поворот вліво
+ui-options-function-camera-rotate-right = Поворот вправо
+ui-options-function-camera-reset = Скинути
+ui-options-function-zoom-in = Приблизити
+ui-options-function-zoom-out = Віддалити
+ui-options-function-reset-zoom = Скинути приближення
 
-ui-options-function-use = Use
-ui-options-function-use-secondary = Use secondary
-ui-options-function-alt-use = Alt use
-ui-options-function-wide-attack = Wide attack
-ui-options-function-activate-item-in-hand = Activate item in hand
-ui-options-function-alt-activate-item-in-hand = Alternative activate item in hand
-ui-options-function-activate-item-in-world = Activate item in world
-ui-options-function-alt-activate-item-in-world = Alternative activate item in world
-ui-options-function-drop = Drop item
-ui-options-function-examine-entity = Examine
-ui-options-function-swap-hands = Swap hands
-ui-options-function-move-stored-item = Move stored item
-ui-options-function-rotate-stored-item = Rotate stored item
-ui-options-static-storage-ui = Lock storage window to hotbar
+ui-options-function-use = Використати
+ui-options-function-use-secondary = Використати друге
+ui-options-function-alt-use = Альтернатівно використати
+ui-options-function-wide-attack = Широка атака
+ui-options-function-activate-item-in-hand = Активувати річ в руці
+ui-options-function-alt-activate-item-in-hand = Альтернатівно активувати річ в руці
+ui-options-function-activate-item-in-world = Активувати річ у світі
+ui-options-function-alt-activate-item-in-world = Альтернатівно активувати річ у світі
+ui-options-function-drop = Покласти річ
+ui-options-function-examine-entity = Вивчити
+ui-options-function-swap-hands = Поміняти руки
+ui-options-function-move-stored-item = Пересунути річ
+ui-options-function-rotate-stored-item = Повернути річ
+ui-options-static-storage-ui = Зафіксувати сховище на швидкої панелі
 
-ui-options-function-smart-equip-backpack = Smart-equip to backpack
-ui-options-function-smart-equip-belt = Smart-equip to belt
-ui-options-function-open-backpack = Open backpack
-ui-options-function-open-belt = Open belt
-ui-options-function-throw-item-in-hand = Throw item
-ui-options-function-try-pull-object = Pull object
-ui-options-function-move-pulled-object = Move pulled object
-ui-options-function-release-pulled-object = Release pulled object
-ui-options-function-point = Point at location
+ui-options-function-smart-equip-backpack = Швидко пересунути до/з рюкзака
+ui-options-function-smart-equip-belt = Швидко пересунти до/з пояса
+ui-options-function-open-backpack = Відкрити рюкзак
+ui-options-function-open-belt = Відкрити пояс
+ui-options-function-throw-item-in-hand = Кинути річ
+ui-options-function-try-pull-object = Тягнути об'єкт
+ui-options-function-move-pulled-object = Пересунти об'єкт
+ui-options-function-release-pulled-object = Відпустити об'єкт
+ui-options-function-point = Вказати
 
 ui-options-function-focus-chat-input-window = Focus chat
 ui-options-function-focus-local-chat-window = Focus chat (IC)

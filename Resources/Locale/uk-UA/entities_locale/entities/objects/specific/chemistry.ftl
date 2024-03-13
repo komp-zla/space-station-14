@@ -31,6 +31,9 @@ ent-BaseSyringe = syringe
 ent-Syringe = { ent-BaseSyringe }
     .desc = { ent-BaseSyringe.desc }
 
+ent-PrefilledSyringe = { ent-BaseSyringe }
+    .desc = { ent-BaseSyringe.desc }
+
 ent-SyringeBluespace = bluespace syringe
     .desc = Injecting with advanced bluespace technology.
 

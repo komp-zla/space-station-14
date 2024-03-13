@@ -41,7 +41,7 @@ guide-entry-anomalous-research = Аномальні дослідження
 guide-entry-scanners-and-vessels = Сканери та Vessels
 guide-entry-ape = A.P.E.
 guide-entry-xenoarchaeology = Ксеноархеологія
-guide-entry-artifact-reports = Звіт артифакта
+guide-entry-artifact-reports = Звіт артефакта
 guide-entry-traversal-distorter = Traversal Distorter
 guide-entry-machine-upgrading = Покращення апаратів
 guide-entry-robotics = Робототехника
@@ -50,6 +50,7 @@ guide-entry-security = Безпека
 guide-entry-forensics = Криміналістика
 guide-entry-defusal = Знешкодження бомб
 guide-entry-criminal-records = Кримінальні Записи
+guide-entry-species = Species
 
 guide-entry-antagonists = Антагоністи
 guide-entry-nuclear-operatives = Ядерні Оперативники
