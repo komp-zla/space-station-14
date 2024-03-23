@@ -1,34 +1,37 @@
-trait-blindness-name = Blindness
-trait-blindness-desc = You are legally blind, and can't see clearly past a few meters in front of you.
+trait-blindness-name = Сліпий
+trait-blindness-desc = Ви маєте діагностовану сліпоту й не можете бачити дальше декільків метрів попереду себе.
 
-trait-narcolepsy-name = Narcolepsy
-trait-narcolepsy-desc = You fall asleep randomly
+trait-narcolepsy-name = Нарколепсія
+trait-narcolepsy-desc = Ви можете заснути у будь який момент.
 
-trait-pacifist-name = Pacifist
-trait-pacifist-desc = You cannot attack or hurt any living beings.
+trait-pacifist-name = Пацифіст
+trait-pacifist-desc = Ви не можете зашкодити живим істотам.
 
-permanent-blindness-trait-examined = [color=lightblue]{CAPITALIZE(POSS-ADJ($target))} eyes are glassy and unfocused. It doesn't seem like {SUBJECT($target)} can see you well, if at all.[/color]
+permanent-blindness-trait-examined = Очі [color=lightblue]{CAPITALIZE(POSS-ADJ($target))} виглядають склянними та несфокусованими. Здається, {SUBJECT($target)} не може бачити ні вас ні будь що інше.[/color]
 
-trait-lightweight-name = Lightweight Drunk
-trait-lightweight-desc = Alcohol has a stronger effect on you
+trait-lightweight-name = Легкий на сп'яніння
+trait-lightweight-desc = Алкоголь має більший ефект на вас.
 
-trait-muted-name = Muted
-trait-muted-desc = You can't speak
+trait-muted-name = Німий
+trait-muted-desc = Ви не можете розмовляти.
 
-trait-paracusia-name = Paracusia
-trait-paracusia-desc = You hear sounds that aren't really there
+trait-paracusia-name = Паракузія
+trait-paracusia-desc = Ви чуєте то чого немає.
 
-trait-unrevivable-name = Unrevivable
-trait-unrevivable-desc = You are unable to be revived by defibrillators.
+trait-unrevivable-name = Невідрождаємий
+trait-unrevivable-desc = Вас не можливо повернути до життя дефібрилятором.
 
-trait-pirate-accent-name = Pirate Accent
-trait-pirate-accent-desc = You can't stop speaking like a pirate!
+trait-pirate-accent-name = Акцент пірата
+trait-pirate-accent-desc = Ярр, ти не можеш зупинитися розмовляти як настоящий пірат!
 
-trait-accentless-name = Accentless
-trait-accentless-desc = You don't have the accent that your species would usually have
+trait-accentless-name = Без акценту
+trait-accentless-desc = В тебе немає жодного акценту.
 
-trait-frontal-lisp-name = Frontal Lisp
-trait-frontal-lisp-desc = You thpeak with a lithp
+trait-frontal-lisp-name = Лобна шепелявість
+trait-frontal-lisp-desc = Ти возмовляєшш ш шепеляфісстю.
 
-trait-socialanxiety-name = Social Anxiety
-trait-socialanxiety-desc = You are anxious when you speak and stutter.
+trait-socialanxiety-name = Соціальна невневненість
+trait-socialanxiety-desc = Багато людей приносять забагато тривогі й сорому. Ви не можете стримати себе в руках і починаєте заікатися.
+
+trait-snoring-name = Хропіння
+trait-snoring-desc = Ви будете хропіти під час сну.

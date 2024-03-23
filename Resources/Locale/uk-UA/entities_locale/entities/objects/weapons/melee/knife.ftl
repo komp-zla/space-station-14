@@ -35,3 +35,6 @@ ent-PlasmaShiv = plasma shiv
 ent-UraniumShiv = uranium shiv
     .desc = A crude weapon fashioned from a piece of cloth and a uranium glass shard. Violates the geneva convention!
 
+ent-ThrowingKnife = throwing knife
+    .desc = This bloodred knife is very aerodynamic and easy to throw, but good luck trying to fight someone hand-to-hand.
+

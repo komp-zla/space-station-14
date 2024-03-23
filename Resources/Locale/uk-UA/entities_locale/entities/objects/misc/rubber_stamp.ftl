@@ -16,6 +16,10 @@ ent-RubberStampChaplain = chaplain's rubber stamp
     .desc = { ent-RubberStampBase.desc }
     .suffix = DO NOT MAP
 
+ent-RubberStampLawyer = lawyer's rubber stamp
+    .desc = { ent-RubberStampBase.desc }
+    .suffix = DO NOT MAP
+
 ent-RubberStampClown = clown's rubber stamp
     .desc = { ent-RubberStampBase.desc }
     .suffix = DO NOT MAP

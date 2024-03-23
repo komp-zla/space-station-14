@@ -7,8 +7,8 @@ ent-ClothingBackpackDuffelClownFilled = { ent-ClothingBackpackDuffelClown }
 ent-ClothingBackpackDuffelSecurityFilled = { ent-ClothingBackpackDuffelSecurity }
     .desc = { ent-ClothingBackpackDuffelSecurity.desc }
 
-ent-ClothingBackpackDuffelFilledDetective = { ent-ClothingBackpackDuffel }
-    .desc = { ent-ClothingBackpackDuffel.desc }
+ent-ClothingBackpackDuffelSecurityFilledDetective = { ent-ClothingBackpackDuffelSecurity }
+    .desc = { ent-ClothingBackpackDuffelSecurity.desc }
 
 ent-ClothingBackpackDuffelBrigmedicFilled = { ent-ClothingBackpackDuffelBrigmedic }
     .desc = { ent-ClothingBackpackDuffelBrigmedic.desc }
@@ -59,6 +59,9 @@ ent-ClothingBackpackDuffelChemistryFilled = { ent-ClothingBackpackDuffelChemistr
     .desc = { ent-ClothingBackpackDuffelChemistry.desc }
 
 ent-ClothingBackpackDuffelChaplainFilled = { ent-ClothingBackpackDuffel }
+    .desc = { ent-ClothingBackpackDuffel.desc }
+
+ent-ClothingBackpackDuffelLawyerFilled = { ent-ClothingBackpackDuffel }
     .desc = { ent-ClothingBackpackDuffel.desc }
 
 ent-ClothingBackpackDuffelMusicianFilled = { ent-ClothingBackpackDuffel }

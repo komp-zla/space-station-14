@@ -59,6 +59,15 @@ ent-PlushieNar = nar'sie plushie
 ent-PlushieCarp = carp plushie
     .desc = An adorable stuffed toy that resembles the monstrous space carp.
 
+ent-PlushieMagicarp = magicarp plushie
+    .desc = An adorable stuffed toy resembling the exceedingly rare magicarp.
+
+ent-PlushieRainbowCarp = rainbow carp plushie
+    .desc = An adorable stuffed toy resembling the legendary rainbow carp.
+
+ent-PlushieHolocarp = holocarp plushie
+    .desc = A holographic stuffed toy resembling science's nemesis - the holocarp.
+
 ent-PlushieSlime = slime plushie
     .desc = An adorable stuffed toy that resembles a slime. It's basically a hacky sack.
 

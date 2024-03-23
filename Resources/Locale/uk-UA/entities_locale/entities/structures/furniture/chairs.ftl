@@ -66,3 +66,6 @@ ent-ChairFoldingSpawnFolded = { ent-ChairFolding }
 ent-SteelBench = стальна лавка
     .desc = Довге крісло, що зроблено для метро. Нереально-реальний стандартний дизайн.
 
+ent-WoodenBench = дерев'яна лавка
+    .desc = Ти підчепив занозу? Ох, ну зато ця лавка еко-френдлі.
+

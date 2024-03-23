@@ -25,6 +25,7 @@ materials-meat = м'ясо
 materials-web = шовк
 materials-bones = кість
 materials-coal = вугілля
+materials-gunpowder = порох
 
 # Ores
 materials-raw-iron = необроблене зализо
