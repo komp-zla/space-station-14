@@ -1,39 +1,39 @@
 ent-BaseToolSurgery = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
 
-ent-Cautery = cautery
-    .desc = A surgical tool used to cauterize open wounds.
+ent-Cautery = інструмент для припікання
+    .desc = Хірургічний інструмент для припікання відкритих ран.
 
-ent-Drill = drill
-    .desc = A surgical drill for making holes into hard material.
+ent-Drill = дриль
+    .desc = Хірургічна дриль для буріння дирочек в твердих матеріалах.
 
-ent-Scalpel = scalpel
-    .desc = A surgical tool used to make incisions into flesh.
+ent-Scalpel = скальпель
+    .desc = Хірургічний інструмент, що використовується для виконання надрізів на тілі.
 
-ent-ScalpelShiv = shiv
-    .desc = A pointy piece of glass, abraded to an edge and wrapped in tape for a handle.
+ent-ScalpelShiv = заточка
+    .desc = Гострий уламок скла, замотаний тканиною.
 
-ent-ScalpelAdvanced = advanced scalpel
-    .desc = Made of more expensive materials, sharper and generally more reliable.
+ent-ScalpelAdvanced = покращений скальпель
+    .desc = Зроблений з більш дорогого матеріала, більш гострий та більш точний.
 
-ent-ScalpelLaser = laser scalpel
-    .desc = A scalpel which uses a directed laser to slice instead of a blade, for more precise surgery while also cauterizing as it cuts.
+ent-ScalpelLaser = лазерний скальпель
+    .desc = Скальпель використовующий направлений лазер для надрізів замість леза, для більш точной хірургії. Додатково припікає рани.
 
-ent-Retractor = retractor
-    .desc = A surgical tool used to hold open incisions.
+ent-Retractor = ранорозширювач
+    .desc = Хірургічний інструмент, що використовується для розширювання відкритих ран.
 
-ent-Hemostat = hemostat
-    .desc = A surgical tool used to compress blood vessels to prevent bleeding.
+ent-Hemostat = хірургічний затискач
+    .desc = Хірургічний інструмент, що використовується для компресії кровоносних судин для зупинки кровотечі.
 
-ent-Saw = metal saw
-    .desc = For cutting wood and other objects to pieces. Or sawing bones, in case of emergency.
+ent-Saw = пила
+    .desc = Ультимативний пристрій - підходить як для дерева так і для костей паціента.
 
-ent-SawImprov = choppa
-    .desc = A wicked serrated blade made of whatever nasty sharp things you could find.
+ent-SawImprov = рубалка
+    .desc = Нечестиво зубчастий клинок, зроблений з першої ж потрапившої тобі на зір гострої штуки.
 
-ent-SawElectric = circular saw
-    .desc = For heavy duty cutting.
+ent-SawElectric = циркулярна пила
+    .desc = Для різання у важких умовах.
 
-ent-SawAdvanced = advanced circular saw
-    .desc = You think you can cut anything with it.
+ent-SawAdvanced = покращена циркулярна пила
+    .desc = Охохо, з цією штукою ти можеш розпілити все що завгодно!
 

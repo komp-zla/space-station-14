@@ -1,98 +1,99 @@
-ent-ClothingBackpack = backpack
-    .desc = You wear this on your back and put items into it.
+ent-ClothingBackpack = рюкзак
+    .desc = Ти тягаєш це у себе на спині та кладеш туди речі.
 
-ent-ClothingBackpackClown = giggles von honkerton
-    .desc = It's a backpack made by Honk! Co.
+ent-ClothingBackpackClown = хихик фон гудоктон
+    .desc = Рюкзак розроблений Гудок! Ко.
 
-ent-ClothingBackpackIan = Ian's backpack
-    .desc = Sometimes he wears it.
+ent-ClothingBackpackIan = рюкзак Іана
+    .desc = Іноді він носить його.
 
-ent-ClothingBackpackSecurity = security backpack
-    .desc = It's a very robust backpack.
+ent-ClothingBackpackSecurity = рюкзак офіцерів
+    .desc = Дуже міцний рюкзак.
 
-ent-ClothingBackpackBrigmedic = brigmedic backpack
-    .desc = It's a very sterile backpack.
+ent-ClothingBackpackBrigmedic = рюкзак брігмедика
+    .desc = Дуже стерільний рюкзак.
 
-ent-ClothingBackpackEngineering = engineering backpack
-    .desc = It's a tough backpack for the daily grind of station life.
+ent-ClothingBackpackEngineering = рюкзак інженера
+    .desc = Крепкий рюкзак для щоденого життя на станції.
 
-ent-ClothingBackpackAtmospherics = atmospherics backpack
-    .desc = It's a backpack made of fire resistant fibers. Smells like plasma.
+ent-ClothingBackpackAtmospherics = рюкзак атмосферника
+    .desc = Рюкзак що зроблен з вогнестійких фібр. Пахне плазмою.
 
-ent-ClothingBackpackMedical = medical backpack
-    .desc = It's a backpack especially designed for use in a sterile environment.
+ent-ClothingBackpackMedical = рюкзак медика
+    .desc = Рюкзак спеціально розроблений для використання в стерільному середовищі.
 
-ent-ClothingBackpackCaptain = captain's backpack
-    .desc = It's a special backpack made exclusively for Nanotrasen officers.
+ent-ClothingBackpackCaptain = рюкзак капітана
+    .desc = Спеціальний рюкзак спеціально зроблений для офіцерів НаноТрайзен.
 
-ent-ClothingBackpackMime = mime backpack
-    .desc = A silent backpack made for those silent workers. Silence Co.
+ent-ClothingBackpackMime = рюкзак міма
+    .desc = Мовчаливий рюкзак розроблений для цих мовчаливих працівників. 
+A silent backpack made for those silent workers. Тиша Ко.
 
-ent-ClothingBackpackChemistry = chemistry backpack
+ent-ClothingBackpackChemistry = рюкзак хіміка
     .desc = A backpack specially designed to repel stains and hazardous liquids.
 
-ent-ClothingBackpackHydroponics = hydroponics backpack
+ent-ClothingBackpackHydroponics = рюкзак ботаніка
     .desc = It's a backpack made of all-natural fibers.
 
-ent-ClothingBackpackScience = science backpack
+ent-ClothingBackpackScience = рюкзак науковця
     .desc = A backpack specially designed to repel stains and hazardous liquids.
 
-ent-ClothingBackpackVirology = virology backpack
+ent-ClothingBackpackVirology = рюкзак віролога
     .desc = A backpack made of hypo-allergenic fibers. It's designed to help prevent the spread of disease. Smells like monkey.
 
-ent-ClothingBackpackGenetics = genetics backpack
+ent-ClothingBackpackGenetics = рюкзак генетика
     .desc = A backpack designed to be super tough, just in case someone hulks out on you.
 
-ent-ClothingBackpackCargo = cargo backpack
+ent-ClothingBackpackCargo = рюкзак логістів
     .desc = A robust backpack for stealing cargo's loot.
 
-ent-ClothingBackpackSalvage = salvage bag
+ent-ClothingBackpackSalvage = рюкзак шахтарів
     .desc = A robust backpack for stashing your loot.
 
-ent-ClothingBackpackMerc = merc bag
+ent-ClothingBackpackMerc = рюкзак найманця
     .desc = A backpack that has been in many dangerous places, a reliable combat backpack.
 
-ent-ClothingBackpackERTLeader = ERT leader backpack
+ent-ClothingBackpackERTLeader = рюкзак лідера ГШР
     .desc = A spacious backpack with lots of pockets, worn by the Commander of an Emergency Response Team.
 
-ent-ClothingBackpackERTSecurity = ERT security backpack
+ent-ClothingBackpackERTSecurity = рюкзак офіцера ГШР
     .desc = A spacious backpack with lots of pockets, worn by Security Officers of an Emergency Response Team.
 
-ent-ClothingBackpackERTMedical = ERT medical backpack
+ent-ClothingBackpackERTMedical = рюкзак медика ГШР
     .desc = A spacious backpack with lots of pockets, worn by Medical Officers of an Emergency Response Team.
 
-ent-ClothingBackpackERTEngineer = ERT engineer backpack
+ent-ClothingBackpackERTEngineer = рюкзак інженера ГШР
     .desc = A spacious backpack with lots of pockets, worn by Engineers of an Emergency Response Team.
 
-ent-ClothingBackpackERTJanitor = ERT janitor backpack
+ent-ClothingBackpackERTJanitor = рюкзак прибиральника ГШР
     .desc = A spacious backpack with lots of pockets, worn by Janitors of an Emergency Response Team.
 
-ent-ClothingBackpackERTClown = ERT clown backpack
+ent-ClothingBackpackERTClown = рюкзак клоуна ГШР
     .desc = A spacious backpack with lots of pockets, worn by Clowns of an Emergency Response Team.
 
-ent-ClothingBackpackSyndicate = syndicate backpack
+ent-ClothingBackpackSyndicate = рюкзак Синдиката
     .desc = { ent-ClothingBackpack.desc }
 
-ent-ClothingBackpackHolding = bag of holding
-    .desc = A backpack that opens into a localized pocket of bluespace.
+ent-ClothingBackpackHolding = мішок зберігання
+    .desc = Рюкзак, що відкривається в локалізований карман блюспейса.
 
-ent-ClothingBackpackCluwne = jiggles von jonkerton
-    .desc = It's a backpack made by Jonk! Co.
-    .suffix = Unremoveable
+ent-ClothingBackpackCluwne = гигик фон дурниктон
+    .desc = Рюкзак розроблений Дур! Ко.
+    .suffix = Незнімний
 
-ent-ClothingBackpackDebug = wackpack
-    .desc = What the fuck is this?
-    .suffix = Debug
+ent-ClothingBackpackDebug = фукзак
+    .desc = Що це за ху... фігня?
+    .suffix = Дебаг
 
-ent-ClothingBackpackDebug2 = big wackpack
-    .desc = What the fuck is this?
-    .suffix = Debug
+ent-ClothingBackpackDebug2 = больший фукзак
+    .desc = Що це за ху... фігня?
+    .suffix = Дебаг
 
-ent-ClothingBackpackDebug3 = gay wackpack
-    .desc = What the fuck is this?
-    .suffix = Debug
+ent-ClothingBackpackDebug3 = гейський фукзак
+    .desc = Що це за ху... фігня?
+    .suffix = Дебаг
 
-ent-ClothingBackpackDebug4 = offset wackpack
-    .desc = What the fuck is this?
-    .suffix = Debug
+ent-ClothingBackpackDebug4 = безкрайний фукзак
+    .desc = Що це за ху... фігня?
+    .suffix = Дебаг
 

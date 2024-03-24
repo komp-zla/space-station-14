@@ -1,8 +1,8 @@
-ent-BaseStationNanotrasen = 
+ent-BaseStationNanotrasen = ця сутність не має назви
 
-ent-StandardNanotrasenStation = 
+ent-StandardNanotrasenStation = ця сутність не має назви
 
-ent-NanotrasenCentralCommand = 
+ent-NanotrasenCentralCommand = ця сутність не має назви
 
-ent-StandardStationArena = 
+ent-StandardStationArena = ця сутність не має назви
 

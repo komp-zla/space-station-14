@@ -1,3 +1,5 @@
-ent-RGBStaff = RGB staff
-    .desc = Helps fix the underabundance of RGB gear on the station.
+ent-RGBStaff = RGB посох
+    .desc = Допомогає полагодити недостаток RGB кольорів на станції.
+
+ent-ActionRgbLight = do not translate
 

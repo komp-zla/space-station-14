@@ -3,11 +3,11 @@ ent-BaseItem = item
 ent-BaseStorageItem = storage item
     .desc = { ent-BaseItem.desc }
 
-ent-BaseBagOpenClose = 
+ent-BaseBagOpenClose = ця сутність не має назви
 
-ent-PowerCellSlotSmallItem = 
+ent-PowerCellSlotSmallItem = ця сутність не має назви
 
-ent-PowerCellSlotMediumItem = 
+ent-PowerCellSlotMediumItem = ця сутність не має назви
 
-ent-PowerCellSlotHighItem = 
+ent-PowerCellSlotHighItem = ця сутність не має назви
 

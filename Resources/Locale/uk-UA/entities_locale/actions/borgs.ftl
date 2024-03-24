@@ -1,3 +1,3 @@
-ent-ActionViewLaws = View Laws
-    .desc = View the laws that you must follow.
+ent-ActionViewLaws = Подивитися закони
+    .desc = Показує ваші закони.
 

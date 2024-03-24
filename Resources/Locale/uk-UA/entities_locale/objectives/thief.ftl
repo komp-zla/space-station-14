@@ -1,17 +1,17 @@
 ent-BaseThiefObjective = { ent-BaseObjective }
     .desc = { ent-BaseObjective.desc }
 
-ent-BaseThiefStealObjective = { ent-[BaseThiefObjective, BaseStealObjective] }
-    .desc = { ent-[BaseThiefObjective, BaseStealObjective].desc }
+ent-BaseThiefStealObjective = { ent-BaseThiefObjective }
+    .desc = { ent-BaseThiefObjective.desc }
 
-ent-BaseThiefStealCollectionObjective = { ent-[BaseThiefObjective, BaseStealObjective] }
-    .desc = { ent-[BaseThiefObjective, BaseStealObjective].desc }
+ent-BaseThiefStealCollectionObjective = { ent-BaseThiefObjective }
+    .desc = { ent-BaseThiefObjective.desc }
 
-ent-BaseThiefStealStructureObjective = { ent-[BaseThiefObjective, BaseStealObjective] }
-    .desc = { ent-[BaseThiefObjective, BaseStealObjective].desc }
+ent-BaseThiefStealStructureObjective = { ent-BaseThiefObjective }
+    .desc = { ent-BaseThiefObjective.desc }
 
-ent-BaseThiefStealAnimalObjective = { ent-[BaseThiefObjective, BaseStealObjective] }
-    .desc = { ent-[BaseThiefObjective, BaseStealObjective].desc }
+ent-BaseThiefStealAnimalObjective = { ent-BaseThiefObjective }
+    .desc = { ent-BaseThiefObjective.desc }
 
 ent-FigurineStealCollectionObjective = { ent-BaseThiefStealCollectionObjective }
     .desc = { ent-BaseThiefStealCollectionObjective.desc }
@@ -130,21 +130,12 @@ ent-MortyStealObjective = { ent-BaseThiefStealAnimalObjective }
 ent-RenaultStealObjective = { ent-BaseThiefStealAnimalObjective }
     .desc = { ent-BaseThiefStealAnimalObjective.desc }
 
-ent-HamletStealObjective = { ent-BaseThiefStealAnimalObjective }
-    .desc = { ent-BaseThiefStealAnimalObjective.desc }
-
 ent-ShivaStealObjective = { ent-BaseThiefStealAnimalObjective }
-    .desc = { ent-BaseThiefStealAnimalObjective.desc }
-
-ent-SmileStealObjective = { ent-BaseThiefStealAnimalObjective }
-    .desc = { ent-BaseThiefStealAnimalObjective.desc }
-
-ent-PunPunStealObjective = { ent-BaseThiefStealAnimalObjective }
     .desc = { ent-BaseThiefStealAnimalObjective.desc }
 
 ent-TropicoStealObjective = { ent-BaseThiefStealAnimalObjective }
     .desc = { ent-BaseThiefStealAnimalObjective.desc }
 
-ent-EscapeThiefShuttleObjective = Escape to centcom alive and unrestrained.
-    .desc = You don't want your illegal activities to be discovered by anyone, do you?
+ent-EscapeThiefShuttleObjective = Втечить на ЦентКом живим та незв'язаним..
+    .desc = Ти ж не хочеш щоб твої нелегальні дії були розкрити, не так ли?
 

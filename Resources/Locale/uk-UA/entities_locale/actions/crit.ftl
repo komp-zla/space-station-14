@@ -1,9 +1,9 @@
-ent-ActionCritSuccumb = Succumb
-    .desc = Accept your fate.
+ent-ActionCritSuccumb = Здатися
+    .desc = Прийняти вашу судьбу.
 
-ent-ActionCritFakeDeath = Fake Death
-    .desc = Pretend to take your final breath while staying alive.
+ent-ActionCritFakeDeath = Підстроїти смерть
+    .desc = Видати останній вздох, але залишитися живим.
 
-ent-ActionCritLastWords = Say Last Words
-    .desc = Whisper your last words to anyone nearby, and then succumb to your fate. You only have 30 characters to work with.
+ent-ActionCritLastWords = Сказати останні слова
+    .desc = Прошепотіти ваші останні слова й потім піддатися своєї судьбі. У вас є тільки 30 символів.
 

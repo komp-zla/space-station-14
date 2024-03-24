@@ -1,2 +1,2 @@
-ent-BaseShadow = 
+ent-BaseShadow = ця сутність не має назви
 
