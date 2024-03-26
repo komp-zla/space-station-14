@@ -109,6 +109,9 @@ uplink-holoclown-kit-desc = A joint venture between Cybersun and Honk.co. Contai
 uplink-holster-name = Наплічова кобура
 uplink-holster-desc = A deep shoulder holster capable of holding many types of ballistics.
 
+uplink-chest-rig-name = Розгрузка
+uplink-chest-rig-desc = Explosion-resistant tactical webbing used for holding traitor goods.
+
 uplink-emag-name = ЕлектроМагнітна картка
 uplink-emag-desc = The business card of the syndicate, this sequencer is able to break open airlocks and tamper with a variety of station devices. Recharges automatically.
 
@@ -182,10 +185,10 @@ uplink-uplink-implanter-desc = Stealthily order equipment without the need for a
 uplink-deathrattle-implant-name = Box Of Deathrattle Implants
 uplink-deathrattle-implant-desc = A box containing enough deathrattle implants for the whole squad. Relays a message containing your position to the syndicate channel when you go into a critical state or die.
 
-uplink-death-acidifier-implant-name = Death Acidifier Implant
+uplink-death-acidifier-implant-name = Імплант Посмертний окислитель
 uplink-death-acidifier-implant-desc = Completely melts the user and their equipment on use or death.
 
-uplink-micro-bomb-implanter-name = Micro Bomb Implanter
+uplink-micro-bomb-implanter-name = Імплат Мікро Бомба
 uplink-micro-bomb-implanter-desc = Explode on death or manual activation with this implant. Destroys the body with all equipment.
 
 # Bundles

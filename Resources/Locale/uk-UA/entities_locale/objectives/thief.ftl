@@ -34,9 +34,6 @@ ent-TechnologyDiskStealCollectionObjective = { ent-BaseThiefStealCollectionObjec
 ent-IDCardsStealCollectionObjective = { ent-BaseThiefStealCollectionObjective }
     .desc = { ent-BaseThiefStealCollectionObjective.desc }
 
-ent-CannabisStealCollectionObjective = { ent-BaseThiefStealCollectionObjective }
-    .desc = { ent-BaseThiefStealCollectionObjective.desc }
-
 ent-LAMPStealCollectionObjective = { ent-BaseThiefStealCollectionObjective }
     .desc = { ent-BaseThiefStealCollectionObjective.desc }
 

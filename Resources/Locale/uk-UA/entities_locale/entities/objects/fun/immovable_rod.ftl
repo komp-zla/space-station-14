@@ -1,15 +1,36 @@
-ent-ImmovableRod = immovable rod
-    .desc = You can sense that it's hungry. That's usually a bad sign.
+ent-ImmovableRod = нерухомий жезл
+    .desc = Ти можеш відчути що воно дуже голодне. Зазвчиай це дууужеее поганий знак.
 
 ent-ImmovableRodSlow = { ent-ImmovableRod }
     .desc = { ent-ImmovableRod.desc }
-    .suffix = Slow
+    .suffix = Повільний
 
 ent-ImmovableRodKeepTiles = { ent-ImmovableRod }
     .desc = { ent-ImmovableRod.desc }
-    .suffix = Keep Tiles
+    .suffix = Залишає тайли
 
 ent-ImmovableRodKeepTilesStill = { ent-ImmovableRodKeepTiles }
     .desc = { ent-ImmovableRodKeepTiles.desc }
-    .suffix = Keep Tiles, Still
+    .suffix = Залишає тайли, Still
+
+ent-ImmovableRodMop = нерухома швабра
+    .desc = Кинута як джавелін, вміщає в себе силу тисяч злих прибиральників.
+
+ent-ImmovableRodShark = нерухома акула
+    .desc = АКУУЛООНААДОО!!
+
+ent-ImmovableRodClown = нерухомий клоун
+    .desc = Викинутий зі станції сусідньої зіркової системи. ХОНК!
+
+ent-ImmovableRodBanana = нерухомий банан
+    .desc = Ну, хочаб ти на ньому не підслізнешся.
+
+ent-ImmovableRodHammer = нерухомий молот
+    .desc = Тидищ.
+
+ent-ImmovableRodThrongler = нерухомий тронґлер
+    .desc = Якщо ти його спіймаєш то так уж і бути, можеш залишити собі.
+
+ent-ImmovableRodGibstick = нерухома гібпалка
+    .desc = А що ти ще очікував?
 
