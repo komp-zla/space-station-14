@@ -1,21 +1,24 @@
-ent-ShardCrystalBase = crystal shard
-    .desc = A small piece of crystal.
+ent-ShardCrystalBase = уламок кристалу
+    .desc = Маленький кусочек кристалу.
 
-ent-ShardCrystalCyan = cyan crystal shard
-    .desc = A small piece of crystal.
-
-ent-ShardCrystalBlue = blue crystal shard
+ent-ShardCrystalCyan = голубий уламок кристалу
     .desc = { ent-ShardCrystalBase.desc }
 
-ent-ShardCrystalOrange = orange crystal shard
+ent-ShardCrystalBlue = синій уламок кристалу
     .desc = { ent-ShardCrystalBase.desc }
 
-ent-ShardCrystalPink = pink crystal shard
+ent-ShardCrystalOrange = оранжевий уламок кристалу
     .desc = { ent-ShardCrystalBase.desc }
 
-ent-ShardCrystalGreen = green crystal shard
+ent-ShardCrystalPink = рожевий уламок кристалу
     .desc = { ent-ShardCrystalBase.desc }
 
-ent-ShardCrystalRed = red crystal shard
+ent-ShardCrystalGreen = зелений уламок кристалу
+    .desc = { ent-ShardCrystalBase.desc }
+
+ent-ShardCrystalRed = червоний уламок кристалу
+    .desc = { ent-ShardCrystalBase.desc }
+
+ent-ShardCrystalRandom = випадковий уламок кристалу
     .desc = { ent-ShardCrystalBase.desc }
 
