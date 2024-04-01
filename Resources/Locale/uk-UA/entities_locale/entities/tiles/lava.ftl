@@ -1,3 +1,3 @@
-ent-FloorLavaEntity = lava
-    .desc = Don't jump in. It's not worth it, no matter how funny it is.
+ent-FloorLavaEntity = лава
+    .desc = Навіть і не думай стрибати в неї, це того не коштує, навіть якщо це і звучить як смішна ідея.
 

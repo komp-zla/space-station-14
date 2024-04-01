@@ -1,3 +1,3 @@
-ent-FloorWaterEntity = water
-    .desc = A real thirst quencher.
+ent-FloorWaterEntity = вода
+    .desc = Першоджерельний засіб для втамування спраги.
 

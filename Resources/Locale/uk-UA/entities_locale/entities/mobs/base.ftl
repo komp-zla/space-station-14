@@ -1,17 +1,17 @@
-ent-BaseMob = 
+ent-BaseMob = ця сутність не має назви
 
-ent-MobDamageable = 
+ent-MobDamageable = ця сутність не має назви
 
-ent-MobCombat = 
+ent-MobCombat = ця сутність не має назви
 
-ent-MobAtmosExposed = 
+ent-MobAtmosExposed = ця сутність не має назви
 
 ent-MobAtmosStandard = { ent-MobAtmosExposed }
     .desc = { ent-MobAtmosExposed.desc }
 
-ent-MobFlammable = 
+ent-MobFlammable = ця сутність не має назви
 
-ent-MobRespirator = 
+ent-MobRespirator = ця сутність не має назви
 
-ent-MobBloodstream = 
+ent-MobBloodstream = ця сутність не має назви
 

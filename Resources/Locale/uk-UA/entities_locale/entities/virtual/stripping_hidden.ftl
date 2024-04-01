@@ -1,3 +1,3 @@
-ent-StrippingHiddenEntity = Hidden Entity
-    .desc = There is something in this pocket.
+ent-StrippingHiddenEntity = Схована сутність
+    .desc = В цьому кармашки щось є.
 

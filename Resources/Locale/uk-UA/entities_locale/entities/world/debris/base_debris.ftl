@@ -1,2 +1,2 @@
-ent-BaseDebris = 
+ent-BaseDebris = ця сутність не має назви
 

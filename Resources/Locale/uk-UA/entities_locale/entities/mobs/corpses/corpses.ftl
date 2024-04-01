@@ -1,28 +1,28 @@
 ent-MobRandomServiceCorpse = { ent-SalvageHumanCorpse }
     .desc = { ent-SalvageHumanCorpse.desc }
-    .suffix = Dead, Service
+    .suffix = Мертвий, Сервіс
 
 ent-MobRandomEngineerCorpse = { ent-SalvageHumanCorpse }
     .desc = { ent-SalvageHumanCorpse.desc }
-    .suffix = Dead, Engineer
+    .suffix = Мертвий, Інженер
 
 ent-MobRandomCargoCorpse = { ent-SalvageHumanCorpse }
     .desc = { ent-SalvageHumanCorpse.desc }
-    .suffix = Dead, Cargo
+    .suffix = Мертвий, Логіст
 
 ent-MobRandomMedicCorpse = { ent-SalvageHumanCorpse }
     .desc = { ent-SalvageHumanCorpse.desc }
-    .suffix = Dead, Medic
+    .suffix = Мертвий, Лікар
 
 ent-MobRandomScienceCorpse = { ent-SalvageHumanCorpse }
     .desc = { ent-SalvageHumanCorpse.desc }
-    .suffix = Dead, Science
+    .suffix = Мертвий, Науковець
 
 ent-MobRandomSecurityCorpse = { ent-SalvageHumanCorpse }
     .desc = { ent-SalvageHumanCorpse.desc }
-    .suffix = Dead, Security
+    .suffix = Мертвий, Офіцер
 
 ent-MobRandomCommandCorpse = { ent-SalvageHumanCorpse }
     .desc = { ent-SalvageHumanCorpse.desc }
-    .suffix = Dead, Command
+    .suffix = Мертвий, Командування
 
