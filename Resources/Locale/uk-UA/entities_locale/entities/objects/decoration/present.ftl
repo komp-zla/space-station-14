@@ -1,28 +1,28 @@
 ent-PresentBase = present
     .desc = A little box with incredible surprises inside.
 
-ent-Present = { ent-[PresentBase, BaseStorageItem] }
-    .desc = { ent-[PresentBase, BaseStorageItem].desc }
+ent-Present = { ent-PresentBase }
+    .desc = { ent-PresentBase.desc }
     .suffix = Empty
 
-ent-PresentRandomUnsafe = { ent-[PresentBase, BaseItem] }
-    .desc = { ent-[PresentBase, BaseItem].desc }
+ent-PresentRandomUnsafe = { ent-PresentBase }
+    .desc = { ent-PresentBase.desc }
     .suffix = Filled, any item
 
 ent-PresentRandomInsane = { ent-PresentRandomUnsafe }
     .desc = { ent-PresentRandomUnsafe.desc }
     .suffix = Filled, any entity
 
-ent-PresentRandom = { ent-[PresentBase, BaseItem] }
-    .desc = { ent-[PresentBase, BaseItem].desc }
+ent-PresentRandom = { ent-PresentBase }
+    .desc = { ent-PresentBase.desc }
     .suffix = Filled Safe
 
-ent-PresentRandomAsh = { ent-[PresentBase, BaseItem] }
-    .desc = { ent-[PresentBase, BaseItem].desc }
+ent-PresentRandomAsh = { ent-PresentBase }
+    .desc = { ent-PresentBase.desc }
     .suffix = Filled Ash
 
-ent-PresentRandomCash = { ent-[PresentBase, BaseItem] }
-    .desc = { ent-[PresentBase, BaseItem].desc }
+ent-PresentRandomCash = { ent-PresentBase }
+    .desc = { ent-PresentBase.desc }
     .suffix = Filled Cash
 
 ent-PresentTrash = Wrapping Paper

@@ -12,15 +12,15 @@ ent-filingCabinetDrawer = chest drawer
 
 ent-BaseBureaucraticStorageFill = ця сутність не має назви
 
-ent-filingCabinetRandom = { ent-[filingCabinet, BaseBureaucraticStorageFill] }
-    .desc = { ent-[filingCabinet, BaseBureaucraticStorageFill].desc }
+ent-filingCabinetRandom = { ent-filingCabinet }
+    .desc = { ent-filingCabinet.desc }
     .suffix = Random
 
-ent-filingCabinetTallRandom = { ent-[filingCabinetTall, BaseBureaucraticStorageFill] }
-    .desc = { ent-[filingCabinetTall, BaseBureaucraticStorageFill].desc }
+ent-filingCabinetTallRandom = { ent-filingCabinetTall }
+    .desc = { ent-filingCabinetTall.desc }
     .suffix = Random
 
-ent-filingCabinetDrawerRandom = { ent-[filingCabinetDrawer, BaseBureaucraticStorageFill] }
-    .desc = { ent-[filingCabinetDrawer, BaseBureaucraticStorageFill].desc }
+ent-filingCabinetDrawerRandom = { ent-filingCabinetDrawer }
+    .desc = { ent-filingCabinetDrawer.desc }
     .suffix = Random
 

@@ -1,8 +1,8 @@
 ent-HandheldHealthAnalyzerUnpowered = health analyzer
     .desc = A hand-held body scanner capable of distinguishing vital signs of the subject.
 
-ent-HandheldHealthAnalyzer = { ent-[ HandheldHealthAnalyzerUnpowered, PowerCellSlotSmallItem] }
-    .desc = { ent-[ HandheldHealthAnalyzerUnpowered, PowerCellSlotSmallItem].desc }
+ent-HandheldHealthAnalyzer = { ent-HandheldHealthAnalyzerUnpowered }
+    .desc = { ent-HandheldHealthAnalyzerUnpowered.desc }
     .suffix = Powered
 
 ent-HandheldHealthAnalyzerEmpty = { ent-HandheldHealthAnalyzer }

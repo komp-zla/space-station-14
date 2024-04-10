@@ -1,11 +1,11 @@
 ent-BaseTraitorObjective = { ent-BaseObjective }
     .desc = { ent-BaseObjective.desc }
 
-ent-BaseTraitorSocialObjective = { ent-[BaseTraitorObjective, BaseSocialObjective] }
-    .desc = { ent-[BaseTraitorObjective, BaseSocialObjective].desc }
+ent-BaseTraitorSocialObjective = { ent-BaseTraitorObjective }
+    .desc = { ent-BaseTraitorObjective.desc }
 
-ent-BaseTraitorStealObjective = { ent-[BaseTraitorObjective, BaseStealObjective] }
-    .desc = { ent-[BaseTraitorObjective, BaseStealObjective].desc }
+ent-BaseTraitorStealObjective = { ent-BaseTraitorObjective }
+    .desc = { ent-BaseTraitorObjective.desc }
 
 ent-EscapeShuttleObjective = Escape to centcom alive and unrestrained.
     .desc = One of our undercover agents will debrief you when you arrive. Don't show up in cuffs.
