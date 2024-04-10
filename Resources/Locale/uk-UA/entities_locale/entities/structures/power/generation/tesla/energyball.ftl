@@ -1,4 +1,4 @@
-ent-BaseEnergyBall = 
+ent-BaseEnergyBall = ця сутність не має назви
 
 ent-TeslaEnergyBall = ball lightning
     .desc = A giant ball of pure energy. The space around it is humming and melting.

@@ -4,5 +4,5 @@ ent-FoodBase = { ent-BaseItem }
 ent-FoodInjectableBase = { ent-FoodBase }
     .desc = { ent-FoodBase.desc }
 
-ent-FoodOpenableBase = 
+ent-FoodOpenableBase = ця сутність не має назви
 

@@ -1,4 +1,4 @@
-ent-BaseFoam = 
+ent-BaseFoam = ця сутність не має назви
 
 ent-Smoke = smoke
     .desc = { ent-BaseFoam.desc }

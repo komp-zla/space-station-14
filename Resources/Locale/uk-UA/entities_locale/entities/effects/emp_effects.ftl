@@ -1,4 +1,4 @@
-ent-EffectEmpPulse = 
+ent-EffectEmpPulse = ця сутність не має назви
 
-ent-EffectEmpDisabled = 
+ent-EffectEmpDisabled = ця сутність не має назви
 

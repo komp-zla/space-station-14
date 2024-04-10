@@ -1,4 +1,4 @@
-ent-MobElementalBase = 
+ent-MobElementalBase = ця сутність не має назви
 
 ent-MobOreCrab = ore crab
     .desc = { ent-[ MobElementalBase, MobCombat ].desc }

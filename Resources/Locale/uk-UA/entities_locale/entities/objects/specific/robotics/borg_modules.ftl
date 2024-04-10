@@ -1,7 +1,7 @@
 ent-BaseBorgModule = borg module
     .desc = A piece of tech that gives cyborgs new abilities.
 
-ent-BaseProviderBorgModule = 
+ent-BaseProviderBorgModule = ця сутність не має назви
 
 ent-ActionBorgSwapModule = Swap Module
     .desc = Select this module, enabling you to use the tools it provides.

@@ -1,4 +1,4 @@
-ent-ClickTestBase = 
+ent-ClickTestBase = ця сутність не має назви
     .suffix = DEBUG
 
 ent-ClickTestRotatingCornerVisible = ClickTestRotatingCornerVisible

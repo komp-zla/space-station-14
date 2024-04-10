@@ -1,4 +1,4 @@
-ent-MobTerminatorBase = 
+ent-MobTerminatorBase = ця сутність не має назви
 
 ent-MobHumanTerminator = exterminator
     .desc = { ent-[MobHuman, MobTerminatorBase].desc }

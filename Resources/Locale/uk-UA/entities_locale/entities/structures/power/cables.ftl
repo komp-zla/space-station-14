@@ -1,4 +1,4 @@
-ent-CableBase = 
+ent-CableBase = ця сутність не має назви
 
 ent-CableHV = HV power cable
     .desc = An orange high voltage power cable.

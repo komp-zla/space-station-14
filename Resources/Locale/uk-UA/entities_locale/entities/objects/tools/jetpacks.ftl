@@ -1,4 +1,4 @@
-ent-JetpackEffect = 
+ent-JetpackEffect = ця сутність не має назви
 
 ent-BaseJetpack = Jetpack
     .desc = It's a jetpack.

@@ -1,8 +1,8 @@
-ent-BulletImpactEffect = 
+ent-BulletImpactEffect = ця сутність не має назви
 
-ent-BulletImpactEffectDisabler = 
+ent-BulletImpactEffectDisabler = ця сутність не має назви
 
-ent-BulletImpactEffectOrangeDisabler = 
+ent-BulletImpactEffectOrangeDisabler = ця сутність не має назви
 
-ent-BulletImpactEffectKinetic = 
+ent-BulletImpactEffectKinetic = ця сутність не має назви
 

@@ -1,6 +1,6 @@
-ent-BaseMobSpecies = 
+ent-BaseMobSpecies = ця сутність не має назви
 
-ent-BaseMobSpeciesOrganic = 
+ent-BaseMobSpeciesOrganic = ця сутність не має назви
 
-ent-BaseSpeciesDummy = 
+ent-BaseSpeciesDummy = ця сутність не має назви
 

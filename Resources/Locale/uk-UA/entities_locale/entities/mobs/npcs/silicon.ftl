@@ -1,4 +1,4 @@
-ent-MobSiliconBase = 
+ent-MobSiliconBase = ця сутність не має назви
 
 ent-MobHonkBot = honkbot
     .desc = Horrifying.

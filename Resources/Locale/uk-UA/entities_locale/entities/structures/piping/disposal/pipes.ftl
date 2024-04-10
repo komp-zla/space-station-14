@@ -1,4 +1,4 @@
-ent-DisposalPipeBase = 
+ent-DisposalPipeBase = ця сутність не має назви
 
 ent-DisposalHolder = disposal holder
 

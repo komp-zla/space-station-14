@@ -10,7 +10,7 @@ ent-filingCabinetDrawer = chest drawer
     .desc = A small drawer for all your filing needs, Now with wheels!
     .suffix = Empty
 
-ent-BaseBureaucraticStorageFill = 
+ent-BaseBureaucraticStorageFill = ця сутність не має назви
 
 ent-filingCabinetRandom = { ent-[filingCabinet, BaseBureaucraticStorageFill] }
     .desc = { ent-[filingCabinet, BaseBureaucraticStorageFill].desc }

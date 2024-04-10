@@ -1,4 +1,4 @@
-ent-BaseMechPart = 
+ent-BaseMechPart = ця сутність не має назви
 
 ent-BaseRipleyPart = { ent-BaseMechPart }
     .desc = { ent-BaseMechPart.desc }

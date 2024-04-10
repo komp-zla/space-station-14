@@ -1,4 +1,4 @@
-ent-ParticleAcceleratorBase = 
+ent-ParticleAcceleratorBase = ця сутність не має назви
 
 ent-ParticleAcceleratorFinishedPart = { ent-ParticleAcceleratorBase }
     .desc = { ent-ParticleAcceleratorBase.desc }

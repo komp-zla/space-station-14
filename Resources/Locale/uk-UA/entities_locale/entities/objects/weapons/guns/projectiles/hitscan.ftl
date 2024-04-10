@@ -1,2 +1,2 @@
-ent-HitscanEffect = 
+ent-HitscanEffect = ця сутність не має назви
 

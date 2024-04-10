@@ -1,9 +1,9 @@
-ent-BaseSimpleMob = 
+ent-BaseSimpleMob = ця сутність не має назви
     .suffix = AI
 
-ent-SimpleSpaceMobBase = 
+ent-SimpleSpaceMobBase = ця сутність не має назви
     .suffix = AI
 
-ent-SimpleMobBase = 
+ent-SimpleMobBase = ця сутність не має назви
     .suffix = AI
 
