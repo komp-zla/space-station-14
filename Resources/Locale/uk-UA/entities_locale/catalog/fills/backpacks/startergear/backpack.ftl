@@ -85,6 +85,9 @@ ent-ClothingBackpackERTEngineerFilled = { ent-ClothingBackpackERTEngineer }
 ent-ClothingBackpackERTJanitorFilled = { ent-ClothingBackpackERTJanitor }
     .desc = { ent-ClothingBackpackERTJanitor.desc }
 
+ent-ClothingBackpackERTChaplainFilled = { ent-ClothingBackpackERTChaplain }
+    .desc = { ent-ClothingBackpackERTChaplain.desc }
+
 ent-ClothingBackpackDeathSquadFilled = death squad backpack
     .desc = Holds the kit of CentComm's most feared agents.
 

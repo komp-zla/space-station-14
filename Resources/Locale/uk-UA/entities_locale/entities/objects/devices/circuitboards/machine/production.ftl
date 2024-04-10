@@ -238,3 +238,6 @@ ent-ShuttleGunDusterCircuitboard = EXP-2100g "Duster" machine board
 ent-ShuttleGunKineticCircuitboard = PTK-800 "Matter Dematerializer" machine board
     .desc = A machine printed circuit board for an PTK-800 "Matter Dematerializer"
 
+ent-ReagentGrinderIndustrialMachineCircuitboard = industrial reagent grinder machine board
+    .desc = { ent-BaseMachineCircuitboard.desc }
+

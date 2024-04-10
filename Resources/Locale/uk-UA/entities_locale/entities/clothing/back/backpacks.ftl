@@ -26,8 +26,7 @@ ent-ClothingBackpackCaptain = рюкзак капітана
     .desc = Спеціальний рюкзак спеціально зроблений для офіцерів НаноТрайзен.
 
 ent-ClothingBackpackMime = рюкзак міма
-    .desc = Мовчаливий рюкзак розроблений для цих мовчаливих працівників. 
-A silent backpack made for those silent workers. Тиша Ко.
+    .desc = Мовчаливий рюкзак розроблений для цих мовчаливих працівників.
 
 ent-ClothingBackpackChemistry = рюкзак хіміка
     .desc = A backpack specially designed to repel stains and hazardous liquids.
@@ -70,6 +69,9 @@ ent-ClothingBackpackERTJanitor = рюкзак прибиральника ГШР
 
 ent-ClothingBackpackERTClown = рюкзак клоуна ГШР
     .desc = A spacious backpack with lots of pockets, worn by Clowns of an Emergency Response Team.
+
+ent-ClothingBackpackERTChaplain = ERT chaplain backpack
+    .desc = A spacious backpack with lots of pockets, worn by Chaplains of an Emergency Response Team.
 
 ent-ClothingBackpackSyndicate = рюкзак Синдиката
     .desc = { ent-ClothingBackpack.desc }

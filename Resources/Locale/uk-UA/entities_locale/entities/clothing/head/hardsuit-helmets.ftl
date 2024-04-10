@@ -75,6 +75,9 @@ ent-ClothingHeadHelmetHardsuitPirateCap = pirate captain's hardsuit helmet
 ent-ClothingHeadHelmetHardsuitERTLeader = ERT leader hardsuit helmet
     .desc = A special hardsuit helmet worn by members of an emergency response team.
 
+ent-ClothingHeadHelmetHardsuitERTChaplain = ERT chaplain hardsuit helmet
+    .desc = A special hardsuit helmet worn by members of an emergency response team.
+
 ent-ClothingHeadHelmetHardsuitERTEngineer = ERT engineer hardsuit helmet
     .desc = A special hardsuit helmet worn by members of an emergency response team.
 

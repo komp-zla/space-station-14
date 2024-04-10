@@ -24,9 +24,6 @@ ent-ClothingHeadHelmetJanitorBombSuit = janitorial bombsuit helmet
 ent-ClothingHeadHelmetCult = cult helmet
     .desc = A robust, evil-looking cult helmet.
 
-ent-ClothingHeadHelmetScaf = scaf helmet
-    .desc = A robust, strong helmet.
-
 ent-ClothingHeadHelmetSpaceNinja = space ninja helmet
     .desc = What may appear to be a simple black garment is in fact a highly sophisticated nano-weave helmet. Standard issue ninja gear.
 

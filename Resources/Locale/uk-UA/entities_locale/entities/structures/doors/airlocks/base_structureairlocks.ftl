@@ -1,3 +1,9 @@
-ent-Airlock = airlock
-    .desc = It opens, it closes, and maybe crushes you.
+ent-Airlock = шлюз
+    .desc = Відкривається, закривається й іноді зажимає.
+
+ent-AirlockRCDResistant = { ent-Airlock }
+    .desc = { ent-Airlock.desc }
+
+ent-AirlockGlass = скляний шлюз
+    .desc = { ent-Airlock.desc }
 

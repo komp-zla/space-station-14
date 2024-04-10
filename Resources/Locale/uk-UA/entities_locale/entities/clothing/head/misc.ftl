@@ -7,11 +7,8 @@ ent-ClothingHeadHatCake = cake hat
 ent-ClothingHeadHatChickenhead = chicken head
     .desc = It's a chicken head. Bok bok bok!
 
-ent-ClothingHeadHatFlowerCrown = flower crown
-    .desc = A coronet of fresh and fragrant flowers.
-
-ent-ClothingHeadHatHairflower = hairflower
-    .desc = A red flower for beautiful ladies.
+ent-ClothingHeadHatFlowerWreath = flower wreath
+    .desc = A wreath of colourful flowers. Can be worn both on head and neck.
 
 ent-ClothingHeadHatPumpkin = pumpkin hat
     .desc = A jack o' lantern! Believed to ward off evil spirits.

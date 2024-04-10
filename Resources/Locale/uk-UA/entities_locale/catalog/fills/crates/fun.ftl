@@ -57,10 +57,6 @@ ent-CrateFunBikeHornImplants = bike horn implants
 ent-CrateFunMysteryFigurines = mystery figure crate
     .desc = A collection of 10 Mystery Figurine boxes. Duplicates non refundable.
 
-ent-CrateFunSprayPaints = spray paint crate
-    .desc = a crate filled with spray paint.
-    .suffix = Spray Paint
-
 ent-CrateFunDartsSet = dartboard box set
     .desc = A box with everything you need for a fun game of darts.
 

@@ -1,4 +1,4 @@
-ent-MuzzleFlashEffect = 
+ent-MuzzleFlashEffect = ця сутність не має назви
 
 ent-BaseBullet = BaseBullet
     .desc = If you can see this you're probably dead!
@@ -68,6 +68,12 @@ ent-AnomalousParticleZetaStrong = { ent-AnomalousParticleZeta }
 
 ent-AnomalousParticleOmegaStrong = omega particles
     .desc = { ent-AnomalousParticleDelta.desc }
+
+ent-AnomalousParticleSigma = sigma particles
+    .desc = { ent-AnomalousParticleDelta.desc }
+
+ent-AnomalousParticleSigmaStrong = sigma particles
+    .desc = { ent-AnomalousParticleSigma.desc }
 
 ent-BulletRocket = rocket
     .desc = { ent-BaseBulletTrigger.desc }

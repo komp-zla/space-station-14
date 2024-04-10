@@ -7,6 +7,13 @@ ent-ClothingOuterBaseLarge = { ent-ClothingOuterBase }
 ent-ClothingOuterStorageBase = { ent-ClothingOuterBase }
     .desc = { ent-ClothingOuterBase.desc }
 
+ent-ClothingOuterStorageFoldableBase = { ent-[ClothingOuterStorageBase, BaseFoldable] }
+    .desc = { ent-[ClothingOuterStorageBase, BaseFoldable].desc }
+
+ent-ClothingOuterStorageFoldableBaseOpened = { ent-ClothingOuterStorageFoldableBase }
+    .desc = { ent-ClothingOuterStorageFoldableBase.desc }
+    .suffix = opened
+
 ent-ClothingOuterStorageToggleableBase = { ent-ClothingOuterStorageBase }
     .desc = { ent-ClothingOuterStorageBase.desc }
 

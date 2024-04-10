@@ -29,6 +29,9 @@ ent-DrinkSpaceMountainWindCan = space mountain wind can
 ent-DrinkSpaceUpCan = space-up can
     .desc = Tastes like a hull breach in your mouth.
 
+ent-DrinkSolDryCan = sol dry
+    .desc = Sweet ginger soda from outer space!
+
 ent-DrinkStarkistCan = starkist can
     .desc = The taste of a star in liquid form. And, a bit of tuna...?
 

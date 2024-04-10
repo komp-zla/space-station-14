@@ -122,6 +122,9 @@ ent-SpawnPointBrigmedic = brigmedic
 ent-SpawnPointERTLeader = ERTleader
     .desc = { ent-SpawnPointJobBase.desc }
 
+ent-SpawnPointERTChaplain = ERTchaplain
+    .desc = { ent-SpawnPointJobBase.desc }
+
 ent-SpawnPointERTEngineer = ERTengineer
     .desc = { ent-SpawnPointJobBase.desc }
 

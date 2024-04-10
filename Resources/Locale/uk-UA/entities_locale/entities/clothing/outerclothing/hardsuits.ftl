@@ -74,6 +74,9 @@ ent-ClothingOuterHardsuitPirateCap = pirate captain's hardsuit
 ent-ClothingOuterHardsuitERTLeader = ERT leader's hardsuit
     .desc = A protective hardsuit worn by the leader of an emergency response team.
 
+ent-ClothingOuterHardsuitERTChaplain = ERT chaplain's hardsuit
+    .desc = A protective hardsuit worn by the chaplains of an Emergency Response Team.
+
 ent-ClothingOuterHardsuitERTEngineer = ERT engineer's hardsuit
     .desc = A protective hardsuit worn by the engineers of an emergency response team.
 

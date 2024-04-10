@@ -12,6 +12,3 @@ ent-ClothingNeckLawyerbadge = lawyer badge
 
 ent-ActionStethoscope = Listen with stethoscope
 
-ent-ClothingNeckFlowerWreath = flower wreath
-    .desc = A wreath of colourful flowers.
-

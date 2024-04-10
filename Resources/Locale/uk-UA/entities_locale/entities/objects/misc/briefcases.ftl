@@ -2,12 +2,8 @@ ent-BriefcaseBase = { ent-BaseStorageItem }
     .desc = Useful for carrying items in your hands.
 
 ent-BriefcaseBrown = brown briefcase
-    .desc = A handy briefcase.
+    .desc = { ent-BriefcaseBase.desc }
 
-ent-BriefcaseSyndieBase = { ent-BriefcaseBase }
-    .desc = Useful for carrying items in your hands.
+ent-BriefcaseSyndie = { ent-BriefcaseBrown }
+    .desc = { ent-BriefcaseBrown.desc }
     .suffix = Syndicate, Empty
-
-ent-BriefcaseSyndie = brown briefcase
-    .desc = A handy briefcase.
-

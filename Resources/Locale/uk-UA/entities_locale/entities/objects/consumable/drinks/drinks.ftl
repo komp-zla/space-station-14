@@ -42,6 +42,10 @@ ent-DrinkAntifreeze = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
     .suffix = antifreeze
 
+ent-DrinkArnoldPalmer = { ent-DrinkGlass }
+    .desc = { ent-DrinkGlass.desc }
+    .suffix = arnold palmer
+
 ent-DrinkAtomicBombGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
     .suffix = atomic bomb
@@ -86,6 +90,10 @@ ent-DrinkBloodyMaryGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
     .suffix = bloody mary
 
+ent-DrinkBlueHawaiianGlass = { ent-DrinkGlass }
+    .desc = { ent-DrinkGlass.desc }
+    .suffix = blue hawaiian
+
 ent-DrinkBooger = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
     .suffix = booger
@@ -102,6 +110,14 @@ ent-DrinkChocolateGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
     .suffix = chocolate
 
+ent-DrinkCoconutRum = { ent-DrinkGlass }
+    .desc = { ent-DrinkGlass.desc }
+    .suffix = coconut rum
+
+ent-DrinkCoconutWaterGlass = { ent-DrinkGlass }
+    .desc = { ent-DrinkGlass.desc }
+    .suffix = coconut water
+
 ent-DrinkCoffee = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
     .suffix = coffee
@@ -109,6 +125,10 @@ ent-DrinkCoffee = { ent-DrinkGlass }
 ent-DrinkCognacGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
     .suffix = cognac
+
+ent-DrinkCosmopolitan = { ent-DrinkGlass }
+    .desc = { ent-DrinkGlass.desc }
+    .suffix = cosmopolitan
 
 ent-DrinkCream = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
@@ -314,9 +334,17 @@ ent-DrinkOrangeJuice = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
     .suffix = orange juice
 
+ent-DrinkPainkillerGlass = { ent-DrinkGlass }
+    .desc = { ent-DrinkGlass.desc }
+    .suffix = painkiller
+
 ent-DrinkPatronGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
     .suffix = patron
+
+ent-DrinkPinaColadaGlass = { ent-DrinkGlass }
+    .desc = { ent-DrinkGlass.desc }
+    .suffix = piña colada
 
 ent-DrinkPoisonBerryJuice = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
@@ -350,6 +378,10 @@ ent-DrinkRumGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
     .suffix = rum
 
+ent-DrinkRoyRogersGlass = { ent-DrinkGlass }
+    .desc = { ent-DrinkGlass.desc }
+    .suffix = roy rogers
+
 ent-DrinkSakeGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
     .suffix = sake
@@ -382,6 +414,10 @@ ent-DrinkGlassWhite = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
     .suffix = milk
 
+ent-DrinkShirleyTempleGlass = { ent-DrinkGlass }
+    .desc = { ent-DrinkGlass.desc }
+    .suffix = shirley temple
+
 ent-DrinkSilencerGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
     .suffix = silencer
@@ -389,6 +425,10 @@ ent-DrinkSilencerGlass = { ent-DrinkGlass }
 ent-DrinkSingulo = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
     .suffix = singulo
+
+ent-DrinkSolDryGlass = { ent-DrinkGlass }
+    .desc = { ent-DrinkGlass.desc }
+    .suffix = sol dry
 
 ent-DrinkSnowWhite = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }

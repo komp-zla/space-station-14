@@ -44,11 +44,9 @@ ent-BookRandom = { ent-BookBase }
     .desc = { ent-BookBase.desc }
     .suffix = random
 
-ent-BookEscalation = Robert's Rules of Escalation
-    .desc = The book is stained with blood. It seems to have been used more as a weapon than reading material.
-
-ent-BookEscalationSecurity = Robert's Rules of Escalation: Security Edition
-    .desc = The book is stained with blood. It seems to have been used more as a weapon than reading material.
+ent-BookRandomStory = { ent-BookRandom }
+    .desc = { ent-BookRandom.desc }
+    .suffix = random visual, random story
 
 ent-BookAtmosDistro = Newton's Guide to Atmos: The Distro
     .desc = There are endless illegible notes scribbled in the margins. Most of the text is covered in handwritten question marks.

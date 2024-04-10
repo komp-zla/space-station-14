@@ -4,9 +4,9 @@ ent-DrinkBottlePlasticBaseFull = { ent-DrinkBase }
 ent-DrinkBottleGlassBaseFull = { ent-DrinkBottlePlasticBaseFull }
     .desc = { ent-DrinkBottlePlasticBaseFull.desc }
 
-ent-DrinkBottleVisualsOpenable = 
+ent-DrinkBottleVisualsOpenable = ця сутність не має назви
 
-ent-DrinkBottleVisualsAll = 
+ent-DrinkBottleVisualsAll = ця сутність не має назви
 
 ent-DrinkAbsintheBottleFull = Jailbreaker Verte
     .desc = One sip of this and you just know you're gonna have a good time.
@@ -92,6 +92,9 @@ ent-DrinkSodaWaterBottleFull = soda water bottle
 ent-DrinkTonicWaterBottleFull = tonic water bottle
     .desc = Like soda water, but angrier maybe? Often sweeter.
 
+ent-DrinkSakeBottleFull = small sake bottle
+    .desc = The regret of the next morning seems to be nipping on the bottle too.
+
 ent-DrinkJuiceLimeCartonXL = lime juice XL
     .desc = Sweet-sour goodness.
 
@@ -113,6 +116,9 @@ ent-DrinkMeadJug = mead jug
 
 ent-DrinkIceJug = ice jug
     .desc = stubborn water. pretty cool.
+
+ent-DrinkCoconutWaterJug = coconut water jug
+    .desc = It's on the inside of the coconut that counts.
 
 ent-DrinkCoffeeJug = coffee jug
     .desc = wake up juice, of the heated kind.

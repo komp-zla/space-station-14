@@ -59,9 +59,6 @@ ent-AirlockHatch = airtight hatch
 ent-AirlockHatchMaintenance = maintenance hatch
     .desc = { ent-Airlock.desc }
 
-ent-AirlockGlass = glass airlock
-    .desc = { ent-Airlock.desc }
-
 ent-AirlockEngineeringGlass = { ent-AirlockGlass }
     .desc = { ent-AirlockGlass.desc }
     .suffix = Engineering

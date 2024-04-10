@@ -7,6 +7,9 @@ ent-CrateVendingMachineRestockChefvendFilled = ChefVend restock crate
 ent-CrateVendingMachineRestockClothesFilled = clothing restock crate
     .desc = Contains a pair of restock boxes, one for the ClothesMate and one for the AutoDrobe.
 
+ent-CrateVendingMachineRestockAutoDrobeFilled = AutoDrobe restock crate
+    .desc = Contains a restock box for the AutoDrobe.
+
 ent-CrateVendingMachineRestockCondimentStationFilled = condiment station restock crate
     .desc = Contains a restock box for the condiment station.
 

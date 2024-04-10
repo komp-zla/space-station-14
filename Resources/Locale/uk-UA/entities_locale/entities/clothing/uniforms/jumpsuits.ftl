@@ -289,6 +289,9 @@ ent-ClothingUniformJumpsuitMonasticRobeLight = light monastic robe
 ent-ClothingUniformJumpsuitMusician = musician's tuxedo
     .desc = A fancy tuxedo for the musically inclined.  Perfect for any lounge act!
 
+ent-ClothingUniformJumpsuitERTChaplain = ERT chaplain uniform
+    .desc = A special suit made for Central Command's elite chaplain corps.
+
 ent-ClothingUniformJumpsuitERTEngineer = ERT engineering uniform
     .desc = A special suit made for the elite engineers under CentCom.
 
