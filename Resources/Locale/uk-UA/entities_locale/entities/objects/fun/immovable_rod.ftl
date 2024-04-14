@@ -1,6 +1,9 @@
 ent-ImmovableRod = нерухомий жезл
     .desc = Ти можеш відчути що воно дуже голодне. Зазвчиай це дууужеее поганий знак.
 
+ent-ImmovableRodDespawn = { ent-ImmovableRod }
+    .desc = { ent-ImmovableRod.desc }
+
 ent-ImmovableRodSlow = { ent-ImmovableRod }
     .desc = { ent-ImmovableRod.desc }
     .suffix = Повільний
@@ -8,6 +11,10 @@ ent-ImmovableRodSlow = { ent-ImmovableRod }
 ent-ImmovableRodKeepTiles = { ent-ImmovableRod }
     .desc = { ent-ImmovableRod.desc }
     .suffix = Залишає тайли
+
+ent-ImmovableRodWizard = { ent-ImmovableRod }
+    .desc = { ent-ImmovableRod.desc }
+    .suffix = Wizard
 
 ent-ImmovableRodKeepTilesStill = { ent-ImmovableRodKeepTiles }
     .desc = { ent-ImmovableRodKeepTiles.desc }

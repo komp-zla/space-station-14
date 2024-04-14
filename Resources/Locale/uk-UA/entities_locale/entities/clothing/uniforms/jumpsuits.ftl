@@ -1,214 +1,163 @@
-ent-ClothingUniformJumpsuitDeathSquad = death squad uniform
+ent-ClothingUniformJumpsuitDeathSquad = форма загону смерті
     .desc = Advanced armored jumpsuit used by special forces in special operations.
 
-ent-ClothingUniformJumpsuitAncient = ancient jumpsuit
+ent-ClothingUniformJumpsuitAncient = давній комбінезон
     .desc = A terribly ragged and frayed grey jumpsuit. It looks like it hasn't been washed in over a decade.
 
-ent-ClothingUniformJumpsuitBartender = bartender's uniform
+ent-ClothingUniformJumpsuitBartender = форма бармена
     .desc = A nice and tidy uniform. Shame about the bar though.
 
-ent-ClothingUniformJumpsuitJacketMonkey = bartender's jacket monkey
+ent-ClothingUniformJumpsuitJacketMonkey = жакетка бармена-мавпи
     .desc = A decent jacket, for a decent monkey.
 
-ent-ClothingUniformJumpsuitBartenderPurple = purple bartender's uniform
+ent-ClothingUniformJumpsuitBartenderPurple = фіолетова форма бармена
     .desc = A special purple outfit to serve drinks.
 
-ent-ClothingUniformJumpsuitCaptain = captain's jumpsuit
+ent-ClothingUniformJumpsuitCaptain = комбінезон капітана
     .desc = It's a blue jumpsuit with some gold markings denoting the rank of "Captain".
 
-ent-ClothingUniformJumpsuitCargo = cargo tech jumpsuit
+ent-ClothingUniformJumpsuitCargo = комбінезон вантажника
     .desc = A sturdy jumpsuit, issued to members of the Cargo department.
 
-ent-ClothingUniformJumpsuitSalvageSpecialist = salvage specialist's jumpsuit
+ent-ClothingUniformJumpsuitSalvageSpecialist = комбінезон шахтаря
     .desc = It's a snappy jumpsuit with a sturdy set of overalls. It's very dirty.
 
-ent-ClothingUniformJumpsuitChiefEngineer = chief engineer's jumpsuit
+ent-ClothingUniformJumpsuitChiefEngineer = комбінезон головного інженера
     .desc = It's a high visibility jumpsuit given to those engineers insane enough to achieve the rank of Chief Engineer. It has minor radiation shielding.
 
-ent-ClothingUniformJumpsuitChiefEngineerTurtle = chief engineer's turtleneck
+ent-ClothingUniformJumpsuitChiefEngineerTurtle = водолазка головного інженера
     .desc = A yellow turtleneck designed specifically for work in conditions of the engineering department.
 
-ent-ClothingUniformJumpsuitChaplain = chaplain's jumpsuit
+ent-ClothingUniformJumpsuitChaplain = комбінезон священика
     .desc = It's a black jumpsuit, often worn by religious folk.
 
-ent-ClothingUniformJumpsuitCentcomAgent = CentCom agent's jumpsuit
+ent-ClothingUniformJumpsuitCentcomAgent = комбінезон агента ЦентКома
     .desc = A suit worn by CentCom's legal team. Smells of burnt coffee.
 
-ent-ClothingUniformJumpsuitCentcomOfficial = CentCom official's jumpsuit
+ent-ClothingUniformJumpsuitCentcomOfficial = комбінезон представника ЦентКома
     .desc = It's a jumpsuit worn by CentCom's officials.
 
-ent-ClothingUniformJumpsuitCentcomOfficer = CentCom officer's jumpsuit
+ent-ClothingUniformJumpsuitCentcomOfficer = комбінезон офіцера ЦентКома
     .desc = It's a jumpsuit worn by CentCom Officers.
 
-ent-ClothingUniformJumpsuitChef = chef uniform
+ent-ClothingUniformJumpsuitChef = форма шефа
     .desc = Can't cook without this.
 
-ent-ClothingUniformJumpsuitChemistry = chemistry jumpsuit
+ent-ClothingUniformJumpsuitChemistry = комбінезон хіміка
     .desc = There's some odd stains on this jumpsuit. Hm.
 
-ent-ClothingUniformJumpsuitVirology = virology jumpsuit
+ent-ClothingUniformJumpsuitVirology = комбінезон віролога
     .desc = It's made of a special fiber that gives special protection against biohazards. It has a virologist rank stripe on it.
 
-ent-ClothingUniformJumpsuitGenetics = genetics jumpsuit
+ent-ClothingUniformJumpsuitGenetics = комбінезон генетика
     .desc = It's made of a special fiber that gives special protection against biohazards. It has a geneticist rank stripe on it.
 
-ent-ClothingUniformJumpsuitClown = clown suit
+ent-ClothingUniformJumpsuitClown = одяг клоуна
     .desc = HONK!
 
-ent-ClothingUniformJumpsuitClownBanana = banana clown suit
+ent-ClothingUniformJumpsuitClownBanana = банановий одяг клоуна
     .desc = { ent-ClothingUniformJumpsuitClown.desc }
 
-ent-ClothingUniformJumpsuitJester = jester suit
+ent-ClothingUniformJumpsuitJester = одяг шута
     .desc = A jolly dress, well suited to entertain your master, nuncle.
 
 ent-ClothingUniformJumpsuitJesterAlt = { ent-ClothingUniformJumpsuitJester }
     .desc = { ent-ClothingUniformJumpsuitJester.desc }
 
-ent-ClothingUniformJumpsuitCMO = chief medical officer's jumpsuit
+ent-ClothingUniformJumpsuitCMO = комбінезон головного лікаря
     .desc = It's a jumpsuit worn by those with the experience to be Chief Medical Officer. It provides minor biological protection.
 
 ent-ClothingUniformJumpsuitDetective = hard-worn suit
     .desc = Someone who wears this means business.
 
-ent-ClothingUniformJumpsuitDetectiveGrey = noir suit
+ent-ClothingUniformJumpsuitDetectiveGrey = нуарний одяг
     .desc = A hard-boiled private investigator's grey suit, complete with tie clip.
 
-ent-ClothingUniformJumpsuitEngineering = engineering jumpsuit
+ent-ClothingUniformJumpsuitEngineering = комбінезон інженера
     .desc = If this suit was non-conductive, maybe engineers would actually do their damn job.
 
-ent-ClothingUniformJumpsuitEngineeringHazard = hazard jumpsuit
+ent-ClothingUniformJumpsuitEngineeringHazard = захисний комбінезон
     .desc = Woven in a grungy, warm orange. Lets others around you know that you really mean business when it comes to work.
 
-ent-ClothingUniformJumpsuitHoP = head of personnel's jumpsuit
+ent-ClothingUniformJumpsuitHoP = комбінезон голови персоналу
     .desc = Rather bland and inoffensive. Perfect for vanishing off the face of the universe.
 
-ent-ClothingUniformJumpsuitHoS = head of security's jumpsuit
+ent-ClothingUniformJumpsuitHoS = комбінезон голови безпеки
     .desc = It's bright red and rather crisp, much like security's victims tend to be.
 
-ent-ClothingUniformJumpsuitHoSAlt = head of security's turtleneck
+ent-ClothingUniformJumpsuitHoSAlt = водолазка голови безпеки
     .desc = It's a turtleneck worn by those strong and disciplined enough to achieve the position of Head of Security.
 
-ent-ClothingUniformJumpsuitHoSBlue = head of security's blue jumpsuit
+ent-ClothingUniformJumpsuitHoSBlue = синій комбінезон голови безпеки
     .desc = A blue jumpsuit of Head of Security.
 
-ent-ClothingUniformJumpsuitHoSGrey = head of security's grey jumpsuit
+ent-ClothingUniformJumpsuitHoSGrey = сірий комбінезон голови безпеки
     .desc = A grey jumpsuit of Head of Security, which make him look somewhat like a passenger.
 
-ent-ClothingUniformJumpsuitHoSParadeMale = head of security's parade uniform
+ent-ClothingUniformJumpsuitHoSParadeMale = парадна форма голови безпеки
     .desc = A male head of security's luxury-wear, for special occasions.
 
-ent-ClothingUniformJumpsuitHydroponics = hydroponics jumpsuit
+ent-ClothingUniformJumpsuitHydroponics = комбінезон ботаніка
     .desc = Has a strong earthy smell to it. Hopefully it's merely dirty as opposed to soiled.
 
-ent-ClothingUniformJumpsuitJanitor = janitor jumpsuit
+ent-ClothingUniformJumpsuitJanitor = комбінезон прибиральника
     .desc = The jumpsuit for the poor sop with a mop.
 
-ent-ClothingUniformJumpsuitKimono = kimono
+ent-ClothingUniformJumpsuitKimono = кімоно
     .desc = traditional chinese clothing
 
-ent-ClothingUniformJumpsuitMedicalDoctor = medical doctor jumpsuit
+ent-ClothingUniformJumpsuitMedicalDoctor = комбінезон лікаря
     .desc = It's made of a special fiber that provides minor protection against biohazards. It has a cross on the chest denoting that the wearer is trained medical personnel.
 
-ent-ClothingUniformJumpsuitMime = mime suit
+ent-ClothingUniformJumpsuitMime = одяг міма
     .desc = ...
 
-ent-ClothingUniformJumpsuitParamedic = paramedic jumpsuit
+ent-ClothingUniformJumpsuitParamedic = комбінезон парамедика
     .desc = It's got a plus on it, that's a good thing right?
 
-ent-ClothingUniformJumpsuitBrigmedic = brigmedic jumpsuit
+ent-ClothingUniformJumpsuitBrigmedic = комбінезон брігмедика
     .desc = This uniform is issued to qualified personnel who have been trained. No one cares that the training took half a day.
 
-ent-ClothingUniformJumpsuitPrisoner = prisoner jumpsuit
+ent-ClothingUniformJumpsuitPrisoner = комбінезон ув'язненного
     .desc = Busted.
 
-ent-ClothingUniformJumpsuitQM = quartermaster's jumpsuit
+ent-ClothingUniformJumpsuitQM = комбінезон квартирмейтера
     .desc = 'What can brown do for you?'
 
-ent-ClothingUniformJumpsuitQMTurtleneck = quartermasters's turtleneck
+ent-ClothingUniformJumpsuitQMTurtleneck = водолазка квартирмейстера
     .desc = A sharp turtleneck made for the hardy work environment of supply.
 
-ent-ClothingUniformJumpsuitQMFormal = quartermasters's formal suit
+ent-ClothingUniformJumpsuitQMFormal = формальний одяг квартирмейстера
     .desc = Inspired by the quartermasters of military's past, the perfect outfit for supplying a formal occasion.
 
-ent-ClothingUniformJumpsuitResearchDirector = research director's turtleneck
+ent-ClothingUniformJumpsuitResearchDirector = водолазка наукового директора
     .desc = It's a turtleneck worn by those with the know-how to achieve the position of Research Director. Its fabric provides minor protection from biological contaminants.
 
-ent-ClothingUniformJumpsuitScientist = scientist jumpsuit
+ent-ClothingUniformJumpsuitScientist = комбінезон науковця
     .desc = It's made of a special fiber that provides minor protection against explosives. It has markings that denote the wearer as a scientist.
 
-ent-ClothingUniformJumpsuitScientistFormal = scientist's formal jumpsuit
+ent-ClothingUniformJumpsuitScientistFormal = формальний комбінезон науковця
     .desc = A uniform for sophisticated scientists, best worn with its matching tie.
 
-ent-ClothingUniformJumpsuitRoboticist = roboticist jumpsuit
+ent-ClothingUniformJumpsuitRoboticist = комбінезон роботоциста
     .desc = It's a slimming black with reinforced seams; great for industrial work.
 
-ent-ClothingUniformJumpsuitSec = security jumpsuit
+ent-ClothingUniformJumpsuitSec = комбінезон офіцера
     .desc = A jumpsuit made of strong material, providing robust protection.
 
 ent-ClothingUniformJumpsuitSecBlue = blue shirt and tie
     .desc = I'm a little busy right now, Calhoun.
 
-ent-ClothingUniformJumpsuitSecGrey = grey security jumpsuit
+ent-ClothingUniformJumpsuitSecGrey = сірий комбінезон офіцера
     .desc = A tactical relic of years past before Nanotrasen decided it was cheaper to dye the suits red instead of washing out the blood.
 
-ent-ClothingUniformJumpsuitWarden = warden's uniform
+ent-ClothingUniformJumpsuitWarden = форма наглядача
     .desc = A formal security suit for officers complete with Nanotrasen belt buckle.
-
-ent-ClothingUniformJumpsuitColorGrey = grey jumpsuit
-    .desc = A tasteful grey jumpsuit that reminds you of the good old days.
-
-ent-ClothingUniformJumpsuitColorBlack = black jumpsuit
-    .desc = A generic black jumpsuit with no rank markings.
-
-ent-ClothingUniformJumpsuitColorBlue = blue jumpsuit
-    .desc = A generic blue jumpsuit with no rank markings.
-
-ent-ClothingUniformJumpsuitColorGreen = green jumpsuit
-    .desc = A generic green jumpsuit with no rank markings.
-
-ent-ClothingUniformJumpsuitColorOrange = orange jumpsuit
-    .desc = Don't wear this near paranoid security officers.
-
-ent-ClothingUniformJumpsuitColorPink = pink jumpsuit
-    .desc = Just looking at this makes you feel fabulous.
-
-ent-ClothingUniformJumpsuitColorRed = red jumpsuit
-    .desc = A generic red jumpsuit with no rank markings.
-
-ent-ClothingUniformJumpsuitColorWhite = white jumpsuit
-    .desc = A generic white jumpsuit with no rank markings.
-
-ent-ClothingUniformJumpsuitColorYellow = yellow jumpsuit
-    .desc = A generic yellow jumpsuit with no rank markings.
-
-ent-ClothingUniformJumpsuitColorDarkBlue = dark blue jumpsuit
-    .desc = A generic dark blue jumpsuit with no rank markings.
-
-ent-ClothingUniformJumpsuitColorTeal = teal jumpsuit
-    .desc = A generic teal jumpsuit with no rank markings.
-
-ent-ClothingUniformJumpsuitColorPurple = purple jumpsuit
-    .desc = A generic purple jumpsuit with no rank markings.
-
-ent-ClothingUniformJumpsuitColorDarkGreen = dark green jumpsuit
-    .desc = A generic dark green jumpsuit with no rank markings.
-
-ent-ClothingUniformJumpsuitColorLightBrown = light brown jumpsuit
-    .desc = A generic light brown jumpsuit with no rank markings.
-
-ent-ClothingUniformJumpsuitColorBrown = brown jumpsuit
-    .desc = A generic brown jumpsuit with no rank markings.
-
-ent-ClothingUniformJumpsuitColorMaroon = maroon jumpsuit
-    .desc = A generic maroon jumpsuit with no rank markings.
-
-ent-ClothingUniformColorRainbow = rainbow jumpsuit
-    .desc = A multi-colored jumpsuit!
 
 ent-ClothingUniformOveralls = overalls
     .desc = Great for working outdoors.
 
-ent-ClothingUniformJumpsuitLibrarian = librarian jumpsuit
+ent-ClothingUniformJumpsuitLibrarian = комбінезон бібліотекаря
     .desc = A cosy green jumper fit for a curator of books.
 
 ent-ClothingUniformJumpsuitCurator = sensible suit
@@ -238,7 +187,7 @@ ent-ClothingUniformJumpsuitPyjamaSyndicatePink = pink syndicate pyjamas
 ent-ClothingUniformJumpsuitPyjamaSyndicateRed = red syndicate pyjamas
     .desc = For those long nights in perma.
 
-ent-ClothingUniformJumpsuitNanotrasen = nanotrasen jumpsuit
+ent-ClothingUniformJumpsuitNanotrasen = комбінезон нанотрайзена
     .desc = A stately blue jumpsuit to represent NanoTrasen.
 
 ent-ClothingUniformJumpsuitCapFormal = captain's formal suit
@@ -250,28 +199,28 @@ ent-ClothingUniformJumpsuitCentcomFormal = central command formal suit
 ent-ClothingUniformJumpsuitHosFormal = hos's formal suit
     .desc = A suit for special occasions.
 
-ent-ClothingUniformJumpsuitOperative = operative jumpsuit
+ent-ClothingUniformJumpsuitOperative = комбінезон оперативника
     .desc = Uniform for elite syndicate operatives performing tactical operations in deep space.
 
-ent-ClothingUniformJumpsuitTacticool = tacticool jumpsuit
+ent-ClothingUniformJumpsuitTacticool = тактікульний комбінезон
     .desc = Uniform for subpar operative LARPers performing tactical insulated glove theft in deep space.
 
-ent-ClothingUniformJumpsuitMercenary = mercenary jumpsuit
+ent-ClothingUniformJumpsuitMercenary = комбінезон найманця
     .desc = Clothing for real mercenaries who have gone through fire, water and the jungle of planets flooded with dangerous monsters or targets for which a reward has been assigned.
 
-ent-ClothingUniformJumpsuitNinja = ninja jumpsuit
+ent-ClothingUniformJumpsuitNinja = комбінезон ніндзі
     .desc = Comfortable ninja suit, for convenience when relaxing and when you need to practice.
 
-ent-ClothingUniformJumpsuitAtmos = atmospheric technician jumpsuit
+ent-ClothingUniformJumpsuitAtmos = комбінезон атмосферного техника
     .desc = I am at work. I can't leave work. Work is breathing. I am testing air quality.
 
-ent-ClothingUniformJumpsuitAtmosCasual = atmospheric technician's casual jumpsuit
+ent-ClothingUniformJumpsuitAtmosCasual = повсякденний комбінезон атмосферного техника
     .desc = Might as well relax with a job as easy as yours.
 
-ent-ClothingUniformJumpsuitPsychologist = psychologist suit
+ent-ClothingUniformJumpsuitPsychologist = одяг психолога
     .desc = I don't lose things. I place things in locations which later elude me.
 
-ent-ClothingUniformJumpsuitReporter = reporter suit
+ent-ClothingUniformJumpsuitReporter = одяг репортера
     .desc = A good reporter remains a skeptic all their life.
 
 ent-ClothingUniformJumpsuitSafari = safari suit
@@ -335,22 +284,22 @@ ent-ClothingUniformJumpsuitHawaiYellow = yellow hawaiian shirt
 ent-ClothingUniformJumpsuitSyndieFormal = syndicate formal suit
     .desc = The syndicate's uniform is made in an elegant style, it's even a pity to do dirty tricks in this.
 
-ent-ClothingUniformJumpsuitFlannel = flannel jumpsuit
+ent-ClothingUniformJumpsuitFlannel = фланельний комбінезон
     .desc = Smells like someones been grillin'.
 
-ent-ClothingUniformJumpsuitSeniorEngineer = senior engineer jumpsuit
+ent-ClothingUniformJumpsuitSeniorEngineer = комбінезон старшого інженера
     .desc = A sign of skill and prestige within the engineering department.
 
-ent-ClothingUniformJumpsuitSeniorResearcher = senior researcher jumpsuit
+ent-ClothingUniformJumpsuitSeniorResearcher = комбінезон старшого науковця
     .desc = A sign of skill and prestige within the science department.
 
-ent-ClothingUniformJumpsuitSeniorPhysician = senior physician jumpsuit
+ent-ClothingUniformJumpsuitSeniorPhysician = комбінезон старшого лікаря
     .desc = A sign of skill and prestige within the medical department.
 
-ent-ClothingUniformJumpsuitSeniorOfficer = senior officer jumpsuit
+ent-ClothingUniformJumpsuitSeniorOfficer = комбінезон старшого офіцера
     .desc = A sign of skill and prestige within the security department.
 
-ent-ClothingUniformJumpsuitWeb = web jumpsuit
+ent-ClothingUniformJumpsuitWeb = павутинний комбінезон
     .desc = Makes it clear that you are one with the webs.
 
 ent-ClothingUniformJumpsuitLoungewear = loungewear
@@ -359,13 +308,13 @@ ent-ClothingUniformJumpsuitLoungewear = loungewear
 ent-ClothingUniformJumpsuitGladiator = gladiator uniform
     .desc = Made for true gladiators (or Ash Walkers).
 
-ent-ClothingUniformJumpsuitCasualBlue = casual blue jumpsuit
+ent-ClothingUniformJumpsuitCasualBlue = повсякденний синій комбінезон
     .desc = A loose worn blue shirt with a grey pants, perfect for someone looking to relax.
 
-ent-ClothingUniformJumpsuitCasualPurple = casual purple jumpsuit
+ent-ClothingUniformJumpsuitCasualPurple = повсякденний фіолетовий комбінезон
     .desc = A loose worn purple shirt with a grey pants, perfect for someone looking to relax.
 
-ent-ClothingUniformJumpsuitCasualRed = casual red jumpsuit
+ent-ClothingUniformJumpsuitCasualRed = повсякденний червоний комбінезон
     .desc = A loose worn red shirt with a grey pants, perfect for someone looking to relax.
 
 ent-ClothingUniformJumpsuitFamilyGuy = familiar garbs

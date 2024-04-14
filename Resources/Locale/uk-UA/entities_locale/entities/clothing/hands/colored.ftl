@@ -1,40 +1,37 @@
-ent-ClothingHandsGlovesSyntheticBase = { ent-ClothingHandsButcherable }
-    .desc = { ent-ClothingHandsButcherable.desc }
-
-ent-ClothingHandsGlovesColorPurple = purple gloves
+ent-ClothingHandsGlovesColorPurple = фіолетові рукавички
     .desc = Regular purple gloves that do not keep you from frying.
 
-ent-ClothingHandsGlovesColorRed = red gloves
+ent-ClothingHandsGlovesColorRed = червоні рукавички
     .desc = Regular red gloves that do not keep you from frying.
 
-ent-ClothingHandsGlovesColorBlack = black gloves
-    .desc = Regular black gloves that do not keep you from frying.
-
-ent-ClothingHandsGlovesColorBlue = blue gloves
+ent-ClothingHandsGlovesColorBlue = сині рукавички
     .desc = Regular blue gloves that do not keep you from frying.
 
-ent-ClothingHandsGlovesColorBrown = brown gloves
+ent-ClothingHandsGlovesColorBrown = коричневі рукавички
     .desc = Regular brown gloves that do not keep you from frying.
 
-ent-ClothingHandsGlovesColorGray = grey gloves
+ent-ClothingHandsGlovesColorGray = сірі рукавички
     .desc = Regular grey gloves that do not keep you from frying.
 
-ent-ClothingHandsGlovesColorGreen = green gloves
+ent-ClothingHandsGlovesColorGreen = зелені рукавички
     .desc = Regular green gloves that do not keep you from frying.
 
-ent-ClothingHandsGlovesColorLightBrown = light brown gloves
+ent-ClothingHandsGlovesColorLightBrown = світло коричневі рукавички
     .desc = Regular light brown gloves that do not keep you from frying.
 
-ent-ClothingHandsGlovesColorOrange = orange gloves
+ent-ClothingHandsGlovesColorOrange = оранжеві рукавички
     .desc = Regular orange gloves that do not keep you from frying.
 
-ent-ClothingHandsGlovesColorWhite = white gloves
+ent-ClothingHandsGlovesColorWhite = білі рукавички
     .desc = Those gloves look fancy.
 
-ent-ClothingHandsGlovesColorYellow = insulated gloves
+ent-ClothingHandsGlovesColorBlack = чорні рукавички
+    .desc = Regular black gloves that do not keep you from frying.
+
+ent-ClothingHandsGlovesColorYellow = ізольовані рукавички
     .desc = These gloves will protect the wearer from electric shocks.
 
-ent-ClothingHandsGlovesColorYellowBudget = budget insulated gloves
+ent-ClothingHandsGlovesColorYellowBudget = бюджетні ізольовані рукавички
     .desc = These gloves are cheap knockoffs of the coveted ones - no way this can end badly.
 
 ent-ClothingHandsGlovesConducting = { ent-ClothingHandsGlovesColorYellow }

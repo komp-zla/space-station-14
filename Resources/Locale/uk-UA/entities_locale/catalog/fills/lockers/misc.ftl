@@ -1,28 +1,32 @@
 ent-LockerSyndicatePersonalFilled = { ent-LockerSyndicatePersonal }
     .desc = { ent-LockerSyndicatePersonal.desc }
-    .suffix = Filled
+    .suffix = Заповнений
 
 ent-ClosetEmergencyFilledRandom = { ent-ClosetEmergency }
     .desc = { ent-ClosetEmergency.desc }
-    .suffix = Filled, Random
+    .suffix = Заповнений, Випадковий
 
 ent-ClosetWallEmergencyFilledRandom = { ent-ClosetWallEmergency }
     .desc = { ent-ClosetWallEmergency.desc }
-    .suffix = Filled, Random
+    .suffix = Заповнений, Випадковий
+
+ent-ClosetEmergencyN2FilledRandom = { ent-ClosetEmergencyN2 }
+    .desc = { ent-ClosetEmergencyN2.desc }
+    .suffix = Заповнений, Випадковий
 
 ent-ClosetFireFilled = { ent-ClosetFire }
     .desc = { ent-ClosetFire.desc }
-    .suffix = Filled
+    .suffix = Заповнений
 
 ent-ClosetWallFireFilledRandom = { ent-ClosetWallFire }
     .desc = { ent-ClosetWallFire.desc }
-    .suffix = Filled
+    .suffix = Заповнений
 
 ent-ClosetMaintenanceFilledRandom = { ent-ClosetMaintenance }
     .desc = { ent-ClosetMaintenance.desc }
-    .suffix = Filled, Random
+    .suffix = Заповнений, Випадковий
 
 ent-ClosetWallMaintenanceFilledRandom = { ent-ClosetWall }
     .desc = { ent-ClosetWall.desc }
-    .suffix = Filled, Random
+    .suffix = Заповнений, Випадковий
 
