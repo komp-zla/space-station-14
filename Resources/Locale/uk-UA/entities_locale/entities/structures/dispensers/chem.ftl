@@ -1,4 +1,4 @@
-ent-ChemDispenser = chemical dispenser
+ent-ChemDispenser = хімічний дозатор
     .desc = An industrial grade chemical dispenser.
     .suffix = Filled
 

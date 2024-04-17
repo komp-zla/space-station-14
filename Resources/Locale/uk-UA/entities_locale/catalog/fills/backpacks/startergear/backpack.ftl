@@ -28,6 +28,9 @@ ent-ClothingBackpackResearchDirectorFilled = { ent-ClothingBackpackScience }
 ent-ClothingBackpackHOPFilled = { ent-ClothingBackpack }
     .desc = { ent-ClothingBackpack.desc }
 
+ent-ClothingBackpackHOPIanFilled = { ent-ClothingBackpackIan }
+    .desc = { ent-ClothingBackpackIan.desc }
+
 ent-ClothingBackpackCMOFilled = { ent-ClothingBackpackMedical }
     .desc = { ent-ClothingBackpackMedical.desc }
 

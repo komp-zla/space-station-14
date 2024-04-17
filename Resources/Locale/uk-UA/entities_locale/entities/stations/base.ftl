@@ -1,5 +1,7 @@
 ent-BaseStation = ця сутність не має назви
 
+ent-BaseRandomStation = ця сутність не має назви
+
 ent-BaseStationCargo = ця сутність не має назви
 
 ent-BaseStationJobsSpawning = ця сутність не має назви
