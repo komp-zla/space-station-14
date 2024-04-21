@@ -4,8 +4,15 @@ ent-ClothingOuterCoatBomber = bomber jacket
 ent-ClothingOuterCoatDetective = detective trenchcoat
     .desc = A rugged canvas trenchcoat, designed and created by TX Fabrication Corp. Wearing it makes you feel for the plight of the Tibetans.
 
+ent-ClothingOuterCoatDetectiveLoadout = { ent-ClothingOuterCoatDetective }
+    .desc = { ent-ClothingOuterCoatDetective.desc }
+
 ent-ClothingOuterCoatGentle = gentle coat
     .desc = A gentle coat for a gentle man, or woman.
+
+ent-ClothingOuterArmorHoS = ця сутність не має назви
+
+ent-ClothingOuterArmorWarden = ця сутність не має назви
 
 ent-ClothingOuterCoatHoSTrench = head of security's armored trenchcoat
     .desc = A greatcoat enhanced with a special alloy for some extra protection and style for those with a commanding presence.

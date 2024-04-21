@@ -1,3 +1,6 @@
-ent-MobLaserRaptor = laser raptor
-    .desc = From the Viking age.
+ent-MobLaserRaptor = лазерний раптор
+    .desc = Прямиком зі століття вікингів.
+
+ent-MobTomatoKiller = томат-вбивця
+    .desc = Щож, напевно сьогодні не той день коли ти їш томати, а той коли томати їдять тебе.
 

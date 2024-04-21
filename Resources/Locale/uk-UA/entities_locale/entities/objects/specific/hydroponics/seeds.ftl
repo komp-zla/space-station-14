@@ -61,6 +61,9 @@ ent-BlueTomatoSeeds = packet of blue tomato seeds
 ent-BloodTomatoSeeds = packet of blood tomato seeds
     .desc = { ent-SeedBase.desc }
 
+ent-KillerTomatoSeeds = packet of killer tomato seeds
+    .desc = { ent-SeedBase.desc }
+
 ent-EggplantSeeds = packet of eggplant seeds
     .desc = { ent-SeedBase.desc }
 

@@ -43,9 +43,6 @@ ent-DiagnoserMachineCircuitboard = плата диагнозеру
 ent-ArtifactAnalyzerMachineCircuitboard = плата анализатора артефактів
     .desc = A machine printed circuit board for an artifact analyzer.
 
-ent-TraversalDistorterMachineCircuitboard = плата traversal distorter
-    .desc = A machine printed circuit board for a traversal distorter.
-
 ent-ArtifactCrusherMachineCircuitboard = плата роздавлювача артефактів
     .desc = A machine printed circuit board for an artifact crusher.
 

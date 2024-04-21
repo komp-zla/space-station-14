@@ -46,6 +46,9 @@ ent-ClothingOuterWinterHoP = head of personnel's winter coat
 ent-ClothingOuterWinterHoS = head of security's winter coat
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
+ent-ClothingOuterWinterHoSUnarmored = head of security's winter coat
+    .desc = A sturdy coat, a warm coat, but not an armored coat.
+
 ent-ClothingOuterWinterHydro = hydroponics winter coat
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
@@ -84,6 +87,9 @@ ent-ClothingOuterWinterViro = virology winter coat
 
 ent-ClothingOuterWinterWarden = warden's armored winter coat
     .desc = A sturdy, utilitarian winter coat designed to protect a warden from any brig-bound threats and hypothermic events.
+
+ent-ClothingOuterWinterWardenUnarmored = warden's winter coat
+    .desc = A sturdy coat, a warm coat, but not an armored coat.
 
 ent-ClothingOuterWinterSyndieCap = syndicate's winter coat
     .desc = The syndicate's winter coat is made of durable fabric, with gilded patterns, and coarse wool.

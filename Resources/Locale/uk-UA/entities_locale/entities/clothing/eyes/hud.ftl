@@ -1,3 +1,5 @@
+ent-ShowSecurityIcons = ця сутність не має назви
+
 ent-ClothingEyesHudDiagnostic = diagnostic hud
     .desc = A heads-up display capable of analyzing the integrity and status of robotics and exosuits. Made out of see-borg-ium.
 
@@ -33,6 +35,9 @@ ent-ClothingEyesHudOmni = omni hud
 
 ent-ClothingEyesHudSyndicate = syndicate visor
     .desc = The syndicate's professional head-up display, designed for better detection of humanoids and their subsequent elimination.
+
+ent-ClothingEyesHudSyndicateAgent = syndicate agent visor
+    .desc = The Syndicate Agent's professional heads-up display, designed for quick diagnosis of their team's status.
 
 ent-ClothingEyesGlassesHiddenSecurity = { ent-ClothingEyesGlassesSunglasses }
     .desc = { ent-ClothingEyesGlassesSunglasses.desc }
