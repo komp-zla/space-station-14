@@ -1,24 +1,30 @@
-ent-MobAdultSlimes = basic slime
-    .desc = It looks so much like jelly. I wonder what it tastes like?
+ent-BaseMobAdultSlimes = базовий слайм
+    .desc = Виглядає як желе. Гм, який же він на смак?
 
-ent-MobAdultSlimesBlue = blue slime
+ent-MobAdultSlimes = базовий слайм
+    .desc = Виглядає як желе. Гм, який же він на смак?
+
+ent-MobSlimesGeras = герас
+    .desc = Герас слайма.
+
+ent-MobAdultSlimesBlue = синій слайм
     .desc = { ent-MobAdultSlimes.desc }
 
-ent-MobAdultSlimesBlueAngry = blue slime
+ent-MobAdultSlimesBlueAngry = синій слайм
     .desc = { ent-MobAdultSlimesBlue.desc }
-    .suffix = Angry
+    .suffix = Злий
 
-ent-MobAdultSlimesGreen = green slime
+ent-MobAdultSlimesGreen = зелений слайм
     .desc = { ent-MobAdultSlimes.desc }
 
-ent-MobAdultSlimesGreenAngry = green slime
+ent-MobAdultSlimesGreenAngry = зелений слайм
     .desc = { ent-MobAdultSlimesGreen.desc }
-    .suffix = Angry
+    .suffix = Злий
 
-ent-MobAdultSlimesYellow = yellow slime
+ent-MobAdultSlimesYellow = жовтий слайм
     .desc = { ent-MobAdultSlimes.desc }
 
-ent-MobAdultSlimesYellowAngry = yellow slime
+ent-MobAdultSlimesYellowAngry = жовтий слайм
     .desc = { ent-MobAdultSlimesYellow.desc }
-    .suffix = Angry
+    .suffix = Злий
 

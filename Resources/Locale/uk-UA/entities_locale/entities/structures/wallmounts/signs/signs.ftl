@@ -55,6 +55,9 @@ ent-SignDirectionalJanitor = janitor sign
 ent-SignDirectionalLibrary = library sign
     .desc = A direction sign, pointing out which way the library is.
 
+ent-SignDirectionalExit = exit sign
+    .desc = A directional sign pointing toward the nearest exit.
+
 ent-SignDirectionalMed = medical sign
     .desc = A direction sign, pointing out which way the Medical department is.
 

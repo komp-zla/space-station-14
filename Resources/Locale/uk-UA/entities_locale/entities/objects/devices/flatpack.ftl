@@ -1,4 +1,4 @@
-ent-BaseFlatpack = base flatpack
+ent-BaseFlatpack = базовий флетпак
     .desc = A flatpack used for constructing something.
 
 ent-SolarAssemblyFlatpack = solar assembly flatpack
@@ -16,6 +16,9 @@ ent-RadiationCollectorFlatpack = radiation collector flatpack
 ent-ContainmentFieldGeneratorFlatpack = containment field generator flatpack
     .desc = A flatpack used for constructing a containment field generator.
 
+ent-EmitterFlatpack = emitter flatpack
+    .desc = A flatpack used for constructing an emitter.
+
 ent-TeslaGeneratorFlatpack = tesla generator flatpack
     .desc = A flatpack used for constructing a tesla generator.
 
@@ -30,4 +33,3 @@ ent-GyroscopeFlatpack = gyroscope flatpack
 
 ent-ThrusterFlatpack = thruster flatpack
     .desc = A flatpack used for constructing a thruster.
-
