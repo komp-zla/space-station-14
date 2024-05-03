@@ -55,9 +55,6 @@ ent-RandomSentience = { ent-BaseGameRule }
 ent-SolarFlare = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
 
-ent-TerminatorSpawn = { ent-BaseGameRule }
-    .desc = { ent-BaseGameRule.desc }
-
 ent-VentClog = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
 
@@ -77,6 +74,9 @@ ent-ZombieOutbreak = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
 
 ent-LoneOpsSpawn = { ent-BaseGameRule }
+    .desc = { ent-BaseGameRule.desc }
+
+ent-SleeperAgentsRule = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
 
 ent-MassHallucinations = { ent-BaseGameRule }

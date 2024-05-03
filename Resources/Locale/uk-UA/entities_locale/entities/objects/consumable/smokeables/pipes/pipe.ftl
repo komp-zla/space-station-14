@@ -1,11 +1,15 @@
-ent-SmokingPipe = pipe
-    .desc = Just like grandpappy used to smoke.
+ent-SmokingPipe = трубка
+    .desc = Прямо як у прадіда.
 
-ent-SmokingPipeFilledTobacco = pipe
-    .desc = Just like grandpappy used to smoke.
-    .suffix = Tobacco
+ent-SmokingPipeFilledTobacco = { ent-SmokingPipe }
+    .desc = { ent-SmokingPipe.desc }
+    .suffix = Табак
 
-ent-SmokingPipeFilledCannabis = pipe
-    .desc = Just like grandpappy used to smoke.
-    .suffix = Cannabis
+ent-SmokingPipeFilledCannabis = { ent-SmokingPipe }
+    .desc = { ent-SmokingPipe.desc }
+    .suffix = Канабіс
+
+ent-SmokingPipeFilledCannabisRainbow = { ent-SmokingPipe }
+    .desc = { ent-SmokingPipe.desc }
+    .suffix = Веселковий канабіс
 

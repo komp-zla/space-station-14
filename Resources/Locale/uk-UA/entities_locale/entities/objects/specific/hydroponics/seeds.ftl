@@ -85,6 +85,9 @@ ent-TobaccoSeeds = packet of tobacco seeds
 ent-CannabisSeeds = packet of cannabis seeds
     .desc = Taxable.
 
+ent-RainbowCannabisSeeds = packet of rainbow cannabis seeds
+    .desc = These seeds grow into rainbow weed. Groovy... and also highly addictive.
+
 ent-NettleSeeds = packet of nettle seeds
     .desc = Handle with gloves.
 
@@ -164,5 +167,8 @@ ent-PumpkinSeeds = packet of pumpkin seeds
     .desc = { ent-SeedBase.desc }
 
 ent-CottonSeeds = packet of cotton seeds
+    .desc = { ent-SeedBase.desc }
+
+ent-PyrottonSeeds = packet of pyrotton seeds
     .desc = { ent-SeedBase.desc }
 

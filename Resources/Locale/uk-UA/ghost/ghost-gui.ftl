@@ -11,6 +11,8 @@ ghost-gui-toggle-hearing-popup-off = Ви тепер чуєте тільки р�
 ghost-target-window-title = Телепортуватися
 ghost-target-window-current-button = До: {$name}
 
+ghost-target-window-warp-to-most-followed = Телепортуватися до найвідомого
+
 ghost-roles-window-title = Ролі для привидів
 ghost-roles-window-request-role-button = Запросити
 ghost-roles-window-request-role-button-timer = Запросити через ({$time}с)

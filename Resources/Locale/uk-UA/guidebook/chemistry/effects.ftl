@@ -41,9 +41,9 @@ reagent-effect-guidebook-foam-area-reaction-effect =
     { $chance ->
         [1] Creates
         *[other] create
-    } large quantities of foam
+    } large quantities of smoke
 
-reagent-effect-guidebook-foam-area-reaction-effect =
+reagent-effect-guidebook-smoke-area-reaction-effect =
     { $chance ->
         [1] Creates
         *[other] create
@@ -335,12 +335,18 @@ reagent-effect-guidebook-cause-zombie-infection =
 
 reagent-effect-guidebook-innoculate-zombie-infection =
     { $chance ->
-        [1] Cures
-        *[other] cure
-    } an ongoing zombie infection, and provides immunity to future infections
+        [1] Лікує
+        *[other] лікує
+    } діюче зараження зомбі-вірусом, та дає імунитет проти майбутніх заражень.
+
+reagent-effect-guidebook-reduce-rotting = 
+    { $chance ->
+        [1] Regenerates
+        *[other] regenerate
+    } {NATURALFIXED($time, 3)} {MANY("second", $time)} of rotting
 
 reagent-effect-guidebook-missing =
     { $chance ->
-        [1] Causes
-        *[other] cause
-    } an unknown effect as nobody has written this effect yet
+        [1] Викликає
+        *[other] викликає
+    } невідомий ефект, так як ніхто ще не написав його.

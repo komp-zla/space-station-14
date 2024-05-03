@@ -114,3 +114,6 @@ ent-BorgModuleEsword = energy sword cyborg module
 ent-BorgModuleL6C = L6C ROW cyborg module
     .desc = A module that comes with a L6C.
 
+ent-BorgModuleMartyr = martyr cyborg module
+    .desc = A module that comes with an explosive you probably don't want to handle yourself.
+

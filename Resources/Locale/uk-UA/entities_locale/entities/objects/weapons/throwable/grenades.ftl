@@ -12,6 +12,9 @@ ent-GrenadeFlashEffect = DO NOT TRANSLATE
 ent-SyndieMiniBomb = syndicate minibomb
     .desc = A syndicate-manufactured explosive used to stow destruction and cause chaos.
 
+ent-SelfDestructSeq = Self Destruct
+    .desc = Go out on your own terms!
+
 ent-SupermatterGrenade = supermatter grenade
     .desc = Grenade that simulates delamination of the supermatter engine, pulling things in a heap and exploding after some time.
 

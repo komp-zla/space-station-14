@@ -35,11 +35,11 @@ ent-LockerFreezerBase = холодильник
     .desc = { ent-LockerBase.desc }
     .suffix = без доступу
 
-ent-LockerFreezer = холодьник
+ent-LockerFreezer = холодильник
     .desc = { ent-LockerFreezerBase.desc }
     .suffix = Кухня, Зачинена
 
-ent-LockerBotanist = шафка ботаніста
+ent-LockerBotanist = шафка ботаника
     .desc = { ent-LockerBase.desc }
 
 ent-LockerMedicine = шафка ліків
