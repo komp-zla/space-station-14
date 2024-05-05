@@ -4,11 +4,11 @@ ent-DrinkBase = { ent-BaseItem }
 ent-DrinkGlassBase = { ent-DrinkBase }
     .desc = { ent-DrinkBase.desc }
 
-ent-DrinkGlass = metamorphic glass
-    .desc = A metamorphic glass that automagically turns into a glass appropriate for the drink within. There's a sanded off patent number on the bottom.
+ent-DrinkGlass = метаморфний стакан
+    .desc = Метаморфний стакан, який автоматично перетворюється на підходячий під напій стакан. На дні є затертий номер патенту.
 
-ent-DrinkGlassCoupeShaped = coupe glass
-    .desc = A classic thin neck coupe glass, the icon of fragile labels on crates around the galaxy.
+ent-DrinkGlassCoupeShaped = бокал
+    .desc = Класичній стакан з тонкою шійкою - бокал. Ви можете його знати по іконці "Увага, крихке".
 
 ent-DrinkAbsintheGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
@@ -102,6 +102,10 @@ ent-DrinkBraveBullGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
     .suffix = brave bull
 
+ent-BudgetInsulsDrinkGlass = { ent-DrinkGlass }
+    .desc = { ent-DrinkGlass.desc }
+    .suffix = budget insuls
+
 ent-DrinkCarrotJuice = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
     .suffix = carrot juice
@@ -109,6 +113,10 @@ ent-DrinkCarrotJuice = { ent-DrinkGlass }
 ent-DrinkChocolateGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
     .suffix = chocolate
+
+ent-RubberneckGlass = { ent-DrinkGlass }
+    .desc = { ent-DrinkGlass.desc }
+    .suffix = rubberneck
 
 ent-DrinkCoconutRum = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
@@ -241,6 +249,10 @@ ent-DrinkIceGlass = { ent-DrinkGlass }
 ent-DrinkIceCreamGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
     .suffix = ice cream
+
+ent-IrishBoolGlass = { ent-DrinkGlass }
+    .desc = { ent-DrinkGlass.desc }
+    .suffix = irish bool
 
 ent-DrinkIrishCarBomb = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
@@ -493,6 +505,10 @@ ent-DrinkVodkaMartiniGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
     .suffix = vodka martini
 
+ent-DrinkVodkaRedBool = { ent-DrinkGlass }
+    .desc = { ent-DrinkGlass.desc }
+    .suffix = vodka red bool
+
 ent-DrinkVodkaTonicGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
     .suffix = vodka tonic
@@ -503,6 +519,10 @@ ent-DrinkWaterJug = water jug
 ent-DrinkWatermelonJuice = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
     .suffix = watermelon juice
+
+ent-DrinkWatermelonWakeup = { ent-DrinkGlass }
+    .desc = { ent-DrinkGlass.desc }
+    .suffix = watermelon wakeup
 
 ent-DrinkWhiskeyColaGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
@@ -523,6 +543,10 @@ ent-DrinkWhiteRussianGlass = { ent-DrinkGlass }
 ent-DrinkWineGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
     .suffix = wine
+
+ent-XenoBasherGlass = { ent-DrinkGlass }
+    .desc = { ent-DrinkGlass.desc }
+    .suffix = xeno basher
 
 ent-DrinkShakeBlue = blue milkshake
     .desc = ''

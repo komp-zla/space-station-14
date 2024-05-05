@@ -1,11 +1,11 @@
 reagent-name-absinthe = абсент
-reagent-desc-absinthe = A anise-flavoured spirit derived from botanicals.
+reagent-desc-absinthe = Спирт зі смаком анісу, отриманий з рослинної сировини.
 
 reagent-name-ale = ель
-reagent-desc-ale = A dark alchoholic beverage made by malted barley and yeast.
+reagent-desc-ale = Темний алкогольний напій, виготовлений на основі солодового ячменю та дріжджів.
 
 reagent-name-beer = пиво
-reagent-desc-beer = An alcoholic beverage made from malted grains, hops, yeast, and water.
+reagent-desc-beer = Алкогольний напій, виготовлений із солоджених зерен, хмелю, дріжджів і води.
 
 reagent-name-blue-curacao = блакитне кюрасао
 reagent-desc-blue-curacao = Exotically blue, fruity drink, distilled from oranges.
@@ -261,3 +261,21 @@ reagent-desc-whiskey-soda = For the more refined griffon.
 
 reagent-name-white-russian = білорус
 reagent-desc-white-russian = That's just, like, your opinion, man...
+
+reagent-name-vodka-red-bool = vodka red bool
+reagent-desc-vodka-red-bool = Because heart failure and liver failure go hand in hand.
+
+reagent-name-xeno-basher = xeno basher
+reagent-desc-xeno-basher = The perfect drink before an expedition.
+
+reagent-name-irish-bool = irish bool
+reagent-desc-irish-bool = Like a bool in a Ireland shop.
+
+reagent-name-budget-insuls = budget insuls
+reagent-desc-budget-insuls = A tider's preferred drink.
+
+reagent-name-watermelon-wakeup = watermelon wakeup
+reagent-desc-watermelon-wakeup = If you want to be awake, this will do it... Also sweet.
+
+reagent-name-rubberneck = rubberneck
+reagent-desc-rubberneck = A popular drink amongst those adhering to an all synthetic diet.
